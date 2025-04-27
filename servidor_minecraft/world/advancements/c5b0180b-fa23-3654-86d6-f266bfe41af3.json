@@ -1499,6 +1499,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/copper_ore": {
+    "criteria": {
+      "has_item": "2025-04-27 23:25:55 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/oak_compressed_sieve": {
     "criteria": {
       "has_item": "2025-04-27 22:07:56 +0000"
