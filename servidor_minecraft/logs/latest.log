@@ -3510,3 +3510,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [27Apr2025 23:26:18.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dabezmoon left the game
 [27Apr2025 23:29:10.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
 [27Apr2025 23:32:26.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Acquire Hardware]
+[27Apr2025 23:34:53.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vegetta777 lost connection: Disconnected
+[27Apr2025 23:34:53.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 left the game
+[27Apr2025 23:38:05.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vegetta777[/127.171.227.72:48357] logged in with entity id 2900 at (4127.175154022473, 71.0, 9.076640090524345)
+[27Apr2025 23:38:05.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 joined the game
+[27Apr2025 23:38:05.933] [Server thread/INFO] [Jade/]: Syncing config to Vegetta777 (141af666-eaa0-3364-88ee-91f097a68c58)
+[27Apr2025 23:38:05.934] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 1 (-2 unused), uncached profiles: 0, total profiles: 3
