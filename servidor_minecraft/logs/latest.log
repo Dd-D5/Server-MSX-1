@@ -3345,3 +3345,25 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [27Apr2025 21:58:29.778] [Server thread/INFO] [Jade/]: Syncing config to Dabezmoon (c5b0180b-fa23-3654-86d6-f266bfe41af3)
 [27Apr2025 21:58:29.780] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 1 (-1 unused), uncached profiles: 0, total profiles: 2
 [27Apr2025 21:58:29.781] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: First time literal{}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dabezmoon '},hoverEvent=HoverEvent{action=<action show_entity>, value='net.minecraft.network.chat.HoverEvent$EntityTooltipInfo@2aeee378'},insertion=Dabezmoon}, siblings=[literal{Dabezmoon}]] joined. Putting into spawn team.
+[27Apr2025 22:03:52.296] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Created team Finjirkos (737ea0b5-f3a8-423d-8427-94f4577a0fb3) at BlockPos{x=4096, y=64, z=0} with template cozy_cottage
+[27Apr2025 22:03:52.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Successfully created team Finjirkos.]
+[27Apr2025 22:03:52.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2657ms or 53 ticks behind
+[27Apr2025 22:04:24.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dabezmoon: Successfully joined team Finjirkos.]
+[27Apr2025 22:04:36.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Sweet Dreams]
+[27Apr2025 22:04:42.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dabezmoon has made the advancement [Sweet Dreams]
+[27Apr2025 22:04:56.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Monster Hunter]
+[27Apr2025 22:05:00.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Apothic Affixes]
+[27Apr2025 22:05:00.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [How'd You Get This?]
+[27Apr2025 22:05:00.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has reached the goal [Worthy Equipment]
+[27Apr2025 22:06:17.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dabezmoon has made the advancement [A Seedy Place]
+[27Apr2025 22:06:24.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dabezmoon moved too quickly! 0.0,401.9257968323203,0.0
+[27Apr2025 22:06:48.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dabezmoon fell from a high place
+[27Apr2025 22:06:48.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dabezmoon has made the advancement [Your First Grave]
+[27Apr2025 22:06:48.395] [Server thread/INFO] [tombstone/]: The player Dabezmoon has successfully been saved
+[27Apr2025 22:07:30.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dabezmoon was slain by Spider
+[27Apr2025 22:07:30.016] [Server thread/INFO] [tombstone/]: The player Dabezmoon has successfully been saved
+[27Apr2025 22:09:01.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dabezmoon has made the advancement [Not a Diamond]
+[27Apr2025 22:10:12.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 fell from a high place
+[27Apr2025 22:10:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Your First Grave]
+[27Apr2025 22:10:12.752] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[27Apr2025 22:10:19.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has reached the goal [Here They Come]
