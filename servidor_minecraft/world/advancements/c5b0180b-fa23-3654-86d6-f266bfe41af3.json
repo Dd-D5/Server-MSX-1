@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-04-27 22:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-04-27 22:18:09 +0000"
@@ -407,6 +413,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-04-27 22:48:35 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/stone_blacksmith_gavel": {
     "criteria": {
       "has_stone_tool_materials": "2025-04-27 22:34:19 +0000"
@@ -416,6 +428,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-04-27 21:58:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-27 22:46:41 +0000"
     },
     "done": true
   },
@@ -452,6 +470,18 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-04-27 22:06:19 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-04-27 22:48:35 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/bone_crook": {
+    "criteria": {
+      "has_item": "2025-04-27 22:48:35 +0000"
     },
     "done": true
   },
@@ -689,6 +719,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/gunpowder_from_pile_of_gunpowder": {
+    "criteria": {
+      "has_pile_of_gunpowder": "2025-04-27 22:46:27 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/building_blocks/edelwood_ladder": {
     "criteria": {
       "has_rods/wooden": "2025-04-27 22:18:09 +0000"
@@ -776,6 +812,12 @@
   "sophisticatedstorage:recipes/misc/generic_limited_barrel_4": {
     "criteria": {
       "has _plank": "2025-04-27 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-04-27 22:48:35 +0000"
     },
     "done": true
   },
@@ -914,6 +956,12 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-04-27 22:07:29 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/food/soul_wafer": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-27 22:46:41 +0000"
     },
     "done": true
   },
@@ -1079,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-27 22:48:35 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_sapling": "2025-04-27 22:08:12 +0000"
@@ -1166,6 +1220,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-27 22:34:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-27 22:46:41 +0000"
     },
     "done": true
   },
@@ -1295,6 +1355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-27 22:48:35 +0000"
+    },
+    "done": true
+  },
   "translocators:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_nugget": "2025-04-27 21:58:29 +0000"
@@ -1385,6 +1451,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-04-27 22:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-27 22:08:18 +0000"
@@ -1400,6 +1472,12 @@
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-04-27 22:48:19 +0000"
     },
     "done": true
   },
@@ -1486,6 +1564,13 @@
       "has_cobblestone": "2025-04-27 22:34:19 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-27 22:48:33 +0000",
+      "minecraft:creeper": "2025-04-27 22:48:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
