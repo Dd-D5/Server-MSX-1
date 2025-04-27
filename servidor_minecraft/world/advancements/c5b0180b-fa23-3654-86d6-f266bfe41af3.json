@@ -539,6 +539,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/blackstone": {
+    "criteria": {
+      "has_item": "2025-04-27 23:03:13 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/wooden_hammer": {
     "criteria": {
       "has_item": "2025-04-27 22:08:18 +0000"
@@ -833,6 +839,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/andesite": {
+    "criteria": {
+      "has_item": "2025-04-27 23:03:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-04-27 22:07:29 +0000"
@@ -1016,6 +1028,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_light_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-04-27 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cobblestone": {
+    "criteria": {
+      "has_item": "2025-04-27 23:02:11 +0000"
     },
     "done": true
   },
@@ -1499,6 +1517,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/granite": {
+    "criteria": {
+      "has_item": "2025-04-27 23:03:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-04-27 22:08:18 +0000"
@@ -1593,6 +1617,12 @@
   "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_axe": {
     "criteria": {
       "has_tool": "2025-04-27 22:13:01 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/diorite": {
+    "criteria": {
+      "has_item": "2025-04-27 23:03:23 +0000"
     },
     "done": true
   },
@@ -1847,6 +1877,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/basalt": {
+    "criteria": {
+      "has_item": "2025-04-27 23:03:17 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/food/utility/charcoal_from_campfire": {
     "criteria": {
       "has_logs": "2025-04-27 22:07:56 +0000"
@@ -1886,6 +1922,12 @@
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-04-27 21:58:29 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cobbled_deepslate": {
+    "criteria": {
+      "has_item": "2025-04-27 23:03:24 +0000"
     },
     "done": true
   },
