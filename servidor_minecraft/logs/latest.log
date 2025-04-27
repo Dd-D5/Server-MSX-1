@@ -3367,3 +3367,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [27Apr2025 22:10:12.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Your First Grave]
 [27Apr2025 22:10:12.752] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
 [27Apr2025 22:10:19.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has reached the goal [Here They Come]
+[27Apr2025 22:14:41.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Stone Age]
+[27Apr2025 22:17:27.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Give Him The Hook]
+[27Apr2025 22:19:52.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [This Looks Edible]
+[27Apr2025 22:22:24.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 was blown up by Creeper
+[27Apr2025 22:22:24.873] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved

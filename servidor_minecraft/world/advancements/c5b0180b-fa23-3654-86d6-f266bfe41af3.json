@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_magenta": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-04-27 22:07:29 +0000"
@@ -53,6 +59,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-27 22:20:06 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2025-04-27 22:08:18 +0000"
@@ -65,6 +77,12 @@
     },
     "done": false
   },
+  "utilitix:recipes/misc/directional_highspeed_rail": {
+    "criteria": {
+      "criterion1": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_blue_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-04-27 22:08:18 +0000"
@@ -74,6 +92,12 @@
   "framedblocks:recipes/building_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-04-27 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/armed_stand": {
+    "criteria": {
+      "criterion1": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -125,6 +149,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_green": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-27 22:08:18 +0000"
@@ -143,9 +179,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2025-04-27 21:58:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/directional_rail": {
+    "criteria": {
+      "criterion1": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/reinforced_rail": {
+    "criteria": {
+      "criterion2": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -161,9 +221,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2025-04-27 22:20:06 +0000"
+    },
+    "done": true
+  },
+  "productivetrees:recipes/misc/crates/red_delicious_apple_crate_unpack": {
+    "criteria": {
+      "has_apple": "2025-04-27 22:20:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-04-27 22:10:53 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/wood_gear": {
+    "criteria": {
+      "has_ingredient": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -227,9 +305,21 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/snad/drit": {
+    "criteria": {
+      "has_dirt": "2025-04-27 22:14:45 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-27 22:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -242,6 +332,12 @@
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2025-04-27 22:07:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -299,6 +395,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_orange": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/torch": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/prismarine": {
     "criteria": {
       "has_qq": "2025-04-27 21:58:29 +0000"
@@ -332,6 +440,12 @@
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_string": "2025-04-27 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-04-27 22:20:06 +0000"
     },
     "done": true
   },
@@ -395,9 +509,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-04-27 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/hand_bell": {
+    "criteria": {
+      "criterion0": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -452,6 +578,18 @@
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-04-27 22:10:53 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_ladder": {
+    "criteria": {
+      "has_rods/wooden": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-04-27 22:20:06 +0000"
     },
     "done": true
   },
@@ -545,6 +683,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_blue": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2025-04-27 21:58:29 +0000"
@@ -572,6 +716,12 @@
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_crop": "2025-04-27 22:06:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_gray": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -605,6 +755,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-04-27 22:07:56 +0000"
@@ -617,9 +773,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_lime": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-04-27 22:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-04-27 22:14:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-04-27 22:20:06 +0000"
     },
     "done": true
   },
@@ -638,6 +818,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-04-27 21:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -671,6 +857,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtain_rods": {
+    "criteria": {
+      "has_wood": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-27 22:07:29 +0000"
@@ -680,6 +872,18 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-04-27 22:09:01 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/weak_redstone_torch": {
+    "criteria": {
+      "criterion1": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -701,9 +905,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/no_soliciting_banner": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/oak_logs_to_stairs": {
     "criteria": {
       "has_log": "2025-04-27 22:07:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -725,9 +947,21 @@
     },
     "done": true
   },
+  "exdeorum:recipes/tools/crook": {
+    "criteria": {
+      "has_item": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-04-27 22:06:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -752,6 +986,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-04-27 22:06:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_purple": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -827,9 +1067,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_gray": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_light_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-04-27 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -875,9 +1127,21 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/highspeed_rail": {
+    "criteria": {
+      "criterion1": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "translocators:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_nugget": "2025-04-27 21:58:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -929,6 +1193,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-04-27 22:07:29 +0000"
@@ -953,6 +1223,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/oak_compressed_sieve": {
     "criteria": {
       "has_item": "2025-04-27 22:07:56 +0000"
@@ -962,6 +1238,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-27 22:06:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -1055,6 +1337,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/dirt_1x": {
+    "criteria": {
+      "has_dirt": "2025-04-27 22:14:45 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-04-27 21:58:29 +0000"
@@ -1064,6 +1352,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_blue_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-04-27 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -1087,6 +1381,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/timber_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak_planks": {
     "criteria": {
       "has_planks": "2025-04-27 22:08:18 +0000"
@@ -1096,6 +1396,12 @@
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2025-04-27 21:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -1127,6 +1433,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-04-27 22:07:56 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/wood_gear_corner": {
+    "criteria": {
+      "has_ingredient": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -1198,6 +1510,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/crank": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-04-27 22:07:29 +0000"
@@ -1216,9 +1534,27 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/rough_rod": {
+    "criteria": {
+      "has_item": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_dark": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-04-27 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -1276,6 +1612,12 @@
     },
     "done": true
   },
+  "productivetrees:recipes/misc/crates/red_delicious_apple_crate": {
+    "criteria": {
+      "has_apple": "2025-04-27 22:20:06 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-04-27 22:07:56 +0000"
@@ -1294,9 +1636,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/building_blocks/force_torch": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/wooden_blacksmith_gavel": {
     "criteria": {
       "has_planks": "2025-04-27 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-27 22:18:09 +0000"
     },
     "done": true
   },
@@ -1315,6 +1669,18 @@
   "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-04-27 22:07:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2025-04-27 22:18:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2025-04-27 22:20:06 +0000"
     },
     "done": true
   },
