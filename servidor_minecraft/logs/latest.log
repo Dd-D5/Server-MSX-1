@@ -3372,3 +3372,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [27Apr2025 22:19:52.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [This Looks Edible]
 [27Apr2025 22:22:24.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 was blown up by Creeper
 [27Apr2025 22:22:24.873] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[27Apr2025 22:24:04.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Annie the Curious'/1042, l='ServerLevel[world]', x=4129.50, y=70.81, z=14.50] died: Annie the Curious was slain by Vegetta777
+[27Apr2025 22:24:06.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Suit Up]
+[27Apr2025 22:24:06.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has completed the challenge [He Wasn't So Strong]
+[27Apr2025 22:26:22.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> q hace encima e u albol
+[27Apr2025 22:26:34.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dabezmoon> arreglando esto xd
+[27Apr2025 22:26:39.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> abueno
+[27Apr2025 22:26:45.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> a vaina señor
+[27Apr2025 22:26:46.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> xdddddddddd
+[27Apr2025 22:26:47.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> pera
+[27Apr2025 22:26:48.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dabezmoon> otro zombie
+[27Apr2025 22:26:49.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dabezmoon> xd
+[27Apr2025 22:27:30.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Maximillian the Sticky'/1104, l='ServerLevel[world]', x=4132.50, y=70.81, z=11.50] died: Maximillian the Sticky was slain by Vegetta777
+[27Apr2025 22:28:04.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [The Parrots and the Bats]
+[27Apr2025 22:28:09.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [A Seedy Place]
+[27Apr2025 22:30:32.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Getting an Upgrade]
+[27Apr2025 22:31:05.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 fell from a high place
+[27Apr2025 22:31:05.576] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
