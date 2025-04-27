@@ -652,7 +652,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-04-27 22:07:44 +0000"
+      "cooked_beef": "2025-04-27 22:07:44 +0000",
+      "bread": "2025-04-27 23:10:04 +0000"
     },
     "done": false
   },
@@ -3489,6 +3490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-27 23:10:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-04-27 22:59:49 +0000"
@@ -3507,9 +3514,39 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
+    "criteria": {
+      "has_item": "2025-04-27 23:10:30 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/coordinate_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-04-27 23:13:07 +0000"
+    },
+    "done": true
+  },
+  "modularrouters:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/stick_from_stone_axe": {
     "criteria": {
       "has_tool": "2025-04-27 22:56:18 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/flippers_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
     },
     "done": true
   },
@@ -3525,15 +3562,33 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/speed_upgrade_from_glycerol": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/stone_torch": {
     "criteria": {
       "has_item": "2025-04-27 22:59:47 +0000"
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/ender_visor_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-04-27 22:51:06 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/range_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
     },
     "done": true
   },
@@ -3555,9 +3610,27 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/speed_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-27 23:10:30 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/ores/tin_tag": {
     "criteria": {
       "has_item": "2025-04-27 23:00:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2025-04-27 23:13:07 +0000"
     },
     "done": true
   },
@@ -3585,6 +3658,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/cobblestone_2x": {
+    "criteria": {
+      "has_cobblestone_1x": "2025-04-27 23:07:56 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/sand_1x": {
     "criteria": {
       "has_sand": "2025-04-27 22:53:30 +0000"
@@ -3603,9 +3682,21 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/decompress/cobblestone_1x": {
+    "criteria": {
+      "has_cobblestone_1x": "2025-04-27 23:07:56 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bridge_lantern": {
     "criteria": {
       "has_planks": "2025-04-27 22:59:47 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/dispenser_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
     },
     "done": true
   },
@@ -3627,6 +3718,30 @@
     },
     "done": true
   },
+  "solargeneration:recipes/misc/lapis_shard": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/iron_block_from_blasting": {
+    "criteria": {
+      "has_raw_iron": "2025-04-27 23:10:30 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/stomp_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 22:52:24 +0000"
@@ -3636,6 +3751,18 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/barrel": {
+    "criteria": {
+      "has_barrel": "2025-04-27 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/charging_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
     },
     "done": true
   },
@@ -3663,6 +3790,18 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/iron_block_from_smelting": {
+    "criteria": {
+      "has_raw_iron": "2025-04-27 23:10:30 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 22:52:24 +0000"
@@ -3687,9 +3826,27 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/volume_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-27 23:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/item_life_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
     },
     "done": true
   },
@@ -3699,9 +3856,45 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/standby_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust": {
+    "criteria": {
+      "has_iron": "2025-04-27 23:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-04-27 23:10:26 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/clay_1x": {
+    "criteria": {
+      "has_clay": "2025-04-27 23:13:07 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/flint_mesh": {
     "criteria": {
       "has_item": "2025-04-27 22:59:49 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/gilded_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/armor_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
     },
     "done": true
   },
@@ -3720,6 +3913,12 @@
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2025-04-27 23:03:50 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/security_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
     },
     "done": true
   },
@@ -3771,6 +3970,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/search_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
   "exdeorum:core/string_mesh": {
     "criteria": {
       "has_string_mesh": "2025-04-27 22:51:22 +0000"
@@ -3795,6 +4006,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-04-27 23:10:26 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_iron": "2025-04-27 23:10:30 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/ores/zinc_tag": {
+    "criteria": {
+      "has_item": "2025-04-27 23:08:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 22:52:24 +0000"
@@ -3804,6 +4033,12 @@
   "exdeorum:recipes/misc/flint_mesh_from_string_mesh": {
     "criteria": {
       "has_item": "2025-04-27 22:59:49 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/inventory_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
     },
     "done": true
   },
@@ -3825,9 +4060,51 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/block_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-27 22:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-27 23:12:14 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/lapis_dust_from_gem": {
+    "criteria": {
+      "has_lapis_gem": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/minigun_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/entity_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-04-27 23:10:26 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/elytra_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
     },
     "done": true
   },
@@ -3840,6 +4117,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-04-27 22:53:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
     },
     "done": true
   },
