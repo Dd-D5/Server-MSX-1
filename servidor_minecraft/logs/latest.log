@@ -3389,3 +3389,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [27Apr2025 22:30:32.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Getting an Upgrade]
 [27Apr2025 22:31:05.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 fell from a high place
 [27Apr2025 22:31:05.576] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[27Apr2025 22:34:19.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dabezmoon has made the advancement [Stone Age]
+[27Apr2025 22:37:44.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vegetta777 lost connection: Disconnected
+[27Apr2025 22:37:44.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 left the game
