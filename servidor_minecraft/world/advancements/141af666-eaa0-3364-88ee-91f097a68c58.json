@@ -3508,6 +3508,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/aluminum_tag": {
+    "criteria": {
+      "has_item": "2025-04-27 23:15:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-27 23:03:50 +0000"
@@ -3529,6 +3535,12 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-04-27 23:13:07 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/ores/lead_tag": {
+    "criteria": {
+      "has_item": "2025-04-27 23:17:44 +0000"
     },
     "done": true
   },
@@ -3622,9 +3634,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-27 23:17:45 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/ores/tin_tag": {
     "criteria": {
       "has_item": "2025-04-27 23:00:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
     },
     "done": true
   },
@@ -3676,6 +3706,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/osmium_tag": {
+    "criteria": {
+      "has_item": "2025-04-27 23:17:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/planter_rich": {
     "criteria": {
       "has_bone_meal": "2025-04-27 22:51:06 +0000"
@@ -3685,6 +3721,18 @@
   "allthecompressed:recipes/building_blocks/decompress/cobblestone_1x": {
     "criteria": {
       "has_cobblestone_1x": "2025-04-27 23:07:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
     },
     "done": true
   },
@@ -3703,6 +3751,12 @@
   "croptopia:recipes/food/toast_from_bread": {
     "criteria": {
       "has_bread": "2025-04-27 22:51:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
     },
     "done": true
   },
@@ -3760,9 +3814,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/diorite_1x": {
+    "criteria": {
+      "has_diorite_1x": "2025-04-27 23:15:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/charging_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
     },
     "done": true
   },
@@ -3796,6 +3874,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
@@ -3814,6 +3904,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/tuff": {
+    "criteria": {
+      "has_item": "2025-04-27 23:18:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-04-27 22:51:06 +0000"
@@ -3829,6 +3925,18 @@
   "pneumaticcraft:recipes/misc/volume_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-27 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/calcite": {
+    "criteria": {
+      "has_item": "2025-04-27 23:18:37 +0000"
     },
     "done": true
   },
@@ -3862,15 +3970,39 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/calcite_1x": {
+    "criteria": {
+      "has_calcite": "2025-04-27 23:22:13 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/cobbled_deepslate_1x": {
+    "criteria": {
+      "has_cobbled_deepslate_1x": "2025-04-27 23:15:29 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/iron_dust": {
     "criteria": {
       "has_iron": "2025-04-27 23:10:26 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-04-27 23:10:26 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/ores/uranium_tag": {
+    "criteria": {
+      "has_item": "2025-04-27 23:18:50 +0000"
     },
     "done": true
   },
@@ -3910,9 +4042,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2025-04-27 23:03:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
     },
     "done": true
   },
@@ -3925,6 +4069,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-04-27 22:59:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
     },
     "done": true
   },
@@ -3949,6 +4099,12 @@
   "enderio:recipes/misc/conduit_binder_composite": {
     "criteria": {
       "has_ingredient_gravel": "2025-04-27 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
     },
     "done": true
   },
@@ -3994,6 +4150,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/ores/nickel_tag": {
     "criteria": {
       "has_item": "2025-04-27 22:51:59 +0000"
@@ -4024,6 +4186,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/cobbled_deepslate_2x": {
+    "criteria": {
+      "has_cobbled_deepslate_1x": "2025-04-27 23:15:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-27 22:52:24 +0000"
@@ -4048,6 +4216,18 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/diorite_2x": {
+    "criteria": {
+      "has_diorite_1x": "2025-04-27 23:15:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-04-27 22:53:30 +0000"
@@ -4069,6 +4249,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-27 22:59:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-04-27 23:22:13 +0000"
     },
     "done": true
   },
