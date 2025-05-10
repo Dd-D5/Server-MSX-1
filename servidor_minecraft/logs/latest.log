@@ -4998,3 +4998,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [10May2025 04:36:55.559] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [torchmaster:main,immersiveengineering:main,solargeneration:network,ae2insertexportcard:main_channel] rejected their client side version number
 [10May2025 04:36:55.560] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [10May2025 04:36:55.604] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@664a61ec[id=<null>,name=PepinilloDeLimon,properties={},legacy=false] (/127.56.145.168:51597) lost connection: Connection closed - mismatched mod channel list
+[10May2025 05:42:18.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vegetta777 lost connection: Disconnected
+[10May2025 05:42:18.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 left the game
