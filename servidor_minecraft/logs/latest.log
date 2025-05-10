@@ -4990,3 +4990,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [10May2025 04:01:32.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 joined the game
 [10May2025 04:01:32.904] [Server thread/INFO] [Jade/]: Syncing config to Vegetta777 (141af666-eaa0-3364-88ee-91f097a68c58)
 [10May2025 04:01:32.907] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 1 (-1 unused), uncached profiles: 0, total profiles: 2
+[10May2025 04:06:05.758] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62ffb4cb[id=<null>,name=PepinilloDeLimon,properties={},legacy=false] (/127.56.145.168:38971) lost connection: Disconnected
+[10May2025 04:13:21.255] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3762f61d[id=<null>,name=PepinilloDeLimon,properties={},legacy=false] (/127.56.145.168:35911) lost connection: Disconnected
