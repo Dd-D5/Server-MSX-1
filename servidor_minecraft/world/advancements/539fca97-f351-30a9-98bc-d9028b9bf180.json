@@ -4143,6 +4143,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/tools/force_arrow": {
+    "criteria": {
+      "has_feather": "2025-05-11 06:35:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
@@ -4152,6 +4158,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-11 04:41:58 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-11 06:44:42 +0000"
     },
     "done": true
   },
@@ -4206,6 +4218,12 @@
   "rftoolsbuilder:recipes/misc/vehicle_control_module": {
     "criteria": {
       "paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/dictionary_of_spirits": {
+    "criteria": {
+      "has_datura": "2025-05-11 06:39:18 +0000"
     },
     "done": true
   },
@@ -4929,6 +4947,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/smelting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2025-05-11 06:44:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
@@ -5112,6 +5136,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-05-11 04:51:31 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/electrum_mix": {
+    "criteria": {
+      "has_gold_dust": "2025-05-11 06:44:42 +0000"
     },
     "done": true
   },
@@ -5334,6 +5364,12 @@
   "rftoolsutility:recipes/rftoolsutility/screen_link": {
     "criteria": {
       "redstone": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust": {
+    "criteria": {
+      "has_silver": "2025-05-11 06:44:35 +0000"
     },
     "done": true
   },
@@ -5565,6 +5601,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 06:44:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-05-11 05:05:17 +0000"
@@ -5607,6 +5649,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2025-05-11 06:44:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-05-11 05:12:24 +0000"
@@ -5616,6 +5664,12 @@
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
+    "criteria": {
+      "has_datura": "2025-05-11 06:39:18 +0000"
     },
     "done": true
   },
@@ -5691,9 +5745,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 06:44:35 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-05-11 06:35:08 +0000"
     },
     "done": true
   },
@@ -5841,6 +5907,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_gold_dust": "2025-05-11 06:44:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/compression_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
@@ -5952,6 +6024,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-11 04:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-11 06:44:58 +0000"
     },
     "done": true
   },
@@ -6255,6 +6333,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2025-05-11 06:35:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
@@ -6447,6 +6531,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_axe": {
+    "criteria": {
+      "has_tool": "2025-05-11 06:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:27 +0000"
@@ -6456,6 +6546,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-11 06:03:18 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2025-05-11 06:36:39 +0000"
     },
     "done": true
   },
@@ -6612,6 +6708,12 @@
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/gold_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 06:44:42 +0000"
     },
     "done": true
   },
@@ -6855,6 +6957,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-05-11 06:35:08 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/redstone_clock": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:27 +0000"
@@ -6894,6 +7002,12 @@
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot": {
+    "criteria": {
+      "has_silver_ore": "2025-05-11 06:44:35 +0000"
     },
     "done": true
   },

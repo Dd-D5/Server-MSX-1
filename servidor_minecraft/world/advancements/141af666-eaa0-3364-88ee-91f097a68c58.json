@@ -1102,6 +1102,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-11 06:36:12 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/diamond_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-05-11 06:02:42 +0000"
@@ -1549,6 +1555,12 @@
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/merchant": {
+    "criteria": {
+      "sword": "2025-05-11 06:36:12 +0000"
     },
     "done": true
   },
@@ -2072,6 +2084,12 @@
   "exdeorum:recipes/misc/oak_crucible": {
     "criteria": {
       "has_item": "2025-05-11 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 06:41:39 +0000"
     },
     "done": true
   },
@@ -3030,6 +3048,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 06:41:39 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_pie": {
     "criteria": {
       "has_apple": "2025-05-11 03:23:19 +0000"
@@ -3192,6 +3216,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-05-11 06:36:12 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_whispering": {
     "criteria": {
       "has_logs": "2025-05-11 04:05:08 +0000"
@@ -3348,6 +3378,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 06:41:39 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/charging_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-11 05:35:02 +0000"
@@ -3420,6 +3456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-11 06:41:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-05-11 03:17:18 +0000"
@@ -3477,6 +3519,12 @@
   "utilitarian:recipes/misc/no_soliciting/restraining_order": {
     "criteria": {
       "has_lead": "2025-05-11 03:08:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_armor": "2025-05-11 06:36:12 +0000"
     },
     "done": true
   },
@@ -3789,6 +3837,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_light_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 06:41:39 +0000"
     },
     "done": true
   },
@@ -5106,6 +5160,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_shovel": {
+    "criteria": {
+      "has_tool": "2025-05-11 06:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-11 03:32:05 +0000"
@@ -5241,6 +5301,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-11 05:41:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 06:41:39 +0000"
     },
     "done": true
   },
@@ -5860,6 +5926,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_green_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-05-11 06:36:12 +0000"
     },
     "done": true
   },
@@ -6586,6 +6658,12 @@
   "rftoolsutility:recipes/rftoolsutility/counter_module": {
     "criteria": {
       "ingot": "2025-05-11 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-11 06:36:12 +0000"
     },
     "done": true
   },
