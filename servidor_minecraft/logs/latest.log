@@ -3658,3 +3658,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 07:07:56.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [The Alloy That Started it All]
 [11May2025 07:10:46.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Tricking a Rock Into Thinking]
 [11May2025 07:10:53.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Tricking a Rock Into Thinking]
+[11May2025 07:21:20.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [A Strange Grave Dust]
+[11May2025 07:24:15.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [A Strange Grave Dust]
+[11May2025 07:25:15.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved wrongly!

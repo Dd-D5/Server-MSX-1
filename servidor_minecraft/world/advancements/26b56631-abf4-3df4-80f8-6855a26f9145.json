@@ -1679,6 +1679,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-05-11 07:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-11 03:26:24 +0000"
@@ -1844,6 +1850,12 @@
   "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
     "criteria": {
       "has_item": "2025-05-11 06:49:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 07:16:36 +0000"
     },
     "done": true
   },
@@ -2922,6 +2934,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-05-11 07:23:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-11 03:39:40 +0000"
@@ -2931,6 +2949,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-11 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_alt_item": "2025-05-11 07:23:56 +0000"
     },
     "done": true
   },
@@ -5646,6 +5670,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 07:16:36 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/flint_mesh": {
     "criteria": {
       "has_item": "2025-05-11 03:40:57 +0000"
@@ -6066,6 +6096,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_osmium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2025-05-11 07:16:36 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/generic_barrel": {
     "criteria": {
       "has _plank": "2025-05-11 03:39:55 +0000"
@@ -6099,6 +6135,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-11 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-05-11 07:21:21 +0000"
     },
     "done": true
   },
@@ -6483,6 +6525,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-11 07:24:15 +0000"
     },
     "done": true
   },
@@ -7284,6 +7332,12 @@
   "exmachinis:recipes/misc/flux_sieve": {
     "criteria": {
       "has_sieve": "2025-05-11 03:40:32 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_raw": {
+    "criteria": {
+      "has_raw_osmium": "2025-05-11 07:16:36 +0000"
     },
     "done": true
   },

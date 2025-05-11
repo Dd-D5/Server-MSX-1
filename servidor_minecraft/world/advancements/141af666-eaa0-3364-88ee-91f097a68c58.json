@@ -526,6 +526,19 @@
     },
     "done": true
   },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2025-05-11 07:20:34 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/glue_ball": {
+    "criteria": {
+      "criterion0": "2025-05-11 07:20:48 +0000",
+      "criterion1": "2025-05-11 07:20:48 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
@@ -790,6 +803,12 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/lead_tagged": {
+    "criteria": {
+      "has_slime": "2025-05-11 07:20:48 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/sacrificial_dagger": {
     "criteria": {
       "has_glass": "2025-05-11 04:28:12 +0000"
@@ -913,6 +932,12 @@
   "utilitix:recipes/misc/mob_bell": {
     "criteria": {
       "criterion2": "2025-05-11 04:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-11 07:20:48 +0000"
     },
     "done": true
   },
@@ -1558,6 +1583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-11 07:20:48 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/shutters": {
     "criteria": {
       "has_wood": "2025-05-11 03:12:54 +0000"
@@ -1828,6 +1859,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 07:16:13 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
     "criteria": {
       "ingot": "2025-05-11 04:02:16 +0000"
@@ -1849,6 +1886,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-11 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 07:17:45 +0000"
     },
     "done": true
   },
@@ -2018,6 +2061,12 @@
   "mythicbotany:recipes/misc/central_rune_holder": {
     "criteria": {
       "criterion0": "2025-05-11 06:02:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2025-05-11 07:20:34 +0000"
     },
     "done": true
   },
@@ -2549,6 +2598,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 07:20:34 +0000"
+    },
+    "done": true
+  },
   "integrateddynamics:meneglin_basics/squeezing": {
     "criteria": {
       "criteria_0": "2025-05-11 05:42:01 +0000"
@@ -2970,6 +3025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-05-11 07:20:45 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/blasting/sky_stone_block": {
     "criteria": {
       "has_sky_stone_dust": "2025-05-11 06:55:16 +0000"
@@ -3057,6 +3118,12 @@
   "alltheores:recipes/misc/osmium_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-11 07:06:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-05-11 07:20:48 +0000"
     },
     "done": true
   },
@@ -3279,6 +3346,12 @@
   "exdeorum:core/barrel": {
     "criteria": {
       "has_barrel": "2025-05-11 04:01:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 07:20:34 +0000"
     },
     "done": true
   },
@@ -3519,6 +3592,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 05:26:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2025-05-11 07:20:34 +0000"
     },
     "done": true
   },
@@ -4170,6 +4249,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-05-11 07:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-05-11 04:35:40 +0000"
@@ -4269,6 +4354,12 @@
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-05-11 04:11:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 07:20:34 +0000"
     },
     "done": true
   },
@@ -4446,6 +4537,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2025-05-11 07:20:34 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/diamond_mesh": {
     "criteria": {
       "has_item": "2025-05-11 06:02:42 +0000"
@@ -4503,6 +4600,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-05-11 07:22:42 +0000"
     },
     "done": true
   },
@@ -4683,6 +4786,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-05-11 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust": {
+    "criteria": {
+      "has_tin": "2025-05-11 07:16:13 +0000"
     },
     "done": true
   },
@@ -5034,6 +5143,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 07:17:45 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/flint_mesh": {
     "criteria": {
       "has_item": "2025-05-11 03:41:09 +0000"
@@ -5358,6 +5473,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_osmium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2025-05-11 07:17:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/generic_barrel": {
     "criteria": {
       "has _plank": "2025-05-11 03:12:54 +0000"
@@ -5367,6 +5488,12 @@
   "utilitix:recipes/misc/comparator_redirector_down": {
     "criteria": {
       "criterion1": "2025-05-11 03:17:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 07:16:13 +0000"
     },
     "done": true
   },
@@ -5682,6 +5809,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/piston_cart": {
+    "criteria": {
+      "criterion0": "2025-05-11 07:24:36 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-05-11 04:28:12 +0000"
@@ -5709,6 +5842,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-11 07:21:20 +0000"
     },
     "done": true
   },
@@ -6361,6 +6500,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_raw": {
+    "criteria": {
+      "has_raw_osmium": "2025-05-11 07:17:45 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_pickaxe": {
     "criteria": {
       "has_tool": "2025-05-11 05:36:23 +0000"
@@ -6664,6 +6809,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-11 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-11 07:20:34 +0000"
     },
     "done": true
   },
@@ -6985,6 +7136,12 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/sticky_piston_tagged": {
+    "criteria": {
+      "has_slime": "2025-05-11 07:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-11 03:41:15 +0000"
@@ -7096,6 +7253,12 @@
   "computercraft:recipes/redstone/computer_normal": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-11 07:20:48 +0000"
     },
     "done": true
   },

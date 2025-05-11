@@ -4209,6 +4209,13 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/glue_ball": {
+    "criteria": {
+      "criterion0": "2025-05-11 07:22:33 +0000",
+      "criterion1": "2025-05-11 07:22:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 05:22:39 +0000"
@@ -4311,6 +4318,12 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/lead_tagged": {
+    "criteria": {
+      "has_slime": "2025-05-11 07:22:33 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/blaze_gold_ingot": {
     "criteria": {
       "has_item": "2025-05-11 04:51:31 +0000"
@@ -4344,6 +4357,12 @@
   "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-11 07:22:33 +0000"
     },
     "done": true
   },
@@ -4488,6 +4507,12 @@
   "sophisticatedstorage:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-05-11 07:23:38 +0000"
     },
     "done": true
   },
@@ -4689,6 +4714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-11 07:22:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
@@ -4794,6 +4825,12 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 06:09:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 07:16:37 +0000"
     },
     "done": true
   },
@@ -5211,6 +5248,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-05-11 07:22:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
     "criteria": {
       "has_paper": "2025-05-11 06:28:59 +0000"
@@ -5220,6 +5263,12 @@
   "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_alt_item": "2025-05-11 07:22:40 +0000"
     },
     "done": true
   },
@@ -5409,6 +5458,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-05-11 07:22:33 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/emerald_from_shards": {
     "criteria": {
       "has_item": "2025-05-11 06:13:35 +0000"
@@ -5550,6 +5605,12 @@
   "rftoolsutility:recipes/rftoolsutility/screen_link": {
     "criteria": {
       "redstone": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/redstone_block_1x": {
+    "criteria": {
+      "has_redstone_block": "2025-05-11 07:23:38 +0000"
     },
     "done": true
   },
@@ -6339,6 +6400,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 07:16:37 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/spark": {
     "criteria": {
       "has_item": "2025-05-11 04:51:31 +0000"
@@ -6372,6 +6439,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-11 05:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-11 07:23:38 +0000"
     },
     "done": true
   },
@@ -6525,6 +6598,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_osmium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2025-05-11 07:16:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/chipped/glassblower_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
@@ -6552,6 +6631,12 @@
   "croptopia:recipes/butter": {
     "criteria": {
       "has_salt": "2025-05-11 06:14:12 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/redstone/force_engine": {
+    "criteria": {
+      "has_piston": "2025-05-11 07:22:25 +0000"
     },
     "done": true
   },
@@ -6666,6 +6751,12 @@
   "exmachinis:recipes/misc/diamond_upgrade": {
     "criteria": {
       "has_diamond": "2025-05-11 06:03:18 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/piston_cart": {
+    "criteria": {
+      "criterion0": "2025-05-11 07:22:25 +0000"
     },
     "done": true
   },
@@ -6981,6 +7072,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_raw": {
+    "criteria": {
+      "has_raw_osmium": "2025-05-11 07:16:37 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
     "criteria": {
       "has_ingredient": "2025-05-11 06:53:42 +0000"
@@ -7281,6 +7378,12 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/sticky_piston_tagged": {
+    "criteria": {
+      "has_slime": "2025-05-11 07:22:33 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/food_press": {
     "criteria": {
       "has_hopper": "2025-05-11 05:46:56 +0000"
@@ -7314,6 +7417,12 @@
   "computercraft:recipes/redstone/computer_normal": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-11 07:22:33 +0000"
     },
     "done": true
   },
