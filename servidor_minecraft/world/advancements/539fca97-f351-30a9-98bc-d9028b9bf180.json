@@ -4581,6 +4581,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 07:10:26 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/philosophers_stone_alt": {
     "criteria": {
       "has_glowstone": "2025-05-11 04:51:30 +0000"
@@ -4731,6 +4737,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-05-11 07:13:34 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/golden_mesh": {
     "criteria": {
       "has_item": "2025-05-11 05:22:39 +0000"
@@ -4875,6 +4887,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-05-11 07:12:55 +0000"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/misc/central_rune_holder": {
     "criteria": {
       "criterion0": "2025-05-11 06:13:35 +0000"
@@ -4908,6 +4926,12 @@
   "exdeorum:recipes/misc/diamond_mesh_from_golden_mesh": {
     "criteria": {
       "has_item": "2025-05-11 06:03:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/osmium_dust": {
+    "criteria": {
+      "has_osmium": "2025-05-11 07:10:26 +0000"
     },
     "done": true
   },
@@ -5331,6 +5355,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 07:10:26 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/blasting/sky_stone_block": {
     "criteria": {
       "has_sky_stone_dust": "2025-05-11 04:51:49 +0000"
@@ -5430,6 +5460,12 @@
   "rftoolsbase:recipes/rftoolsbase/filter_module": {
     "criteria": {
       "hopper": "2025-05-11 05:46:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2025-05-11 07:13:34 +0000"
     },
     "done": true
   },
@@ -6042,6 +6078,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 05:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-11 07:12:55 +0000"
     },
     "done": true
   },

@@ -2321,6 +2321,12 @@
     },
     "done": true
   },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-05-11 07:07:12 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/sand_2x": {
     "criteria": {
       "has_sand_1x": "2025-05-11 03:33:24 +0000"
@@ -3045,6 +3051,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-11 04:46:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-11 07:06:11 +0000"
     },
     "done": true
   },
@@ -3900,6 +3912,12 @@
     },
     "done": true
   },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-05-11 07:10:46 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/advanced_brewery": {
     "criteria": {
       "criterion2": "2025-05-11 04:02:16 +0000"
@@ -3963,6 +3981,12 @@
   "enderio:recipes/redstone/resetting_lever_thirty_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-05-11 05:42:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-11 07:06:11 +0000"
     },
     "done": true
   },
@@ -4590,6 +4614,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-11 07:06:11 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_gold_hammering": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 05:26:51 +0000"
@@ -4683,6 +4713,12 @@
   "enderio:recipes/redstone/resetting_lever_sixty": {
     "criteria": {
       "has_ingredient": "2025-05-11 05:42:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-11 07:06:11 +0000"
     },
     "done": true
   },
@@ -5562,6 +5598,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_ingot": {
+    "criteria": {
+      "has_osmium_ingot": "2025-05-11 07:06:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-05-11 04:02:18 +0000"
@@ -6289,6 +6331,12 @@
     },
     "done": true
   },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-05-11 07:06:48 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/otherstone": {
     "criteria": {
       "has_andesite": "2025-05-11 04:46:50 +0000"
@@ -6844,6 +6892,12 @@
   "immersiveengineering:recipes/misc/crafting/radiator": {
     "criteria": {
       "has_water_bucket": "2025-05-11 04:04:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-11 07:06:11 +0000"
     },
     "done": true
   },
