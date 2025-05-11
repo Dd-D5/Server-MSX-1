@@ -412,6 +412,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/void_chassis": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 05:26:51 +0000"
@@ -1414,6 +1420,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 07:02:32 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/philosophers_stone_alt": {
     "criteria": {
       "has_glowstone": "2025-05-11 06:54:46 +0000"
@@ -1492,6 +1504,12 @@
     },
     "done": true
   },
+  "enderio:recipes/building_blocks/reinforced_obsidian_block": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-05-11 05:44:56 +0000"
@@ -1567,6 +1585,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_green": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/cells/mega_item_cell_housing": {
+    "criteria": {
+      "has_dusts/sky_stone": "2025-05-11 06:55:16 +0000"
     },
     "done": true
   },
@@ -1961,6 +1985,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/dead_bush": {
+    "criteria": {
+      "has_salts": "2025-05-11 06:55:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-05-11 03:11:37 +0000"
@@ -2096,6 +2126,12 @@
   "exdeorum:recipes/misc/cooked_silk_worm": {
     "criteria": {
       "has_item": "2025-05-11 03:46:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/osmium_dust": {
+    "criteria": {
+      "has_osmium": "2025-05-11 07:02:32 +0000"
     },
     "done": true
   },
@@ -2730,6 +2766,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/iron_gear": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:55:23 +0000"
+    },
+    "done": true
+  },
   "antiblocksrechiseled:recipes/building_blocks/bright_white": {
     "criteria": {
       "has_glowstone_dust": "2025-05-11 06:54:46 +0000"
@@ -2781,6 +2823,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-11 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-11 06:56:32 +0000"
     },
     "done": true
   },
@@ -2904,9 +2952,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/osmium_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 07:02:32 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/stonecutting/glass_viewer_silicon": {
     "criteria": {
       "has_for_glass_viewer_silicon": "2025-05-11 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_dust": "2025-05-11 06:55:16 +0000"
     },
     "done": true
   },
@@ -2949,6 +3009,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-11 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_capacitor": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:55:23 +0000"
     },
     "done": true
   },
@@ -3402,6 +3468,12 @@
     },
     "done": true
   },
+  "megacells:recipes/misc/cells/mega_fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/sky_stone": "2025-05-11 06:55:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
     "criteria": {
       "has_basic_to_iron_tier_upgrade": "2025-05-11 05:08:43 +0000"
@@ -3660,6 +3732,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_salt": "2025-05-11 06:55:09 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/counterplus_module": {
     "criteria": {
       "ingot": "2025-05-11 04:02:16 +0000"
@@ -3762,6 +3840,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_salt": "2025-05-11 06:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-11 03:17:18 +0000"
@@ -3795,6 +3879,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 03:47:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_salt": "2025-05-11 06:55:09 +0000"
     },
     "done": true
   },
@@ -3999,6 +4089,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 05:26:51 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-11 06:56:32 +0000"
     },
     "done": true
   },
@@ -4473,6 +4569,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-05-11 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-11 06:56:32 +0000"
     },
     "done": true
   },
@@ -5130,6 +5232,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_salt": "2025-05-11 06:55:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-11 04:46:50 +0000"
@@ -5277,6 +5385,12 @@
   "immersiveengineering:recipes/misc/crafting/grit_sand": {
     "criteria": {
       "has_sand": "2025-05-11 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_salt": "2025-05-11 06:55:09 +0000"
     },
     "done": true
   },
@@ -6235,6 +6349,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/primitive_alloy_smelter": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:55:23 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/oak_log_1x": {
     "criteria": {
       "has_oak_log": "2025-05-11 03:12:49 +0000"
@@ -6580,6 +6700,12 @@
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
       "has_stick": "2025-05-11 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/infinity_rod": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:55:23 +0000"
     },
     "done": true
   },

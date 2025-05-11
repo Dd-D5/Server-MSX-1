@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_orange": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/apothecary_deepslate": {
     "criteria": {
       "has_item": "2025-05-11 03:06:58 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/gold_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-11 05:03:27 +0000"
@@ -176,6 +188,12 @@
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-05-11 04:10:39 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_pink": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -233,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-11 04:43:14 +0000"
@@ -254,6 +278,12 @@
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-05-11 02:58:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -509,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/coordinate_tracker_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-11 03:40:59 +0000"
@@ -554,6 +590,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-11 03:09:53 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 07:00:27 +0000"
     },
     "done": true
   },
@@ -638,6 +680,12 @@
   "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-11 03:26:24 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 07:00:27 +0000"
     },
     "done": true
   },
@@ -857,6 +905,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2025-05-11 02:58:42 +0000"
@@ -974,6 +1034,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-05-11 03:25:25 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_green": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -1211,6 +1277,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2025-05-11 07:00:30 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/wood_gear": {
     "criteria": {
       "has_ingredient": "2025-05-11 03:40:03 +0000"
@@ -1277,9 +1349,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/voltmeter": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 05:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-11 07:00:27 +0000"
     },
     "done": true
   },
@@ -1379,6 +1463,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_white": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/shutters": {
     "criteria": {
       "has_wood": "2025-05-11 03:39:55 +0000"
@@ -1433,15 +1523,51 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/red_force_furnace_from_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_gray": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-11 07:00:30 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-11 05:24:48 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2025-05-11 07:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 07:00:27 +0000"
     },
     "done": true
   },
@@ -1535,6 +1661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-11 03:26:00 +0000"
@@ -1586,6 +1718,12 @@
   "botania:recipes/tools/dreamwood_wand": {
     "criteria": {
       "has_item": "2025-05-11 03:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-11 07:00:27 +0000"
     },
     "done": true
   },
@@ -1778,6 +1916,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 06:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-11 07:00:27 +0000"
     },
     "done": true
   },
@@ -2045,6 +2189,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/building_blocks/force_red_torch": {
+    "criteria": {
+      "has_dye": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/osmium_dust": {
     "criteria": {
       "has_osmium": "2025-05-11 05:24:44 +0000"
@@ -2207,6 +2357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-05-11 03:26:53 +0000"
@@ -2240,6 +2396,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -2354,6 +2516,12 @@
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-05-11 03:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
     },
     "done": true
   },
@@ -2658,6 +2826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
     "criteria": {
       "has_raw_gold": "2025-05-11 05:20:35 +0000"
@@ -2673,6 +2847,12 @@
   "utilitarian:recipes/misc/utility/gold_block_from_blasting": {
     "criteria": {
       "has_raw_gold": "2025-05-11 05:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-11 07:00:27 +0000"
     },
     "done": true
   },
@@ -2916,6 +3096,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/oak_logs_to_doors": {
     "criteria": {
       "has_log": "2025-05-11 03:39:40 +0000"
@@ -2982,6 +3168,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-05-11 03:25:25 +0000"
@@ -3021,6 +3213,12 @@
   "xycraft_world:recipes/misc/compacting/xychorium_gem_blue": {
     "criteria": {
       "has_xychorium_gem_blue": "2025-05-11 04:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-11 07:00:30 +0000"
     },
     "done": true
   },
@@ -3138,6 +3336,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/stomp_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-11 03:40:59 +0000"
@@ -3186,9 +3390,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_magenta": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -3222,9 +3438,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/misc/shield_block1": {
     "criteria": {
       "machine_frame": "2025-05-11 06:50:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -3327,6 +3561,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-11 05:00:52 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_light_gray": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -3444,6 +3684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-05-11 04:58:50 +0000"
@@ -3459,6 +3705,12 @@
   "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
     "criteria": {
       "redstone": "2025-05-11 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
+    "criteria": {
+      "has_item0": "2025-05-11 07:03:24 +0000"
     },
     "done": true
   },
@@ -3564,6 +3816,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 06:46:35 +0000"
@@ -3579,6 +3837,12 @@
   "pneumaticcraft:recipes/misc/charging_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-11 03:40:59 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-05-11 07:03:24 +0000"
     },
     "done": true
   },
@@ -3612,9 +3876,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/copper_ingot_from_dust": {
     "criteria": {
       "has_copper_dust": "2025-05-11 05:48:43 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-05-11 07:03:24 +0000"
     },
     "done": true
   },
@@ -3639,6 +3915,12 @@
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-05-11 04:58:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 07:00:27 +0000"
     },
     "done": true
   },
@@ -3705,6 +3987,12 @@
   "alltheores:recipes/misc/diamond_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-11 05:03:27 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -3858,6 +4146,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-11 03:26:00 +0000"
@@ -3927,6 +4221,12 @@
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2025-05-11 03:53:04 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/stone_1x": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
     },
     "done": true
   },
@@ -4080,6 +4380,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_brown": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/iron_blacksmith_gavel": {
     "criteria": {
       "has_ingots/iron": "2025-05-11 04:59:14 +0000"
@@ -4119,6 +4425,12 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 06:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -4488,6 +4800,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-11 07:00:30 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/frying_pan": {
     "criteria": {
       "has_iron": "2025-05-11 04:59:14 +0000"
@@ -4635,6 +4959,12 @@
   "rftoolsbuilder:recipes/shield_block4": {
     "criteria": {
       "machine_frame": "2025-05-11 06:50:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/brush": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -4968,6 +5298,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_cyan": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
@@ -5094,15 +5430,33 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_yellow": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-05-11 02:58:42 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -5127,6 +5481,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-11 03:55:10 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_red": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -5352,6 +5712,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/netcable_routing": {
     "criteria": {
       "nugget": "2025-05-11 06:50:15 +0000"
@@ -5427,6 +5793,12 @@
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-05-11 03:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
     },
     "done": true
   },
@@ -5508,6 +5880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/screen_controller": {
     "criteria": {
       "frame": "2025-05-11 06:50:43 +0000"
@@ -5553,6 +5931,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -5754,6 +6138,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-05-11 07:03:24 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/blood_altar": {
     "criteria": {
       "has_gold": "2025-05-11 05:22:32 +0000"
@@ -5877,6 +6267,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-05-11 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
     },
     "done": true
   },
@@ -6114,6 +6510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-05-11 05:00:52 +0000"
@@ -6282,6 +6684,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
@@ -6294,9 +6702,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/building_blocks/dark_runic_glass": {
     "criteria": {
       "has_glass": "2025-05-11 04:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
     },
     "done": true
   },
@@ -6468,6 +6888,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_purple": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/iron_mesh_from_flint_mesh": {
     "criteria": {
       "has_item": "2025-05-11 04:59:14 +0000"
@@ -6498,6 +6924,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-11 05:03:27 +0000"
@@ -6519,6 +6951,12 @@
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-05-11 02:58:42 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_red": {
+    "criteria": {
+      "has_red_dye": "2025-05-11 07:00:27 +0000"
     },
     "done": true
   },
@@ -6843,6 +7281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-11 03:26:00 +0000"
@@ -6870,6 +7314,12 @@
   "forcecraft:recipes/transmutation/transmutation/stick_from_stone_pickaxe": {
     "criteria": {
       "has_tool": "2025-05-11 04:33:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -6921,9 +7371,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_wood": "2025-05-11 07:03:24 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/cobbled_deepslate_1x": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -6990,6 +7452,12 @@
   "xnet:recipes/xnet/advanced_connector_green": {
     "criteria": {
       "chest": "2025-05-11 04:12:42 +0000"
+    },
+    "done": true
+  },
+  "antiblocksrechiseled:recipes/building_blocks/wool_light_blue": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -7082,6 +7550,12 @@
   "xnet:recipes/xnet/connector_green_dye": {
     "criteria": {
       "chest": "2025-05-11 04:12:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 07:00:27 +0000"
     },
     "done": true
   },
@@ -7187,6 +7661,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_lime": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
       "has_stick": "2025-05-11 03:40:03 +0000"
@@ -7211,6 +7691,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/wool_blue": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
@@ -7220,6 +7706,12 @@
   "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
     "criteria": {
       "has_coal_block": "2025-05-11 06:32:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -7397,6 +7889,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-05-11 02:58:42 +0000"
@@ -7436,6 +7934,12 @@
   "alltheores:recipes/misc/steel_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-05-11 05:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
     },
     "done": true
   },
@@ -7697,9 +8201,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/force_pack_upgrade": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "energymeter:recipes/energymeter/meter": {
     "criteria": {
       "has_item": "2025-05-11 02:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -7781,9 +8297,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-11 07:03:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-05-11 05:00:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
     },
     "done": true
   },
@@ -7853,9 +8381,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-05-11 07:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-05-11 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/stone_wall": {
+    "criteria": {
+      "criterion0": "2025-05-11 07:03:24 +0000"
     },
     "done": true
   },
