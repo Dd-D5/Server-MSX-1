@@ -2136,7 +2136,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-05-11 03:32:44 +0000"
+      "cooked_beef": "2025-05-11 03:32:44 +0000",
+      "porkchop": "2025-05-11 06:22:09 +0000"
     },
     "done": false
   },
@@ -4273,6 +4274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 06:19:35 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/redstone_root": {
     "criteria": {
       "has_item": "2025-05-11 04:51:27 +0000"
@@ -5107,6 +5114,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-05-11 06:19:35 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/basic_capacitor": {
     "criteria": {
       "has_ingredient": "2025-05-11 04:51:31 +0000"
@@ -5140,6 +5153,12 @@
   "antiblocksrechiseled:recipes/building_blocks/wool_magenta": {
     "criteria": {
       "has_wool": "2025-05-11 06:09:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 06:19:35 +0000"
     },
     "done": true
   },
@@ -5200,6 +5219,18 @@
   "antiblocksrechiseled:recipes/building_blocks/wool_light_gray": {
     "criteria": {
       "has_wool": "2025-05-11 06:09:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 06:19:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 06:19:35 +0000"
     },
     "done": true
   },
@@ -5545,6 +5576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 06:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 05:02:35 +0000"
@@ -5716,6 +5753,12 @@
   "exdeorum:recipes/misc/golden_mesh_from_iron_mesh": {
     "criteria": {
       "has_item": "2025-05-11 05:22:39 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/experience_bottle_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2025-05-11 06:18:17 +0000"
     },
     "done": true
   },
@@ -6529,6 +6572,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/porkchop_to_mutton": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 06:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:27 +0000"
@@ -6538,6 +6587,12 @@
   "sophisticatedstorage:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 06:19:35 +0000"
     },
     "done": true
   },
@@ -6568,6 +6623,12 @@
   "immersiveengineering:recipes/misc/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 06:19:35 +0000"
     },
     "done": true
   },
