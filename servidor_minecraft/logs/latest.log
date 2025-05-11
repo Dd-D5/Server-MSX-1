@@ -3574,3 +3574,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 04:08:14.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon joined the game
 [11May2025 04:08:14.309] [Server thread/INFO] [Jade/]: Syncing config to pepinillodelimon (539fca97-f351-30a9-98bc-d9028b9bf180)
 [11May2025 04:08:14.311] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-1 unused), uncached profiles: 0, total profiles: 4
+[11May2025 04:08:58.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by elixgamer_2006
+[11May2025 04:08:58.512] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[11May2025 04:14:58.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Getting an Upgrade]
