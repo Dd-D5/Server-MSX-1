@@ -3596,3 +3596,26 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 04:37:42.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,397.73944160634125,0.0
 [11May2025 04:37:55.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon fell from a high place
 [11May2025 04:37:55.826] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[11May2025 04:41:58.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Sweet Dreams]
+[11May2025 04:42:00.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Ambush]
+[11May2025 04:42:00.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Monster Hunter]
+[11May2025 04:42:49.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Knowledge of Death]
+[11May2025 04:42:49.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Ambush]
+[11May2025 04:42:49.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [A Strange Grave Dust]
+[11May2025 04:43:06.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Ambush]
+[11May2025 04:43:06.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Monster Hunter]
+[11May2025 04:43:14.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Sweet Dreams]
+[11May2025 04:43:29.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Knowledge raises the soul]
+[11May2025 04:43:57.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Knowledge raises the soul]
+[11May2025 04:44:01.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 was slain by Vegetta777
+[11May2025 04:44:01.789] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
+[11May2025 04:44:06.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has reached the goal [Here They Come]
+[11May2025 04:44:10.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 was slain by elixgamer_2006
+[11May2025 04:44:10.414] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[11May2025 04:44:16.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by elixgamer_2006
+[11May2025 04:44:16.005] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[11May2025 04:44:29.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has reached the goal [Chain Death]
+[11May2025 04:44:29.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by elixgamer_2006
+[11May2025 04:44:29.142] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[11May2025 04:45:18.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by elixgamer_2006
+[11May2025 04:45:18.933] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved

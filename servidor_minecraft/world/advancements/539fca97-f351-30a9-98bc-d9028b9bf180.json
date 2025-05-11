@@ -2298,7 +2298,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:creeper": "2025-05-11 03:39:59 +0000"
+      "minecraft:spider": "2025-05-11 04:44:53 +0000",
+      "minecraft:creeper": "2025-05-11 03:39:59 +0000",
+      "minecraft:phantom": "2025-05-11 04:42:49 +0000"
     },
     "done": false
   },
@@ -4042,6 +4044,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-11 04:41:58 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_trade/spirit_trade/stone_to_otherstone": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
@@ -4081,6 +4089,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-11 04:44:29 +0000"
     },
     "done": true
   },
@@ -4144,6 +4158,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-11 04:42:49 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/decompress/cobblestone_1x": {
     "criteria": {
       "has_cobblestone_1x": "2025-05-11 04:25:34 +0000"
@@ -4153,6 +4173,12 @@
   "allthecompressed:recipes/building_blocks/decompress/gravel_1x": {
     "criteria": {
       "has_gravel_1x": "2025-05-11 04:30:15 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-11 04:42:50 +0000"
     },
     "done": true
   },
@@ -4186,6 +4212,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-11 04:42:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-05-11 04:13:16 +0000"
@@ -4210,9 +4242,27 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_dark_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-11 04:42:50 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/porcelain_clay_ball": {
     "criteria": {
       "has_item": "2025-05-11 04:13:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-11 04:43:29 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/gilding_crystal": {
+    "criteria": {
+      "criterion1": "2025-05-11 04:42:50 +0000"
     },
     "done": true
   },
@@ -4231,6 +4281,12 @@
   "occultism:recipes/spirit_trade/spirit_trade/test": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-11 04:42:49 +0000"
     },
     "done": true
   },
@@ -4255,6 +4311,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-11 04:42:49 +0000"
     },
     "done": true
   },
