@@ -3679,3 +3679,37 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 07:54:11.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> na es que no va a funcionar
 [11May2025 07:56:03.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon lost connection: Disconnected
 [11May2025 07:56:03.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon left the game
+[11May2025 08:00:18.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vegetta777 lost connection: Disconnected
+[11May2025 08:00:18.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 left the game
+[11May2025 08:00:21.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 lost connection: Disconnected
+[11May2025 08:00:21.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 left the game
+[11May2025 08:00:52.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11May2025 08:00:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: save<--[HERE]
+[11May2025 08:00:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11May2025 08:00:56.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11May2025 08:00:56.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11May2025 08:00:56.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11May2025 08:00:57.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11May2025 08:00:59.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[11May2025 08:00:59.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[11May2025 08:00:59.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mythicbotany:alfheim
+[11May2025 08:00:59.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11May2025 08:00:59.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11May2025 08:00:59.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[11May2025 08:00:59.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[11May2025 08:00:59.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[11May2025 08:00:59.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11May2025 08:00:59.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[11May2025 08:00:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[11May2025 08:00:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alfheim): All chunks are saved
+[11May2025 08:00:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11May2025 08:00:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11May2025 08:00:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[11May2025 08:00:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[11May2025 08:00:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[11May2025 08:00:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11May2025 08:00:59.376] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Unloading EnderTank Data
+[11May2025 08:00:59.376] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Finished Unloading EnderTank Data
+[11May2025 08:00:59.376] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
+[11May2025 08:00:59.376] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
+[11May2025 08:00:59.509] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
