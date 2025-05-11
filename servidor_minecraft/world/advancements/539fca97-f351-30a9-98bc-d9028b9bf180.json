@@ -4059,6 +4059,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 07:50:55 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_fixture": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2025-05-11 04:51:05 +0000"
@@ -4762,6 +4768,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 07:51:26 +0000"
+    },
+    "done": true
+  },
   "megacells:recipes/misc/cells/mega_item_cell_housing": {
     "criteria": {
       "has_dusts/sky_stone": "2025-05-11 04:51:49 +0000"
@@ -4858,6 +4870,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 07:52:48 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
@@ -4945,6 +4963,12 @@
   "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-11 04:58:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 07:50:55 +0000"
     },
     "done": true
   },
@@ -5614,6 +5638,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
+    "criteria": {
+      "has_raw_zinc": "2025-05-11 07:51:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
@@ -6028,6 +6058,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
+    "criteria": {
+      "has_raw_tin": "2025-05-11 07:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 05:22:39 +0000"
@@ -6115,6 +6151,18 @@
   "sophisticatedstorage:recipes/misc/storage_output": {
     "criteria": {
       "has_base_tier_wooden_storage": "2025-05-11 04:58:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 07:51:26 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_tin_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2025-05-11 07:54:04 +0000"
     },
     "done": true
   },
@@ -6262,6 +6310,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 07:54:04 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-05-11 06:52:12 +0000"
@@ -6382,6 +6436,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/tin_dust": {
+    "criteria": {
+      "has_tin": "2025-05-11 07:52:48 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_sixty": {
     "criteria": {
       "has_ingredient": "2025-05-11 06:53:42 +0000"
@@ -6433,6 +6493,12 @@
   "occultism:recipes/crushing/crushing/iron_dust": {
     "criteria": {
       "has_iron": "2025-05-11 05:08:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 07:51:26 +0000"
     },
     "done": true
   },
@@ -6784,6 +6850,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 07:52:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-11 07:39:17 +0000"
@@ -7051,6 +7123,12 @@
   "ae2:recipes/misc/misc/tiny_tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-11 04:45:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-05-11 07:51:26 +0000"
     },
     "done": true
   },
@@ -7480,6 +7558,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 07:50:55 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/misc/force_ingot_from_gold": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 05:22:39 +0000"
@@ -7630,6 +7714,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 07:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-05-11 04:18:48 +0000"
@@ -7645,6 +7735,12 @@
   "constructionwand:recipes/misc/core_angel": {
     "criteria": {
       "has_item": "2025-05-11 06:35:08 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 07:54:04 +0000"
     },
     "done": true
   },
@@ -7750,6 +7846,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 07:51:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-05-11 06:09:24 +0000"
@@ -7801,6 +7903,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-11 04:45:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust": {
+    "criteria": {
+      "has_zinc": "2025-05-11 07:50:55 +0000"
     },
     "done": true
   },
