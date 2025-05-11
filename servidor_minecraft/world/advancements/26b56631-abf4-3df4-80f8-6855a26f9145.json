@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 05:25:05 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/iron_mesh": {
     "criteria": {
       "has_item": "2025-05-11 04:59:14 +0000"
@@ -1472,6 +1478,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_dark_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:39:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 05:25:05 +0000"
     },
     "done": true
   },
@@ -5801,6 +5813,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 05:25:05 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/diorite_2x": {
     "criteria": {
       "has_diorite_1x": "2025-05-11 03:46:29 +0000"
@@ -6098,6 +6116,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-11 03:26:53 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 05:25:05 +0000"
     },
     "done": true
   },
@@ -6416,6 +6440,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-11 04:57:29 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust": {
+    "criteria": {
+      "has_zinc": "2025-05-11 05:25:05 +0000"
     },
     "done": true
   },
