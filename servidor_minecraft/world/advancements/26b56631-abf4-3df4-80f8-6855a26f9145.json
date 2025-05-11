@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_light": {
+    "criteria": {
+      "has_xychorium_gem_light": "2025-05-11 07:37:01 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/misc/item_card": {
     "criteria": {
       "has_blue_dye": "2025-05-11 06:48:03 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-11 06:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-11 07:41:42 +0000"
     },
     "done": true
   },
@@ -371,6 +383,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-05-11 07:40:13 +0000"
+    },
+    "done": false
+  },
   "alltheores:recipes/misc/copper_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-11 05:03:27 +0000"
@@ -380,6 +398,12 @@
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 05:00:52 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_light": {
+    "criteria": {
+      "has_xychorium_gem_light": "2025-05-11 07:37:01 +0000"
     },
     "done": true
   },
@@ -611,6 +635,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 07:40:56 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/sacrificial_dagger": {
     "criteria": {
       "has_glass": "2025-05-11 04:58:50 +0000"
@@ -746,6 +776,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-05-11 05:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-11 07:41:42 +0000"
     },
     "done": true
   },
@@ -890,6 +926,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 06:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-11 07:41:58 +0000"
     },
     "done": true
   },
@@ -1313,6 +1355,18 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_red": {
+    "criteria": {
+      "has_xychorium_gem_red": "2025-05-11 07:36:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2025-05-11 07:41:42 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
     "criteria": {
       "has_dye": "2025-05-11 06:48:03 +0000"
@@ -1382,6 +1436,12 @@
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-05-11 06:49:09 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/reinforced_filter_rail": {
+    "criteria": {
+      "criterion1": "2025-05-11 07:41:58 +0000"
     },
     "done": true
   },
@@ -1670,6 +1730,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-11 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_red": {
+    "criteria": {
+      "has_xychorium_gem_red": "2025-05-11 07:36:52 +0000"
     },
     "done": true
   },
@@ -2832,6 +2898,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-11 07:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-11 07:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-05-11 06:48:03 +0000"
@@ -2928,6 +3006,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 07:41:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 03:27:09 +0000"
@@ -2939,6 +3023,12 @@
       "has_sticky_piston": "2025-05-11 07:23:56 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-05-11 07:40:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
@@ -2961,6 +3051,12 @@
   "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 03:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-11 07:41:42 +0000"
     },
     "done": true
   },
@@ -3021,6 +3117,12 @@
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-11 03:25:51 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_green": {
+    "criteria": {
+      "has_xychorium_gem_green": "2025-05-11 07:36:43 +0000"
     },
     "done": true
   },
@@ -3099,6 +3201,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-05-11 05:20:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-05-11 07:40:56 +0000"
     },
     "done": true
   },
@@ -3351,6 +3459,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-11 03:26:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-05-11 07:40:56 +0000"
     },
     "done": true
   },
@@ -4212,6 +4326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-11 07:40:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-05-11 04:10:39 +0000"
@@ -4227,6 +4347,12 @@
   "forcecraft:recipes/food/soul_wafer": {
     "criteria": {
       "has_bone": "2025-05-11 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-11 07:41:42 +0000"
     },
     "done": true
   },
@@ -4644,6 +4770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-11 07:41:42 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-11 05:03:27 +0000"
@@ -4680,6 +4812,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/beef_to_porkchop": {
+    "criteria": {
+      "has_beef": "2025-05-11 07:40:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-11 03:25:51 +0000"
@@ -4713,6 +4851,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
     "criteria": {
       "has_flower": "2025-05-11 06:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-11 07:40:52 +0000"
     },
     "done": true
   },
@@ -5736,6 +5880,12 @@
     },
     "done": true
   },
+  "bloodmagic:recipes/misc/synthetic_point": {
+    "criteria": {
+      "has_nugget": "2025-05-11 07:41:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-05-11 03:40:03 +0000"
@@ -6078,6 +6228,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/filter_rail": {
+    "criteria": {
+      "criterion1": "2025-05-11 07:41:58 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/security_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-11 03:40:59 +0000"
@@ -6141,6 +6297,12 @@
   "reliquary:recipes/misc/mob_charm_belt": {
     "criteria": {
       "has_mob_charm_fragment": "2025-05-11 07:21:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-11 07:41:42 +0000"
     },
     "done": true
   },
@@ -6375,6 +6537,12 @@
   "ae2:recipes/misc/network/cables/glass_blue": {
     "criteria": {
       "has_dyes/black": "2025-05-11 06:48:03 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/planter": {
+    "criteria": {
+      "has_green_xychorium": "2025-05-11 07:36:43 +0000"
     },
     "done": true
   },
@@ -6678,6 +6846,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-05-11 07:40:56 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/redstone_acid": {
     "criteria": {
       "has_redstone_dust": "2025-05-11 06:49:09 +0000"
@@ -6783,6 +6957,12 @@
   "connectedglass:recipes/misc/clear_glass_red2": {
     "criteria": {
       "recipe_condition2": "2025-05-11 07:00:27 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/ignition_plate": {
+    "criteria": {
+      "has_red_xychorium": "2025-05-11 07:36:52 +0000"
     },
     "done": true
   },
@@ -7095,6 +7275,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_blue_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:39:55 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_green": {
+    "criteria": {
+      "has_xychorium_gem_green": "2025-05-11 07:36:43 +0000"
     },
     "done": true
   },
@@ -7613,6 +7799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-11 07:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
@@ -7688,6 +7880,12 @@
   "immersiveengineering:recipes/misc/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-11 07:41:42 +0000"
     },
     "done": true
   },
@@ -7928,6 +8126,12 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-11 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/light_field": {
+    "criteria": {
+      "has_light_xychorium": "2025-05-11 07:37:01 +0000"
     },
     "done": true
   },
@@ -8489,6 +8693,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-11 07:40:13 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/energyplus_module": {
     "criteria": {
       "ingot": "2025-05-11 04:59:14 +0000"
@@ -8528,6 +8738,12 @@
   "enderio:recipes/misc/pressurized_fluid_tank": {
     "criteria": {
       "has_ingredient": "2025-05-11 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-11 07:41:58 +0000"
     },
     "done": true
   },

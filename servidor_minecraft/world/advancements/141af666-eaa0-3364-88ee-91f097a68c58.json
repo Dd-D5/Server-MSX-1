@@ -310,6 +310,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 07:44:37 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/iron_mesh": {
     "criteria": {
       "has_item": "2025-05-11 04:02:16 +0000"
@@ -490,6 +496,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/hay_block_1x": {
+    "criteria": {
+      "has_hay_block": "2025-05-11 07:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-11 02:54:44 +0000"
@@ -511,6 +523,12 @@
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-05-11 04:42:16 +0000"
+    },
+    "done": true
+  },
+  "pylons:recipes/misc/harvester_pylon": {
+    "criteria": {
+      "has_hay_block": "2025-05-11 07:39:31 +0000"
     },
     "done": true
   },
@@ -1004,6 +1022,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-05-11 04:02:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_item": "2025-05-11 07:39:39 +0000"
     },
     "done": true
   },
@@ -2012,6 +2036,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_dark_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 07:44:37 +0000"
     },
     "done": true
   },
@@ -6218,6 +6248,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-05-11 07:39:31 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/dirt_1x": {
     "criteria": {
       "has_dirt": "2025-05-11 03:14:52 +0000"
@@ -6902,6 +6938,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/zinc_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 07:44:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-11 04:28:12 +0000"
@@ -7193,6 +7235,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-11 04:46:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 07:44:37 +0000"
     },
     "done": true
   },
@@ -7538,6 +7586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-11 07:39:31 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_light": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:12:54 +0000"
@@ -7553,6 +7607,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-11 05:04:00 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/zinc_dust": {
+    "criteria": {
+      "has_zinc": "2025-05-11 07:44:37 +0000"
     },
     "done": true
   },
