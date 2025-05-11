@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/andesite_2x": {
+    "criteria": {
+      "has_andesite_1x": "2025-05-11 04:03:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-05-11 03:53:04 +0000"
@@ -461,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-11 03:58:32 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/ender_visor_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-11 03:40:59 +0000"
@@ -512,6 +524,12 @@
   "croptopia:recipes/buttered_toast": {
     "criteria": {
       "has_toast": "2025-05-11 03:50:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-11 03:55:10 +0000"
     },
     "done": true
   },
@@ -584,6 +602,12 @@
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "has_blackstone": "2025-05-11 03:26:53 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/crook": {
+    "criteria": {
+      "craft_crook": "2025-05-11 03:57:01 +0000"
     },
     "done": true
   },
@@ -833,6 +857,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/cooked_silk_worm": {
+    "criteria": {
+      "has_item": "2025-05-11 03:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-11 03:40:57 +0000"
@@ -842,6 +872,12 @@
   "exdeorum:recipes/tools/stone_hammer": {
     "criteria": {
       "has_item": "2025-05-11 03:25:25 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/oak_crucible": {
+    "criteria": {
+      "has_item": "2025-05-11 03:55:10 +0000"
     },
     "done": true
   },
@@ -995,6 +1031,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2025-05-11 03:58:32 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/ores/osmium_tag": {
     "criteria": {
       "has_item": "2025-05-11 03:41:20 +0000"
@@ -1019,6 +1061,12 @@
     },
     "done": true
   },
+  "exdeorum:core/silk_worm": {
+    "criteria": {
+      "has_silk_worm": "2025-05-11 03:59:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 03:05:37 +0000"
@@ -1028,6 +1076,12 @@
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 03:39:40 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/oak_barrel": {
+    "criteria": {
+      "has_item": "2025-05-11 03:55:10 +0000"
     },
     "done": true
   },
@@ -1229,6 +1283,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-05-11 03:58:32 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/deepslate": {
     "criteria": {
       "has_wood": "2025-05-11 03:27:09 +0000"
@@ -1319,6 +1379,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-11 03:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-11 03:45:10 +0000"
@@ -1364,6 +1430,12 @@
   "oreberriesreplanted:recipes/misc/oak_vat": {
     "criteria": {
       "has_planks": "2025-05-11 03:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-11 03:58:32 +0000"
     },
     "done": true
   },
@@ -1487,6 +1559,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/decompress/andesite_1x": {
+    "criteria": {
+      "has_andesite_1x": "2025-05-11 04:03:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2025-05-11 03:40:03 +0000"
@@ -1595,6 +1673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-11 03:58:32 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/restraining_order": {
     "criteria": {
       "has_lead": "2025-05-11 03:05:36 +0000"
@@ -1606,6 +1690,12 @@
       "minecraft:plains": "2025-05-11 02:58:42 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-11 03:55:10 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/pulley": {
     "criteria": {
@@ -1658,6 +1748,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-11 03:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-11 03:58:32 +0000"
     },
     "done": true
   },
@@ -1811,6 +1907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-11 03:58:32 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2025-05-11 03:40:03 +0000"
@@ -1820,6 +1922,12 @@
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-11 03:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-11 03:58:32 +0000"
     },
     "done": true
   },
@@ -2093,6 +2201,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/string_mesh": {
+    "criteria": {
+      "has_item": "2025-05-11 03:58:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-11 03:26:24 +0000"
@@ -2186,6 +2300,12 @@
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-05-11 02:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-11 03:55:10 +0000"
     },
     "done": true
   },
@@ -2675,6 +2795,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-11 03:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-11 03:25:25 +0000"
@@ -2972,6 +3098,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-11 03:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-05-11 03:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-11 03:39:55 +0000"
@@ -3160,6 +3298,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/cooked_silk_worm_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-05-11 03:59:05 +0000"
+    },
+    "done": true
+  },
   "translocators:recipes/redstone/fluid_translocator": {
     "criteria": {
       "has_piston": "2025-05-11 02:58:42 +0000"
@@ -3229,6 +3373,12 @@
   "exdeorum:recipes/misc/cobbled_deepslate": {
     "criteria": {
       "has_item": "2025-05-11 03:16:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-11 03:55:10 +0000"
     },
     "done": true
   },
@@ -3409,6 +3559,12 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2025-05-11 03:53:04 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cooked_silk_worm_from_smoking": {
+    "criteria": {
+      "has_item": "2025-05-11 03:59:05 +0000"
     },
     "done": true
   },
