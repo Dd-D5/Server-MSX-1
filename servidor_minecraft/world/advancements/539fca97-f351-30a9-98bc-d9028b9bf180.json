@@ -540,6 +540,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-05-11 06:27:30 +0000",
       "wheat": "2025-05-11 03:12:03 +0000"
     },
     "done": false
@@ -4064,9 +4065,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/item_card": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-05-11 04:51:31 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
     },
     "done": true
   },
@@ -4190,6 +4203,12 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/misc/vehicle_control_module": {
+    "criteria": {
+      "paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_trade/spirit_trade/stone_to_otherstone": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
@@ -4304,9 +4323,27 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/blueprint_paper": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/misc/disk": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/item_card_flipped": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/misc/vehicle_status_module": {
+    "criteria": {
+      "paper": "2025-05-11 06:28:59 +0000"
     },
     "done": true
   },
@@ -4520,6 +4557,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2025-05-11 06:29:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-05-11 04:44:29 +0000"
@@ -4685,6 +4728,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/tps_meter": {
+    "criteria": {
+      "has_obsidian": "2025-05-11 06:29:53 +0000"
     },
     "done": true
   },
@@ -4976,9 +5025,21 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
+    "criteria": {
+      "has_obsidian": "2025-05-11 06:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
     },
     "done": true
   },
@@ -5033,6 +5094,12 @@
   "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
     "criteria": {
       "has_gold_block": "2025-05-11 05:37:18 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/paper_from_tag_filter": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
     },
     "done": true
   },
@@ -5114,6 +5181,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_pickaxe": {
+    "criteria": {
+      "has_tool": "2025-05-11 06:29:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_and_beans": {
     "criteria": {
       "has_pork": "2025-05-11 06:19:35 +0000"
@@ -5144,9 +5217,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-05-11 06:09:24 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/food/fortune_cookie": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
     },
     "done": true
   },
@@ -5201,6 +5286,12 @@
   "projecte:recipes/misc/medium_covalence_dust": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-05-11 06:28:59 +0000"
     },
     "done": true
   },
@@ -5300,6 +5391,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_tool": {
     "criteria": {
       "has_redstone_torch": "2025-05-11 04:58:03 +0000"
@@ -5309,6 +5406,12 @@
   "sophisticatedstorage:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-11 06:28:59 +0000"
     },
     "done": true
   },
@@ -5327,6 +5430,12 @@
   "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
     "criteria": {
       "has_basic_to_iron_tier_upgrade": "2025-05-11 05:10:24 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/black_paper": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:28:59 +0000"
     },
     "done": true
   },
@@ -5378,6 +5487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cheese": {
     "criteria": {
       "has_salt": "2025-05-11 06:14:12 +0000"
@@ -5387,6 +5502,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-11 06:29:53 +0000"
     },
     "done": true
   },
@@ -5534,6 +5655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-11 06:34:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-05-11 05:02:35 +0000"
@@ -5642,6 +5769,12 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/misc/vehicle_card": {
+    "criteria": {
+      "paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-11 05:43:04 +0000"
@@ -5651,6 +5784,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-11 06:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-11 06:34:49 +0000"
     },
     "done": true
   },
@@ -5840,6 +5979,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-11 05:43:04 +0000"
@@ -5849,6 +5994,12 @@
   "botania:recipes/decorations/spark": {
     "criteria": {
       "has_item": "2025-05-11 04:51:31 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
     },
     "done": true
   },
@@ -5891,6 +6042,12 @@
   "forcecraft:recipes/transmutation/transmutation/mutton_to_chicken": {
     "criteria": {
       "has_mutton": "2025-05-11 06:09:25 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
     },
     "done": true
   },
@@ -6410,6 +6567,18 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-11 06:29:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/primitive_alloy_smelter": {
     "criteria": {
       "has_ingredient": "2025-05-11 04:51:31 +0000"
@@ -6437,6 +6606,12 @@
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-05-11 06:09:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
     },
     "done": true
   },
@@ -6503,6 +6678,12 @@
   "modularrouters:recipes/misc/blank_module": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2025-05-11 06:28:59 +0000"
     },
     "done": true
   },
@@ -6752,9 +6933,27 @@
     },
     "done": true
   },
+  "rftoolspower:recipes/rftoolspower/powercell_card": {
+    "criteria": {
+      "paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-05-11 06:09:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-05-11 06:29:53 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/power_core1": {
+    "criteria": {
+      "core": "2025-05-11 06:25:32 +0000"
     },
     "done": true
   },
