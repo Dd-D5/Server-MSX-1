@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/blackstone": {
+    "criteria": {
+      "has_item": "2025-05-11 03:16:26 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2025-05-11 02:58:42 +0000"
@@ -200,6 +206,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-05-11 03:08:49 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/andesite": {
+    "criteria": {
+      "has_item": "2025-05-11 03:16:20 +0000"
     },
     "done": true
   },
@@ -278,6 +290,12 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2025-05-11 02:58:42 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cobblestone": {
+    "criteria": {
+      "has_item": "2025-05-11 03:16:05 +0000"
     },
     "done": true
   },
@@ -371,6 +389,12 @@
     },
     "done": true
   },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-05-11 03:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-05-11 03:08:49 +0000"
@@ -380,6 +404,12 @@
   "botania:recipes/misc/petal_black_double": {
     "criteria": {
       "has_alt_item": "2025-05-11 03:06:58 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/granite": {
+    "criteria": {
+      "has_item": "2025-05-11 03:16:29 +0000"
     },
     "done": true
   },
@@ -410,6 +440,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-11 03:08:43 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/diorite": {
+    "criteria": {
+      "has_item": "2025-05-11 03:16:21 +0000"
     },
     "done": true
   },
@@ -502,6 +538,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/basalt": {
+    "criteria": {
+      "has_item": "2025-05-11 03:16:20 +0000"
+    },
+    "done": true
+  },
   "translocators:recipes/redstone/fluid_translocator": {
     "criteria": {
       "has_piston": "2025-05-11 02:58:42 +0000"
@@ -541,6 +583,12 @@
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-05-11 02:58:42 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cobbled_deepslate": {
+    "criteria": {
+      "has_item": "2025-05-11 03:16:16 +0000"
     },
     "done": true
   },
