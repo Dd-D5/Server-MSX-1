@@ -346,6 +346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-11 03:47:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-05-11 03:23:19 +0000"
@@ -466,9 +472,21 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/lead_tag": {
+    "criteria": {
+      "has_item": "2025-05-11 03:51:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2025-05-11 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
     },
     "done": true
   },
@@ -517,6 +535,12 @@
   "allthecompressed:recipes/building_blocks/compress/gravel_2x": {
     "criteria": {
       "has_gravel_1x": "2025-05-11 03:33:21 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
     },
     "done": true
   },
@@ -598,6 +622,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/purple_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_dark_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:12:54 +0000"
@@ -613,6 +643,12 @@
   "productivetrees:recipes/misc/crates/red_delicious_apple_crate_unpack": {
     "criteria": {
       "has_apple": "2025-05-11 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/poppy_to_dandelion": {
+    "criteria": {
+      "has_poppy": "2025-05-11 03:47:01 +0000"
     },
     "done": true
   },
@@ -676,9 +712,21 @@
     },
     "done": true
   },
+  "exdeorum:core/crook": {
+    "criteria": {
+      "craft_crook": "2025-05-11 03:46:38 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/shutters": {
     "criteria": {
       "has_wood": "2025-05-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/red_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
     },
     "done": true
   },
@@ -754,6 +802,18 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
+    },
+    "done": true
+  },
   "croptopia:root": {
     "criteria": {
       "root": "2025-05-11 02:54:16 +0000"
@@ -784,6 +844,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/orange_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-11 02:56:48 +0000"
@@ -811,6 +877,12 @@
   "exdeorum:recipes/tools/compressed_stone_hammer": {
     "criteria": {
       "has_item": "2025-05-11 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cooked_silk_worm": {
+    "criteria": {
+      "has_item": "2025-05-11 03:46:48 +0000"
     },
     "done": true
   },
@@ -964,15 +1036,33 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-05-11 03:12:54 +0000"
     },
     "done": true
   },
+  "exdeorum:core/silk_worm": {
+    "criteria": {
+      "has_silk_worm": "2025-05-11 03:46:48 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
     },
     "done": true
   },
@@ -1153,6 +1243,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-11 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/pink_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
     },
     "done": true
   },
@@ -1402,6 +1498,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/iron_ore": {
     "criteria": {
       "has_item": "2025-05-11 03:41:20 +0000"
@@ -1492,9 +1594,21 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-05-11 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/cyan_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
     },
     "done": true
   },
@@ -1549,6 +1663,12 @@
   "utilitarian:recipes/misc/no_soliciting/no_soliciting_banner": {
     "criteria": {
       "has_lead": "2025-05-11 03:08:06 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
     },
     "done": true
   },
@@ -1720,6 +1840,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iron_dust": {
+    "criteria": {
+      "has_iron": "2025-05-11 03:53:33 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-05-11 03:12:49 +0000"
@@ -1735,6 +1861,12 @@
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2025-05-11 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-11 03:53:33 +0000"
     },
     "done": true
   },
@@ -1765,6 +1897,12 @@
   "forcecraft:recipes/tools/force_pack": {
     "criteria": {
       "has_planks": "2025-05-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-11 03:53:07 +0000"
     },
     "done": true
   },
@@ -1807,6 +1945,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-11 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/redstone/force_furnace": {
+    "criteria": {
+      "has_furnace": "2025-05-11 03:53:07 +0000"
     },
     "done": true
   },
@@ -2098,6 +2242,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/light_gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_blue_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:12:54 +0000"
@@ -2113,6 +2263,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-05-11 03:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-11 03:53:33 +0000"
     },
     "done": true
   },
@@ -2332,6 +2488,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/cooked_silk_worm_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-05-11 03:46:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-05-11 03:11:37 +0000"
@@ -2398,6 +2560,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_soliciting_carpet": {
+    "criteria": {
+      "has_flower": "2025-05-11 03:47:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-05-11 03:17:18 +0000"
@@ -2437,6 +2605,18 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2025-05-11 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-05-11 03:53:33 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cooked_silk_worm_from_smoking": {
+    "criteria": {
+      "has_item": "2025-05-11 03:46:48 +0000"
     },
     "done": true
   },
