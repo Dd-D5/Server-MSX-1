@@ -3661,3 +3661,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 07:21:20.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [A Strange Grave Dust]
 [11May2025 07:24:15.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [A Strange Grave Dust]
 [11May2025 07:25:15.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved wrongly!
+[11May2025 07:35:24.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,397.73944160634125,0.0
+[11May2025 07:35:32.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,397.73944160634125,0.0
+[11May2025 07:35:47.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,397.73944160634125,0.0
+[11May2025 07:35:55.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,397.73944160634125,0.0
+[11May2025 07:36:00.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has reached the goal [Strong or Careful]
+[11May2025 07:36:00.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon fell from a high place
+[11May2025 07:36:00.538] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
