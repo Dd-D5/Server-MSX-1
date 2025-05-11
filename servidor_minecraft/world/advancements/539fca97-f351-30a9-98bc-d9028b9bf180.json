@@ -4159,6 +4159,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/mechanical_hammer": {
+    "criteria": {
+      "has_item": "2025-05-11 05:46:56 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/gold_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-11 05:22:39 +0000"
@@ -4189,6 +4195,12 @@
     },
     "done": true
   },
+  "exmachinis:recipes/misc/flux_compactor": {
+    "criteria": {
+      "has_hopper": "2025-05-11 05:46:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2025-05-11 04:19:59 +0000"
@@ -4204,6 +4216,12 @@
   "sophisticatedstorage:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/mechanical_sieve": {
+    "criteria": {
+      "has_item": "2025-05-11 05:46:56 +0000"
     },
     "done": true
   },
@@ -4711,6 +4729,12 @@
     },
     "done": true
   },
+  "exmachinis:recipes/misc/item_buffer": {
+    "criteria": {
+      "has_hopper": "2025-05-11 05:46:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
@@ -4924,6 +4948,12 @@
   "xycraft_machines:recipes/misc/shaped/fabricator": {
     "criteria": {
       "has_crafting_table": "2025-05-11 05:20:18 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2025-05-11 05:46:56 +0000"
     },
     "done": true
   },
@@ -5467,6 +5497,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/advanced_hopper_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-05-11 05:47:43 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_trade/spirit_trade/test": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
@@ -5803,6 +5839,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/basic_item_filter": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 05:46:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
@@ -6022,6 +6064,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2025-05-11 05:46:56 +0000"
     },
     "done": true
   },

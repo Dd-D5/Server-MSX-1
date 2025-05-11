@@ -1391,6 +1391,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 05:48:43 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/decorations/shaped/lamp_pole": {
     "criteria": {
       "has_aluminum": "2025-05-11 04:57:29 +0000"
@@ -2910,6 +2916,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/copper_ingot_from_dust": {
+    "criteria": {
+      "has_copper_dust": "2025-05-11 05:48:43 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_crop": "2025-05-11 03:08:43 +0000"
@@ -2991,6 +3003,12 @@
   "utilitarian:recipes/misc/no_soliciting/restraining_order": {
     "criteria": {
       "has_lead": "2025-05-11 03:05:36 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/copper_block_from_blasting": {
+    "criteria": {
+      "has_raw_copper": "2025-05-11 05:46:20 +0000"
     },
     "done": true
   },
@@ -3237,6 +3255,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 05:22:32 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/copper_ingot_from_dust": {
+    "criteria": {
+      "has_copper_dust": "2025-05-11 05:48:43 +0000"
     },
     "done": true
   },
@@ -3558,6 +3582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-11 05:46:20 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/text_module": {
     "criteria": {
       "ingot": "2025-05-11 04:59:14 +0000"
@@ -3579,6 +3609,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-05-11 05:05:36 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-11 05:48:43 +0000"
     },
     "done": true
   },
@@ -3693,6 +3729,12 @@
   "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-05-11 03:39:55 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/copper_block_from_smelting": {
+    "criteria": {
+      "has_raw_copper": "2025-05-11 05:46:20 +0000"
     },
     "done": true
   },
@@ -3897,6 +3939,12 @@
   "occultism:recipes/crushing/crushing/tin_dust": {
     "criteria": {
       "has_tin": "2025-05-11 05:23:56 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/copper_torch_raw": {
+    "criteria": {
+      "has_copper": "2025-05-11 05:46:20 +0000"
     },
     "done": true
   },
@@ -4854,6 +4902,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
+    "criteria": {
+      "has_raw_copper": "2025-05-11 05:46:20 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-05-11 04:58:50 +0000"
@@ -5286,6 +5340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-11 05:46:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-05-11 03:25:51 +0000"
@@ -5319,6 +5379,12 @@
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-05-11 03:40:03 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
+    "criteria": {
+      "has_item": "2025-05-11 05:46:20 +0000"
     },
     "done": true
   },
@@ -6482,6 +6548,12 @@
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-05-11 04:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-11 05:46:20 +0000"
     },
     "done": true
   },
