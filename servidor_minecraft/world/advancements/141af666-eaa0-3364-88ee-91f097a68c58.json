@@ -328,6 +328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 05:10:55 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_blue_dye": {
     "criteria": {
       "chest": "2025-05-11 03:25:28 +0000"
@@ -397,6 +403,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-11 03:08:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-11 05:12:26 +0000"
     },
     "done": true
   },
@@ -547,6 +559,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-05-11 04:26:13 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
+    "criteria": {
+      "has_item": "2025-05-11 05:10:55 +0000"
     },
     "done": true
   },
@@ -1318,6 +1336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 05:10:55 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/snad/drit": {
     "criteria": {
       "has_dirt": "2025-05-11 03:14:52 +0000"
@@ -1489,6 +1513,12 @@
   "immersiveengineering:recipes/misc/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 05:12:26 +0000"
     },
     "done": true
   },
@@ -2340,6 +2370,12 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/utility/iron_block_from_blasting": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 05:10:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-05-11 04:42:16 +0000"
@@ -2670,9 +2706,21 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2025-05-11 05:12:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-11 04:46:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2025-05-11 05:08:43 +0000"
     },
     "done": true
   },
@@ -2880,6 +2928,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-05-11 05:09:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-11 03:13:08 +0000"
@@ -2979,6 +3033,12 @@
   "occultism:recipes/combat/crafting/butcher_knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/iron_block_from_smelting": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 05:10:55 +0000"
     },
     "done": true
   },
@@ -3429,6 +3489,12 @@
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-05-11 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 05:10:55 +0000"
     },
     "done": true
   },
@@ -4806,6 +4872,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 05:10:55 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/wood_gear_corner": {
     "criteria": {
       "has_ingredient": "2025-05-11 03:17:18 +0000"
@@ -5403,6 +5475,12 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2025-05-11 05:12:26 +0000"
     },
     "done": true
   },

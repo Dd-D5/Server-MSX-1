@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 05:10:59 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/peridot_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-11 05:03:27 +0000"
@@ -122,6 +128,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-11 03:08:43 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-11 05:12:23 +0000"
     },
     "done": true
   },
@@ -296,6 +308,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
+    "criteria": {
+      "has_item": "2025-05-11 05:10:59 +0000"
     },
     "done": true
   },
@@ -482,6 +500,12 @@
   "croptopia:recipes/misc/knife": {
     "criteria": {
       "has_iron": "2025-05-11 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 05:05:36 +0000"
     },
     "done": true
   },
@@ -1067,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 05:10:59 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/snad/drit": {
     "criteria": {
       "has_bone": "2025-05-11 03:49:58 +0000"
@@ -1280,6 +1310,12 @@
   "immersiveengineering:recipes/misc/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 05:12:23 +0000"
     },
     "done": true
   },
@@ -2178,6 +2214,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-05-11 05:05:36 +0000"
+    },
+    "done": true
+  },
   "solargeneration:recipes/misc/lapis_shard": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-11 03:40:59 +0000"
@@ -2205,6 +2247,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-11 03:26:53 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/iron_block_from_blasting": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 05:10:59 +0000"
     },
     "done": true
   },
@@ -2265,6 +2313,12 @@
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-11 03:25:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 05:05:36 +0000"
     },
     "done": true
   },
@@ -2370,9 +2424,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 05:05:36 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/invar_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-05-11 05:03:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 05:05:36 +0000"
     },
     "done": true
   },
@@ -2499,6 +2565,12 @@
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-11 03:26:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2025-05-11 05:12:23 +0000"
     },
     "done": true
   },
@@ -2802,6 +2874,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2025-05-11 05:05:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-11 03:25:51 +0000"
@@ -2859,6 +2937,12 @@
   "occultism:recipes/combat/crafting/butcher_knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/iron_block_from_smelting": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 05:10:59 +0000"
     },
     "done": true
   },
@@ -3174,6 +3258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 05:05:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 05:00:52 +0000"
@@ -3243,6 +3333,12 @@
   "immersiveengineering:recipes/misc/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_storage_dark": "2025-05-11 05:14:15 +0000"
     },
     "done": true
   },
@@ -3321,6 +3417,12 @@
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-05-11 03:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 05:10:59 +0000"
     },
     "done": true
   },
@@ -4905,6 +5007,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_iron": "2025-05-11 05:10:59 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/copper_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-11 05:03:27 +0000"
@@ -5297,9 +5405,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/porkchop_to_mutton": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 05:05:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-11 03:25:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 05:05:36 +0000"
     },
     "done": true
   },
@@ -5390,6 +5510,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 05:05:36 +0000"
     },
     "done": true
   },
@@ -5534,6 +5660,12 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:59:14 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2025-05-11 05:12:23 +0000"
     },
     "done": true
   },

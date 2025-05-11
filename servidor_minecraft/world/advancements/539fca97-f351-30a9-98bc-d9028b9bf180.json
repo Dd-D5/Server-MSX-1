@@ -4267,6 +4267,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-11 05:12:24 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/philosophers_stone_alt": {
     "criteria": {
       "has_glowstone": "2025-05-11 04:51:30 +0000"
@@ -4336,6 +4342,12 @@
   "enderio:recipes/building_blocks/reinforced_obsidian_block": {
     "criteria": {
       "has_ingredient": "2025-05-11 04:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-11 05:12:24 +0000"
     },
     "done": true
   },
@@ -4546,6 +4558,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-05-11 05:12:24 +0000"
     },
     "done": true
   },
@@ -4825,6 +4843,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2025-05-11 05:10:24 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-05-11 04:19:44 +0000"
@@ -4855,6 +4879,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-11 05:05:17 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
@@ -4864,6 +4894,12 @@
   "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-11 05:12:24 +0000"
     },
     "done": true
   },
@@ -4999,9 +5035,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iron_dust": {
+    "criteria": {
+      "has_iron": "2025-05-11 05:08:55 +0000"
+    },
+    "done": true
+  },
   "xycraft_machines:recipes/misc/shaped/water_block": {
     "criteria": {
       "has_blue_xychorium": "2025-05-11 04:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-11 05:08:55 +0000"
     },
     "done": true
   },
@@ -5062,6 +5110,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/copper_block_1x": {
+    "criteria": {
+      "has_copper_block": "2025-05-11 05:12:24 +0000"
     },
     "done": true
   },
@@ -5170,6 +5224,12 @@
   "sophisticatedstorage:recipes/misc/iron_barrel": {
     "criteria": {
       "has_barrel": "2025-05-11 04:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-11 05:12:24 +0000"
     },
     "done": true
   },
@@ -5323,6 +5383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-05-11 05:12:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
@@ -5380,6 +5446,12 @@
   "immersiveengineering:recipes/misc/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-11 05:08:55 +0000"
     },
     "done": true
   },
@@ -5587,6 +5659,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_ore_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:12:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-05-11 04:51:27 +0000"
@@ -5608,6 +5686,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-05-11 05:08:55 +0000"
     },
     "done": true
   },
