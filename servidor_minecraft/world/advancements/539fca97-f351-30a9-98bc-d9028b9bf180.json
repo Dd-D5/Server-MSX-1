@@ -2298,6 +2298,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-11 05:04:57 +0000",
       "minecraft:spider": "2025-05-11 04:44:53 +0000",
       "minecraft:creeper": "2025-05-11 03:39:59 +0000",
       "minecraft:phantom": "2025-05-11 04:42:49 +0000"
@@ -4068,6 +4069,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
@@ -4077,6 +4084,18 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-11 04:41:58 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/redstoneproxy_update": {
+    "criteria": {
+      "torch": "2025-05-11 04:58:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4116,9 +4135,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2025-05-11 04:19:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
     },
     "done": true
   },
@@ -4131,6 +4162,12 @@
   "ae2:recipes/misc/network/cables/dense_smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4170,6 +4207,24 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-11 04:58:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/misctools_charged_staff": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2025-05-11 04:51:05 +0000"
@@ -4179,6 +4234,18 @@
   "immersiveengineering:recipes/misc/crafting/cokebrick": {
     "criteria": {
       "has_item": "2025-05-11 04:13:16 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4206,6 +4273,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_red": {
+    "criteria": {
+      "has_xychorium_gem_red": "2025-05-11 04:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
@@ -4224,6 +4297,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/voltmeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-05-11 04:51:27 +0000"
@@ -4233,6 +4312,12 @@
   "utilitix:recipes/misc/reinforced_filter_rail": {
     "criteria": {
       "criterion1": "2025-05-11 04:51:00 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/copper_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4254,6 +4339,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
   "megacells:recipes/misc/cells/mega_item_cell_housing": {
     "criteria": {
       "has_dusts/sky_stone": "2025-05-11 04:51:49 +0000"
@@ -4266,6 +4357,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-11 04:58:03 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/concrete": {
     "criteria": {
       "has_clay": "2025-05-11 04:13:16 +0000"
@@ -4275,6 +4372,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_red": {
+    "criteria": {
+      "has_xychorium_gem_red": "2025-05-11 04:57:05 +0000"
     },
     "done": true
   },
@@ -4293,6 +4396,12 @@
   "utilitix:recipes/misc/linked_crystal": {
     "criteria": {
       "criterion0": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
     },
     "done": true
   },
@@ -4338,9 +4447,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-11 04:58:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_lv": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4353,6 +4474,12 @@
   "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
     "criteria": {
       "has_certus_quartz_dust": "2025-05-11 04:51:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4380,9 +4507,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/sand_2x": {
     "criteria": {
       "has_sand_1x": "2025-05-11 04:30:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 04:58:10 +0000"
     },
     "done": true
   },
@@ -4392,9 +4531,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
     },
     "done": true
   },
@@ -4410,9 +4579,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-11 04:58:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/dimmable_redstone_lamp": {
     "criteria": {
       "criterion1": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 04:58:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4458,6 +4657,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/hopper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_glowing_membrane": {
     "criteria": {
       "has_chorus": "2025-05-11 04:42:50 +0000"
@@ -4467,6 +4672,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-05-11 04:51:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4512,6 +4723,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/empty_casing": {
+    "criteria": {
+      "has_coppper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
@@ -4521,6 +4738,18 @@
   "projecte:recipes/misc/medium_covalence_dust": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4542,6 +4771,24 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
     "criteria": {
       "redstone": "2025-05-11 04:51:27 +0000"
@@ -4551,6 +4798,18 @@
   "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
     "criteria": {
       "has_item0": "2025-05-11 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-11 04:58:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
     },
     "done": true
   },
@@ -4596,6 +4855,24 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_phantom_membrane": {
     "criteria": {
       "has_chorus": "2025-05-11 04:42:50 +0000"
@@ -4608,15 +4885,45 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 04:58:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-05-11 04:14:28 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/parts/quartz_fiber_part": {
     "criteria": {
       "has_dusts/quartz": "2025-05-11 04:51:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
     },
     "done": true
   },
@@ -4629,6 +4936,12 @@
   "allthecompressed:recipes/building_blocks/decompress/sand_1x": {
     "criteria": {
       "has_sand_1x": "2025-05-11 04:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4656,6 +4969,24 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/compression_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_axe": {
     "criteria": {
       "has_certus_quartz": "2025-05-11 04:51:05 +0000"
@@ -4674,9 +5005,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-11 04:43:29 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/copper_ingot_from_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4692,6 +5035,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-11 04:58:03 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/synthetic_point": {
     "criteria": {
       "has_nugget": "2025-05-11 04:51:00 +0000"
@@ -4701,6 +5050,12 @@
   "xycraft_world:recipes/building_blocks/shapeless/glass_viewer_glowing_dust": {
     "criteria": {
       "has_glowstone_dust": "2025-05-11 04:51:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4716,9 +5071,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4770,6 +5137,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:27 +0000"
@@ -4791,6 +5164,12 @@
   "mcwwindows:recipes/arrow_slits_gothic": {
     "criteria": {
       "has_wood": "2025-05-11 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2025-05-11 04:58:10 +0000"
     },
     "done": true
   },
@@ -4824,9 +5203,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-11 04:42:49 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/copper_torch": {
+    "criteria": {
+      "has_copper": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4842,9 +5233,27 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-11 04:58:03 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_blue": {
     "criteria": {
       "has_xychorium_gem_blue": "2025-05-11 04:51:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/decoration_table": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
     },
     "done": true
   },
@@ -4866,15 +5275,33 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-11 04:58:03 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_sword": {
     "criteria": {
       "has_certus_quartz": "2025-05-11 04:51:05 +0000"
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/ignition_plate": {
+    "criteria": {
+      "has_red_xychorium": "2025-05-11 04:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-05-11 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-11 04:58:03 +0000"
     },
     "done": true
   },
@@ -4908,9 +5335,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "ae2:main/charged_quartz": {
     "criteria": {
       "certus": "2025-05-11 04:51:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 04:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -4932,6 +5377,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/light_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
@@ -4941,6 +5392,12 @@
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
     },
     "done": true
   },
@@ -4956,9 +5413,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2025-05-11 04:58:10 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/stick_from_stone_pickaxe": {
     "criteria": {
       "has_tool": "2025-05-11 04:18:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2025-05-11 04:58:03 +0000"
     },
     "done": true
   },
@@ -4998,6 +5467,24 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-11 04:58:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
@@ -5016,6 +5503,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
     "criteria": {
       "has_certus_quartz_dust": "2025-05-11 04:51:30 +0000"
@@ -5031,6 +5524,18 @@
   "xycraft_machines:recipes/misc/shaped/light_field": {
     "criteria": {
       "has_light_xychorium": "2025-05-11 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-11 04:58:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -5076,6 +5581,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-05-11 04:51:27 +0000"
@@ -5088,9 +5599,27 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/stone_wall": {
     "criteria": {
       "criterion0": "2025-05-11 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },
@@ -5100,9 +5629,21 @@
     },
     "done": true
   },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-11 04:45:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-11 05:02:35 +0000"
     },
     "done": true
   },

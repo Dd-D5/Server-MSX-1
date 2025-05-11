@@ -682,6 +682,12 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-05-11 05:01:28 +0000"
+    },
+    "done": true
+  },
   "cobblefordays:recipes/misc/tier_3": {
     "criteria": {
       "has_water": "2025-05-11 04:04:34 +0000"
@@ -799,6 +805,12 @@
   "forcecraft:recipes/transmutation/transmutation/stick_from_stone_axe": {
     "criteria": {
       "has_tool": "2025-05-11 03:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-11 05:04:00 +0000"
     },
     "done": true
   },
@@ -1658,6 +1670,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-11 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-05-11 05:04:00 +0000"
     },
     "done": true
   },
@@ -3150,6 +3168,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-05-11 05:04:00 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-11 04:02:16 +0000"
@@ -3906,6 +3930,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-05-11 05:04:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-05-11 04:02:18 +0000"
@@ -4413,6 +4443,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-11 05:04:00 +0000"
     },
     "done": true
   },
@@ -5214,6 +5250,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-05-11 05:04:00 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/redstone_module": {
     "criteria": {
       "ingot": "2025-05-11 04:02:16 +0000"
@@ -5613,6 +5655,12 @@
   "ae2:main/root": {
     "criteria": {
       "copper": "2025-05-11 04:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-11 05:04:00 +0000"
     },
     "done": true
   },
