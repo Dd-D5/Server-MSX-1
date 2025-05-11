@@ -718,6 +718,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-11 06:47:18 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/stone_gear": {
     "criteria": {
       "has_ingredient": "2025-05-11 03:17:14 +0000"
@@ -1300,6 +1306,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2025-05-11 06:54:46 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_thirty_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-11 05:42:13 +0000"
@@ -1339,6 +1351,12 @@
   "productivetrees:recipes/misc/crates/red_delicious_apple_crate_unpack": {
     "criteria": {
       "has_apple": "2025-05-11 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_block": {
+    "criteria": {
+      "has_certus_quartz_crystal": "2025-05-11 06:47:18 +0000"
     },
     "done": true
   },
@@ -1393,6 +1411,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-11 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/philosophers_stone_alt": {
+    "criteria": {
+      "has_glowstone": "2025-05-11 06:54:46 +0000"
     },
     "done": true
   },
@@ -1816,6 +1840,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/decorations/shaped/lamp_pole": {
+    "criteria": {
+      "has_aluminum": "2025-05-11 06:55:00 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-11 04:28:12 +0000"
@@ -2090,6 +2120,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 06:41:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-11 06:47:18 +0000"
     },
     "done": true
   },
@@ -2694,6 +2730,12 @@
     },
     "done": true
   },
+  "antiblocksrechiseled:recipes/building_blocks/bright_white": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-11 06:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-11 06:02:42 +0000"
@@ -2709,6 +2751,12 @@
   "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
     "criteria": {
       "has_glass": "2025-05-11 04:28:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_green": {
+    "criteria": {
+      "has_xychorium_gem_green": "2025-05-11 06:55:00 +0000"
     },
     "done": true
   },
@@ -2823,6 +2871,12 @@
   "pneumaticcraft:recipes/misc/dispenser_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-11 05:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-11 06:54:46 +0000"
     },
     "done": true
   },
@@ -3186,6 +3240,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-11 06:47:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/generic_limited_barrel_2": {
     "criteria": {
       "has _plank": "2025-05-11 03:12:54 +0000"
@@ -3333,6 +3393,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-11 04:46:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-11 06:47:18 +0000"
     },
     "done": true
   },
@@ -3507,6 +3573,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-11 06:54:46 +0000"
     },
     "done": true
   },
@@ -3753,6 +3825,12 @@
   "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-11 06:28:09 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/building_blocks/compressed_dust": {
+    "criteria": {
+      "has_item": "2025-05-11 06:53:06 +0000"
     },
     "done": true
   },
@@ -4548,6 +4626,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-11 06:47:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
@@ -4557,6 +4641,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/philosophers_stone": {
+    "criteria": {
+      "has_glowstone": "2025-05-11 06:54:46 +0000"
     },
     "done": true
   },
@@ -4896,6 +4986,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shapeless/glass_viewer_glowing_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-11 06:54:46 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 03:12:49 +0000"
@@ -5085,6 +5181,12 @@
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/certus_quartz_dust_from_gem": {
+    "criteria": {
+      "has_certus_quartz_gem": "2025-05-11 06:47:18 +0000"
     },
     "done": true
   },
@@ -5337,6 +5439,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-05-11 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/planter": {
+    "criteria": {
+      "has_green_xychorium": "2025-05-11 06:55:00 +0000"
     },
     "done": true
   },
@@ -5665,6 +5773,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/certus_quartz_sword": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-11 06:47:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
@@ -5893,6 +6007,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_green": {
+    "criteria": {
+      "has_xychorium_gem_green": "2025-05-11 06:55:00 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
@@ -5902,6 +6022,12 @@
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-05-11 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2025-05-11 06:47:18 +0000"
     },
     "done": true
   },
@@ -6226,6 +6352,12 @@
   "enderio:recipes/redstone/resetting_lever_five": {
     "criteria": {
       "has_ingredient": "2025-05-11 05:42:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2025-05-11 06:47:18 +0000"
     },
     "done": true
   },

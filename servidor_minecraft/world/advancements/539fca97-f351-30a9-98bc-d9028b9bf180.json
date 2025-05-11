@@ -4059,6 +4059,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-05-11 06:52:12 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/compacting/xychorium_gem_light": {
     "criteria": {
       "has_xychorium_gem_light": "2025-05-11 04:51:49 +0000"
@@ -4083,6 +4089,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_five_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-11 06:03:18 +0000"
@@ -4092,6 +4104,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-05-11 06:03:18 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -4125,9 +4143,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-11 06:46:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -4263,6 +4293,18 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-11 06:45:48 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/rs_engineering": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:27 +0000"
@@ -4296,6 +4338,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 05:22:39 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -4371,6 +4419,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/gravel_2x": {
     "criteria": {
       "has_gravel_1x": "2025-05-11 04:30:15 +0000"
@@ -4425,6 +4479,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-05-11 06:52:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
@@ -4452,6 +4512,12 @@
   "immersiveengineering:recipes/misc/crafting/cokebrick": {
     "criteria": {
       "has_item": "2025-05-11 04:13:16 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-11 06:45:48 +0000"
     },
     "done": true
   },
@@ -4488,6 +4554,12 @@
   "immersiveengineering:recipes/misc/crafting/lantern": {
     "criteria": {
       "has_glowstone": "2025-05-11 04:51:30 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -4731,6 +4803,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/redstone_information": {
     "criteria": {
       "redstone": "2025-05-11 04:51:27 +0000"
@@ -4746,6 +4824,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-11 06:45:48 +0000"
     },
     "done": true
   },
@@ -4803,9 +4887,21 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/connector_lv": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -4830,6 +4926,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 05:22:39 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-11 06:52:12 +0000"
     },
     "done": true
   },
@@ -4887,6 +4989,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/magic_lamp_empty": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-11 06:45:48 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/paintbrush": {
     "criteria": {
       "has_base_tier_wooden_storage": "2025-05-11 04:58:10 +0000"
@@ -4899,6 +5007,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_five_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/golden_blacksmith_gavel": {
     "criteria": {
       "has_ingots/gold": "2025-05-11 05:22:39 +0000"
@@ -4908,6 +5022,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -5001,6 +5121,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-11 06:45:48 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
@@ -5067,6 +5193,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/iron_gear": {
     "criteria": {
       "has_ingredient": "2025-05-11 04:51:31 +0000"
@@ -5094,6 +5226,12 @@
   "allthecompressed:recipes/building_blocks/decompress/gravel_1x": {
     "criteria": {
       "has_gravel_1x": "2025-05-11 04:30:15 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-11 06:45:48 +0000"
     },
     "done": true
   },
@@ -5325,6 +5463,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-11 06:45:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-11 05:02:35 +0000"
@@ -5352,6 +5496,12 @@
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
       "has_porkchop": "2025-05-11 06:19:35 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -5433,6 +5583,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/storage_tool": {
     "criteria": {
       "has_redstone_torch": "2025-05-11 04:58:03 +0000"
@@ -5505,6 +5661,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-05-11 06:52:12 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-05-11 06:09:24 +0000"
@@ -5526,6 +5688,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -5577,6 +5745,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 05:22:39 +0000"
@@ -5613,6 +5787,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_three_hundred": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-11 04:59:13 +0000"
@@ -5631,6 +5811,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_base": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "antiblocksrechiseled:recipes/building_blocks/wool_brown": {
     "criteria": {
       "has_wool": "2025-05-11 06:09:24 +0000"
@@ -5646,6 +5832,12 @@
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-05-11 06:09:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-05-11 06:52:12 +0000"
     },
     "done": true
   },
@@ -5787,9 +5979,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-11 06:52:12 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/lime_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-11 05:43:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-11 06:45:48 +0000"
     },
     "done": true
   },
@@ -5811,9 +6015,21 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_sixty_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/diamond_mesh": {
     "criteria": {
       "has_item": "2025-05-11 06:03:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-05-11 06:52:12 +0000"
     },
     "done": true
   },
@@ -5904,6 +6120,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/gray_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-11 05:43:04 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -6015,6 +6237,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "antiblocksrechiseled:recipes/building_blocks/wool_red": {
     "criteria": {
       "has_wool": "2025-05-11 06:09:24 +0000"
@@ -6072,6 +6300,12 @@
   "botania:recipes/decorations/spark": {
     "criteria": {
       "has_item": "2025-05-11 04:51:31 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_sixty_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -6255,6 +6489,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-11 06:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-11 04:51:27 +0000"
@@ -6366,6 +6606,12 @@
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_thirty": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -6525,6 +6771,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_thirty_inv_from_prev": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/unfired_porcelain_crucible": {
     "criteria": {
       "has_item": "2025-05-11 04:19:02 +0000"
@@ -6609,6 +6861,12 @@
     },
     "done": true
   },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-05-11 06:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
@@ -6636,6 +6894,12 @@
   "immersiveengineering:recipes/misc/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2025-05-11 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/lens_frame": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-11 06:45:48 +0000"
     },
     "done": true
   },
@@ -6672,6 +6936,12 @@
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_paper": "2025-05-11 06:28:59 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -6753,6 +7023,12 @@
     },
     "done": true
   },
+  "enderio:recipes/redstone/resetting_lever_five": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_hoe": {
     "criteria": {
       "has_certus_quartz": "2025-05-11 04:51:05 +0000"
@@ -6774,6 +7050,12 @@
   "antiblocksrechiseled:recipes/building_blocks/wool_light_blue": {
     "criteria": {
       "has_wool": "2025-05-11 06:09:24 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/redstone/resetting_lever_ten_from_inv": {
+    "criteria": {
+      "has_ingredient": "2025-05-11 06:53:42 +0000"
     },
     "done": true
   },
@@ -6819,6 +7101,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/silver_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-11 06:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 04:46:30 +0000"
@@ -6846,6 +7134,12 @@
   "antiblocksrechiseled:recipes/building_blocks/wool_blue": {
     "criteria": {
       "has_wool": "2025-05-11 06:09:24 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/coal_block_1x": {
+    "criteria": {
+      "has_coal_block": "2025-05-11 06:46:05 +0000"
     },
     "done": true
   },
