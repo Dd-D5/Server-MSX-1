@@ -3581,3 +3581,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [11May2025 04:19:59.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Hearty Meal]
 [11May2025 04:21:36.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Bonfire Lit]
 [11May2025 04:26:13.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Hot Stuff]
+[11May2025 04:32:57.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4120, y=70, z=-7} BlockPos{x=4115, y=73, z=12}
+[11May2025 04:33:26.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Getting an Upgrade]
+[11May2025 04:36:40.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,397.2650533173185,0.0
+[11May2025 04:36:44.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,396.8275886758414,0.0
+[11May2025 04:36:49.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,397.1641507509951,0.0
+[11May2025 04:36:54.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Knowledge of Death]
+[11May2025 04:36:54.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has reached the goal [Strong or Careful]
+[11May2025 04:36:54.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 fell from a high place
+[11May2025 04:36:54.572] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
+[11May2025 04:37:12.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,397.73944160634125,0.0
+[11May2025 04:37:20.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,397.73944160634125,0.0
+[11May2025 04:37:27.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,397.73944160634125,0.0
+[11May2025 04:37:42.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,397.73944160634125,0.0
+[11May2025 04:37:55.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon fell from a high place
+[11May2025 04:37:55.826] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
