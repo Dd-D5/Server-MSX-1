@@ -2154,6 +2154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-05-11 05:18:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
@@ -2247,6 +2253,12 @@
   "utilitix:recipes/misc/hand_bell": {
     "criteria": {
       "criterion0": "2025-05-11 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-05-11 05:18:21 +0000"
     },
     "done": true
   },
@@ -2631,6 +2643,12 @@
   "alchemistry:recipes/misc/compactor": {
     "criteria": {
       "has_item": "2025-05-11 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/gold_dust": {
+    "criteria": {
+      "has_gold": "2025-05-11 05:18:21 +0000"
     },
     "done": true
   },
@@ -4431,6 +4449,12 @@
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-05-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-05-11 05:18:21 +0000"
     },
     "done": true
   },
