@@ -790,6 +790,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2025-05-11 04:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
@@ -1045,6 +1051,12 @@
   "utilitarian:recipes/misc/snad/drit": {
     "criteria": {
       "has_dirt": "2025-05-11 03:14:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2025-05-11 04:19:56 +0000"
     },
     "done": true
   },
@@ -1396,6 +1408,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-05-11 04:21:36 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/sand_2x": {
     "criteria": {
       "has_sand_1x": "2025-05-11 03:33:24 +0000"
@@ -1602,6 +1620,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "scrambled_eggs": "2025-05-11 04:19:42 +0000",
       "toast": "2025-05-11 04:05:08 +0000"
     },
     "done": false
@@ -2002,6 +2021,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-05-11 04:21:14 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-05-11 04:12:50 +0000"
@@ -2302,6 +2327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-11 04:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-11 03:40:22 +0000"
@@ -2524,6 +2555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-11 04:19:56 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/crook": {
     "criteria": {
       "has_item": "2025-05-11 03:17:18 +0000"
@@ -2587,6 +2624,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-05-11 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/porcelain_clay_ball": {
+    "criteria": {
+      "has_item": "2025-05-11 04:19:56 +0000"
     },
     "done": true
   },
@@ -3667,6 +3710,12 @@
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_wood": "2025-05-11 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
+    "criteria": {
+      "has_clay_ball": "2025-05-11 04:19:56 +0000"
     },
     "done": true
   },

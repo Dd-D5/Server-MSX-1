@@ -773,6 +773,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/granite_2x": {
+    "criteria": {
+      "has_granite_1x": "2025-05-11 04:23:33 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-05-11 02:58:42 +0000"
@@ -1183,6 +1189,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "scrambled_eggs": "2025-05-11 04:19:56 +0000",
       "toast": "2025-05-11 03:50:35 +0000"
     },
     "done": false
@@ -1190,6 +1197,12 @@
   "sophisticatedstorage:recipes/misc/generic_chest": {
     "criteria": {
       "has _plank": "2025-05-11 03:39:55 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/blackstone_1x": {
+    "criteria": {
+      "has_blackstone_1x": "2025-05-11 04:23:36 +0000"
     },
     "done": true
   },
@@ -1319,6 +1332,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/decompress/granite_1x": {
+    "criteria": {
+      "has_granite_1x": "2025-05-11 04:23:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-11 03:26:24 +0000"
@@ -1442,6 +1461,12 @@
   "allthecompressed:recipes/building_blocks/compress/blackstone_1x": {
     "criteria": {
       "has_blackstone": "2025-05-11 03:26:53 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/blackstone_2x": {
+    "criteria": {
+      "has_blackstone_1x": "2025-05-11 04:23:36 +0000"
     },
     "done": true
   },
@@ -2363,6 +2388,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/decompress/cobbled_deepslate_1x": {
+    "criteria": {
+      "has_cobbled_deepslate_1x": "2025-05-11 04:23:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-11 03:26:24 +0000"
@@ -2663,6 +2694,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/decompress/basalt_1x": {
+    "criteria": {
+      "has_basalt_1x": "2025-05-11 04:24:38 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_trade/spirit_trade/test": {
     "criteria": {
       "has_stone": "2025-05-11 03:25:51 +0000"
@@ -2798,6 +2835,12 @@
   "allthecompressed:recipes/building_blocks/compress/basalt_1x": {
     "criteria": {
       "has_basalt": "2025-05-11 03:26:42 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/basalt_2x": {
+    "criteria": {
+      "has_basalt_1x": "2025-05-11 04:24:38 +0000"
     },
     "done": true
   },
@@ -3341,6 +3384,12 @@
   "allthecompressed:recipes/building_blocks/compress/cobbled_deepslate_1x": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/cobbled_deepslate_2x": {
+    "criteria": {
+      "has_cobbled_deepslate_1x": "2025-05-11 04:23:40 +0000"
     },
     "done": true
   },
