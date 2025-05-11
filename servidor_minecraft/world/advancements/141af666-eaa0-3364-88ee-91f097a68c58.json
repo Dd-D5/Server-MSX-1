@@ -340,6 +340,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-05-11 03:41:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-05-11 03:23:19 +0000"
@@ -367,6 +373,12 @@
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_blue_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/ores/aluminum_tag": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:15 +0000"
     },
     "done": true
   },
@@ -562,9 +574,21 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/stone_torch": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:15 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_routing": {
     "criteria": {
       "chest": "2025-05-11 03:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-11 03:40:22 +0000"
     },
     "done": true
   },
@@ -778,9 +802,21 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/tin_tag": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:28 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/compressed_stone_hammer": {
     "criteria": {
       "has_item": "2025-05-11 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-11 03:41:09 +0000"
     },
     "done": true
   },
@@ -892,9 +928,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2025-05-11 03:40:22 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_green": {
     "criteria": {
       "chest": "2025-05-11 03:25:28 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/ores/osmium_tag": {
+    "criteria": {
+      "has_item": "2025-05-11 03:43:08 +0000"
     },
     "done": true
   },
@@ -988,6 +1036,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-05-11 03:41:15 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/oak_logs_to_pressure_plates": {
     "criteria": {
       "has_log": "2025-05-11 03:12:49 +0000"
@@ -1039,6 +1093,12 @@
   "croptopia:recipes/flour": {
     "criteria": {
       "has_grain": "2025-05-11 03:11:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-05-11 03:40:22 +0000"
     },
     "done": true
   },
@@ -1123,6 +1183,12 @@
   "oreberriesreplanted:recipes/misc/oak_vat": {
     "criteria": {
       "has_planks": "2025-05-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-11 03:40:22 +0000"
     },
     "done": true
   },
@@ -1222,6 +1288,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/tiny_coal_to_tiny": {
+    "criteria": {
+      "criterion0": "2025-05-11 03:41:15 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_crop": "2025-05-11 03:11:37 +0000"
@@ -1231,6 +1303,12 @@
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-05-11 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-11 03:40:22 +0000"
     },
     "done": true
   },
@@ -1288,6 +1366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-11 03:40:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-11 03:13:08 +0000"
@@ -1315,6 +1399,12 @@
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2025-05-11 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/iron_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:20 +0000"
     },
     "done": true
   },
@@ -1378,9 +1468,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-11 03:40:22 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2025-05-11 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-11 03:40:22 +0000"
     },
     "done": true
   },
@@ -1570,6 +1672,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/string_mesh": {
+    "criteria": {
+      "has_item": "2025-05-11 03:40:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-05-11 03:22:14 +0000"
@@ -1684,6 +1792,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/flint_mesh": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-05-11 03:17:18 +0000"
@@ -1729,6 +1843,18 @@
   "supplementaries:recipes/daub_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-05-11 03:17:18 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/ores/silver_tag": {
+    "criteria": {
+      "has_item": "2025-05-11 03:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-11 03:41:09 +0000"
     },
     "done": true
   },
@@ -1780,6 +1906,18 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/gold_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 03:43:08 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/copper_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 03:40:57 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/oak_compressed_sieve": {
     "criteria": {
       "has_item": "2025-05-11 03:12:49 +0000"
@@ -1807,6 +1945,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-05-11 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/string_mesh": {
+    "criteria": {
+      "has_string_mesh": "2025-05-11 03:40:35 +0000"
     },
     "done": true
   },
@@ -1936,6 +2080,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/nickel_tag": {
+    "criteria": {
+      "has_item": "2025-05-11 03:43:01 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/stone_rod": {
     "criteria": {
       "has_item": "2025-05-11 03:17:14 +0000"
@@ -2044,6 +2194,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/ores/zinc_tag": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:09 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/oak_log_1x": {
     "criteria": {
       "has_oak_log": "2025-05-11 03:12:49 +0000"
@@ -2062,6 +2218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-05-11 03:40:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-11 03:12:54 +0000"
@@ -2077,6 +2239,12 @@
   "xnet:recipes/xnet/advanced_connector_green_dye": {
     "criteria": {
       "chest": "2025-05-11 03:25:28 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/flint_mesh_from_string_mesh": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:09 +0000"
     },
     "done": true
   },
@@ -2146,6 +2314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-05-11 03:41:09 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/basalt": {
     "criteria": {
       "has_item": "2025-05-11 03:16:10 +0000"
@@ -2197,6 +2371,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-11 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-11 03:41:15 +0000"
     },
     "done": true
   },

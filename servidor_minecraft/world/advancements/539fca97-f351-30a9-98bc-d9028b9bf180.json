@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_blue_dye": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_wood_pillar_light": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:20:27 +0000"
@@ -26,6 +32,12 @@
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-05-11 03:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-11 03:37:58 +0000"
     },
     "done": true
   },
@@ -53,6 +65,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_blue_dye": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2025-05-11 02:51:10 +0000"
@@ -68,6 +86,12 @@
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-05-11 03:20:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-05-11 03:41:07 +0000"
     },
     "done": true
   },
@@ -140,6 +164,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-11 03:26:08 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_wooden_hoe": {
+    "criteria": {
+      "has_tool": "2025-05-11 03:38:16 +0000"
     },
     "done": true
   },
@@ -245,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-11 03:37:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2025-05-11 03:25:28 +0000"
@@ -341,6 +377,24 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/stone_torch": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:19 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_routing": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-11 03:38:33 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_dark_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:20:27 +0000"
@@ -359,6 +413,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_yellow_dye": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-05-11 03:26:19 +0000"
@@ -374,6 +434,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-05-11 03:20:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2025-05-11 03:37:58 +0000"
     },
     "done": true
   },
@@ -455,6 +521,12 @@
     },
     "done": true
   },
+  "sfm:recipes/misc/manager": {
+    "criteria": {
+      "has_chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 03:24:14 +0000"
@@ -515,6 +587,12 @@
     },
     "done": true
   },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-05-11 03:38:16 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/building_blocks/shaped/chiseled_deepslate_green_r": {
     "criteria": {
       "has_TagKey[minecraft:item / minecraft:planks]": "2025-05-11 03:20:27 +0000"
@@ -551,6 +629,12 @@
     },
     "done": true
   },
+  "sfm:recipes/misc/fancy_cable": {
+    "criteria": {
+      "has_chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/gray_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-11 03:03:53 +0000"
@@ -566,6 +650,12 @@
   "exdeorum:recipes/misc/cooked_silk_worm": {
     "criteria": {
       "has_item": "2025-05-11 03:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-11 03:41:07 +0000"
     },
     "done": true
   },
@@ -635,6 +725,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2025-05-11 02:51:10 +0000"
@@ -647,9 +743,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2025-05-11 03:38:33 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_green": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/ores/osmium_tag": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:04 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/tools/iron_band": {
     "criteria": {
       "has_lava": "2025-05-11 03:23:49 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red_dye": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
     },
     "done": true
   },
@@ -683,6 +803,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_blue_dye": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/mob_yoinker": {
     "criteria": {
       "criterion2": "2025-05-11 03:07:07 +0000"
@@ -701,6 +827,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-11 03:37:58 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2025-05-11 02:51:10 +0000"
@@ -716,6 +848,18 @@
   "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 03:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-11 03:37:58 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-05-11 03:41:19 +0000"
     },
     "done": true
   },
@@ -773,6 +917,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-05-11 03:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-05-11 03:20:10 +0000"
@@ -788,6 +938,12 @@
   "silentgear:recipes/misc/upgrade_base": {
     "criteria": {
       "has_item": "2025-05-11 03:20:27 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_yellow_dye": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
     },
     "done": true
   },
@@ -836,6 +992,12 @@
   "oreberriesreplanted:recipes/misc/oak_vat": {
     "criteria": {
       "has_planks": "2025-05-11 03:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-11 03:38:33 +0000"
     },
     "done": true
   },
@@ -965,9 +1127,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2025-05-11 03:37:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-05-11 02:51:10 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/tiny_coal_to_tiny": {
+    "criteria": {
+      "criterion0": "2025-05-11 03:41:19 +0000"
     },
     "done": true
   },
@@ -980,6 +1154,12 @@
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-05-11 03:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-11 03:38:33 +0000"
     },
     "done": true
   },
@@ -1019,6 +1199,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_red": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-05-11 03:25:28 +0000"
@@ -1037,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-11 03:38:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-05-11 03:25:28 +0000"
@@ -1049,6 +1241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-11 03:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-11 03:25:28 +0000"
@@ -1058,6 +1256,12 @@
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2025-05-11 03:28:55 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/iron_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:07 +0000"
     },
     "done": true
   },
@@ -1109,15 +1313,45 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_red_dye": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/cobblestone": {
     "criteria": {
       "has_item": "2025-05-11 03:16:12 +0000"
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_green_dye": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-11 03:20:27 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red_dye": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-11 03:38:33 +0000"
     },
     "done": true
   },
@@ -1130,6 +1364,18 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 03:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-11 03:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-11 03:37:58 +0000"
     },
     "done": true
   },
@@ -1307,9 +1553,21 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/string_mesh": {
+    "criteria": {
+      "has_item": "2025-05-11 03:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-05-11 03:27:12 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_yellow": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
     },
     "done": true
   },
@@ -1385,6 +1643,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_blue": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-11 03:26:19 +0000"
@@ -1448,6 +1712,12 @@
   "utilitix:recipes/misc/highspeed_rail": {
     "criteria": {
       "criterion1": "2025-05-11 03:25:28 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/flint_mesh": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:07 +0000"
     },
     "done": true
   },
@@ -1517,6 +1787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-11 03:41:07 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/generic_barrel": {
     "criteria": {
       "has _plank": "2025-05-11 03:20:27 +0000"
@@ -1526,6 +1802,12 @@
   "utilitix:recipes/misc/comparator_redirector_down": {
     "criteria": {
       "criterion1": "2025-05-11 03:20:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-11 03:37:58 +0000"
     },
     "done": true
   },
@@ -1544,6 +1826,18 @@
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-05-11 03:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-05-11 03:39:59 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/copper_ore": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:05 +0000"
     },
     "done": true
   },
@@ -1619,6 +1913,12 @@
     },
     "done": true
   },
+  "sfm:recipes/misc/cable": {
+    "criteria": {
+      "has_chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-11 03:24:14 +0000"
@@ -1637,6 +1937,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-05-11 03:39:59 +0000"
+    },
+    "done": false
+  },
+  "xnet:recipes/xnet/connector_yellow_dye": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-05-11 03:20:10 +0000"
@@ -1652,6 +1964,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-11 03:11:53 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/port_item": {
+    "criteria": {
+      "has_chest": "2025-05-11 03:43:52 +0000"
     },
     "done": true
   },
@@ -1679,9 +1997,21 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/soaryn_box": {
+    "criteria": {
+      "has_chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/nether": {
     "criteria": {
       "has_nether_brick": "2025-05-11 02:51:10 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/ores/nickel_tag": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:15 +0000"
     },
     "done": true
   },
@@ -1808,9 +2138,21 @@
     },
     "done": true
   },
+  "sfm:recipes/misc/fancy_to_cable": {
+    "criteria": {
+      "has_chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2025-05-11 03:25:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-05-11 03:43:52 +0000"
     },
     "done": true
   },
@@ -1838,6 +2180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-05-11 03:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-11 03:20:27 +0000"
@@ -1853,6 +2201,24 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-05-11 03:20:27 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green_dye": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/flint_mesh_from_string_mesh": {
+    "criteria": {
+      "has_item": "2025-05-11 03:41:07 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
     },
     "done": true
   },
@@ -1894,6 +2260,18 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_green_dye": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_belt": {
+    "criteria": {
+      "has_leather": "2025-05-11 03:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-11 03:11:47 +0000"
@@ -1903,6 +2281,12 @@
   "mcwfences:recipes/end": {
     "criteria": {
       "has_end_brick": "2025-05-11 02:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-11 03:37:58 +0000"
     },
     "done": true
   },
@@ -1942,6 +2326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-05-11 03:41:07 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/basalt": {
     "criteria": {
       "has_item": "2025-05-11 03:16:28 +0000"
@@ -1975,6 +2365,12 @@
   "mcwfences:recipes/mud_brick": {
     "criteria": {
       "has_qq": "2025-05-11 02:51:10 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_routing": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
     },
     "done": true
   },
@@ -2032,6 +2428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-11 03:41:19 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cherry_rail_bridge": {
     "criteria": {
       "has_planks": "2025-05-11 03:20:27 +0000"
@@ -2068,9 +2470,27 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_red": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-05-11 03:43:52 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-05-11 03:24:14 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_pack_upgrade": {
+    "criteria": {
+      "has_leather": "2025-05-11 03:37:58 +0000"
     },
     "done": true
   },
@@ -2143,6 +2563,12 @@
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2025-05-11 02:51:10 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow": {
+    "criteria": {
+      "chest": "2025-05-11 03:43:52 +0000"
     },
     "done": true
   },
