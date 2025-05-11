@@ -1571,6 +1571,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/dead_bush": {
+    "criteria": {
+      "has_salts": "2025-05-11 06:13:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-05-11 03:08:43 +0000"
@@ -3222,6 +3228,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_salt": "2025-05-11 06:13:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 03:27:09 +0000"
@@ -3303,6 +3315,12 @@
   "forcecraft:recipes/food/soul_wafer": {
     "criteria": {
       "has_bone": "2025-05-11 03:49:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_salt": "2025-05-11 06:13:51 +0000"
     },
     "done": true
   },
@@ -4740,6 +4758,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_salt": "2025-05-11 06:13:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-11 03:26:00 +0000"
@@ -4887,6 +4911,12 @@
   "immersiveengineering:recipes/misc/crafting/grit_sand": {
     "criteria": {
       "has_sand": "2025-05-11 03:45:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_salt": "2025-05-11 06:13:51 +0000"
     },
     "done": true
   },
