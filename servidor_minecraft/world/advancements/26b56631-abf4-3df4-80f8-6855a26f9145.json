@@ -9325,9 +9325,45 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:23:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-12 03:23:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-12 03:23:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-12 03:23:40 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-05-12 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-12 03:22:41 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:23:40 +0000"
     },
     "done": true
   },
@@ -9343,9 +9379,21 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/antenna_base": {
+    "criteria": {
+      "block": "2025-05-12 03:22:41 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-12 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:23:40 +0000"
     },
     "done": true
   },
@@ -9379,6 +9427,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:23:40 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
     "criteria": {
       "has_gold_block": "2025-05-12 03:09:50 +0000"
@@ -9409,6 +9463,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 03:23:40 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-12 03:23:40 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-05-12 03:12:24 +0000"
@@ -9418,6 +9484,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-05-12 03:17:16 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/misc/anvil_cart": {
+    "criteria": {
+      "criterion0": "2025-05-12 03:22:46 +0000"
     },
     "done": true
   },
@@ -9451,9 +9523,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-12 03:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-12 03:09:50 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_anvil": {
+    "criteria": {
+      "has_anvil": "2025-05-12 03:22:46 +0000"
     },
     "done": true
   },
@@ -9475,6 +9559,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
+    "criteria": {
+      "has_iron_block": "2025-05-12 03:22:41 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-12 03:05:34 +0000"
@@ -9490,6 +9580,18 @@
   "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
     "criteria": {
       "has_armor": "2025-05-12 03:17:16 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/compressed_iron_hammer": {
+    "criteria": {
+      "has_item": "2025-05-12 03:24:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ore_hammer": {
+    "criteria": {
+      "has_iron_block": "2025-05-12 03:22:41 +0000"
     },
     "done": true
   },

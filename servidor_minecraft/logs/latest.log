@@ -3443,3 +3443,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 03:20:34.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! -0.7110939208205309,-18.164975345059304,0.17099785847300986
 [12May2025 03:20:41.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 fell from a high place
 [12May2025 03:20:41.589] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
+[12May2025 03:30:11.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,396.8202689159381,0.0
+[12May2025 03:32:32.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the weather to clear]

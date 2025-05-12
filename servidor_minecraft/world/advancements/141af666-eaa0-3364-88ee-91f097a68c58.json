@@ -8097,6 +8097,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2025-05-12 03:25:53 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-12 01:33:50 +0000"
@@ -8643,6 +8649,12 @@
     },
     "done": true
   },
+  "xycraft_machines:recipes/misc/shaped/fluid_void": {
+    "criteria": {
+      "has_dark_xychorium": "2025-05-12 03:25:53 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-05-12 01:56:53 +0000"
@@ -8652,6 +8664,12 @@
   "mekanism:enricher": {
     "criteria": {
       "enrichment_chamber": "2025-05-12 02:35:34 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2025-05-12 03:25:53 +0000"
     },
     "done": true
   },
