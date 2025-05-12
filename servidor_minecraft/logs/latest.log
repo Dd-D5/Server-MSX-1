@@ -3420,3 +3420,26 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 03:13:26.131] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
 [12May2025 03:13:34.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by elixgamer_2006
 [12May2025 03:13:34.795] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 03:16:20.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vegetta777 moved too quickly! 0.0,333.09025250045346,0.0
+[12May2025 03:17:02.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Duke Manny the Alien'/4715, l='ServerLevel[world]', x=518.57, y=71.00, z=-10.35] died: Duke Manny the Alien had their world rocked!
+[12May2025 03:17:16.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Cover Me with Diamonds]
+[12May2025 03:17:16.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has completed the challenge [He Wasn't So Strong]
+[12May2025 03:17:16.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has reached the goal [Worthy Equipment]
+[12May2025 03:17:16.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Apothic Affixes]
+[12May2025 03:17:24.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> tnce
+[12May2025 03:18:09.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 had their world rocked!
+[12May2025 03:18:09.181] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[12May2025 03:18:43.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has reached the goal [Chain Death]
+[12May2025 03:18:43.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 was slain by pepinillodelimon
+[12May2025 03:18:43.842] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[12May2025 03:18:46.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by elixgamer_2006
+[12May2025 03:18:46.082] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 03:18:58.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [How'd You Get This?]
+[12May2025 03:18:58.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Funeral Theft]
+[12May2025 03:19:05.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.018888139723458153,-12.847336583793144,0.0
+[12May2025 03:19:09.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,402.8907058974977,0.0
+[12May2025 03:19:57.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 was doomed to fall by Basalz
+[12May2025 03:19:57.075] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[12May2025 03:20:34.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! -0.7110939208205309,-18.164975345059304,0.17099785847300986
+[12May2025 03:20:41.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 fell from a high place
+[12May2025 03:20:41.589] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved

@@ -9319,9 +9319,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-05-12 03:12:24 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-05-12 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-05-12 03:12:24 +0000"
     },
     "done": true
   },
@@ -9334,6 +9346,18 @@
   "alltheores:recipes/misc/silver_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-12 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 03:12:24 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_boots": {
+    "criteria": {
+      "has_armor": "2025-05-12 03:17:16 +0000"
     },
     "done": true
   },
@@ -9373,9 +9397,51 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-05-12 03:17:16 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-05-12 03:12:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-05-12 03:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-12 03:17:16 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot_from_dust": {
+    "criteria": {
+      "has_silver_dust": "2025-05-12 03:20:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-12 03:12:24 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-12 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-05-12 03:12:24 +0000"
     },
     "done": true
   },
@@ -9391,15 +9457,39 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/blasting/silver_ingot_from_dust": {
+    "criteria": {
+      "has_silver_dust": "2025-05-12 03:20:06 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/lens_frame": {
     "criteria": {
       "has_silver_ingot": "2025-05-12 03:05:34 +0000"
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-05-12 03:17:16 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-12 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-05-12 03:17:16 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
+    "criteria": {
+      "has_armor": "2025-05-12 03:17:16 +0000"
     },
     "done": true
   },
