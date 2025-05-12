@@ -3438,3 +3438,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 22:20:01.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,332.1229209197836,0.0
 [12May2025 22:23:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
 [12May2025 22:24:28.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/22285, l='ServerLevel[world]', x=4107.70, y=70.00, z=35.76] died: Honeyed Archer was slain by elixgamer_2006
+[12May2025 22:25:26.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement ['X' Marks the Spot]
+[12May2025 22:26:05.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Where Is The Stone Pen?]
+[12May2025 22:26:22.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has reached the goal [Worthy Equipment]
+[12May2025 22:26:22.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [I Found It Underground]
+[12May2025 22:28:02.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Ashes 'n Bones]
+[12May2025 22:29:52.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Far From Perfect]
+[12May2025 22:29:52.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Not a Diamond]
+[12May2025 22:30:03.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement ['X' Marks the Spot]
+[12May2025 22:32:04.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Into Fire]
+[12May2025 22:32:38.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [How'd You Get This?]
+[12May2025 22:32:38.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Epic!]
+[12May2025 22:32:38.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Suit Up]
+[12May2025 22:34:46.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]

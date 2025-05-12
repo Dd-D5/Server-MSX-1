@@ -4040,6 +4040,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-05-12 21:34:26 +0000",
+      "minecraft:skeleton": "2025-05-12 22:24:28 +0000",
       "minecraft:ghast": "2025-05-12 22:18:41 +0000",
       "minecraft:magma_cube": "2025-05-12 21:38:07 +0000",
       "minecraft:phantom": "2025-05-11 04:43:06 +0000",
@@ -10350,6 +10351,18 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/crimson_iron_dust_from_ingot": {
+    "criteria": {
+      "has_crimson_iron_ingot": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_tile_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
   "oreberriesreplanted:recipes/misc/cherry_vat": {
     "criteria": {
       "has_planks": "2025-05-12 22:02:17 +0000"
@@ -10380,9 +10393,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_tile_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2025-05-12 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-12 22:30:11 +0000"
     },
     "done": true
   },
@@ -10404,6 +10429,18 @@
     },
     "done": true
   },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2025-05-12 22:30:07 +0000"
+    },
+    "done": false
+  },
+  "silentgear:recipes/misc/crimson_iron_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-05-12 21:39:35 +0000"
@@ -10413,6 +10450,12 @@
   "utilitarian:recipes/misc/tps_meter": {
     "criteria": {
       "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_nugget": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
     },
     "done": true
   },
@@ -10428,6 +10471,30 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/wither_skeleton": {
+    "criteria": {
+      "has_withered_rib": "2025-05-12 22:30:08 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/salvager": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
     "criteria": {
       "has_obsidian": "2025-05-12 21:05:38 +0000"
@@ -10440,6 +10507,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/crimson_iron_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-05-12 21:34:12 +0000"
@@ -10449,6 +10522,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-05-12 21:40:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-12 22:30:03 +0000"
     },
     "done": true
   },
@@ -10488,6 +10567,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/wither_skeleton_skull": {
+    "criteria": {
+      "has_withered_rib": "2025-05-12 22:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-12 21:05:38 +0000"
@@ -10512,9 +10597,27 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mercy_cross": {
+    "criteria": {
+      "has_withered_rib": "2025-05-12 22:30:08 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_sword": {
+    "criteria": {
+      "has_tool": "2025-05-12 22:30:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-12 22:02:11 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
     },
     "done": true
   },
@@ -10572,15 +10675,57 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_cherry_bridge": {
     "criteria": {
       "has_planks": "2025-05-12 22:02:17 +0000"
     },
     "done": true
   },
+  "silentgear:recipes/misc/crimson_iron_dust": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-05-12 22:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-12 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "sapling": "2025-05-12 22:30:07 +0000"
+    },
+    "done": false
+  },
+  "silentgear:recipes/misc/crimson_iron_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-12 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_pillar_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
     },
     "done": true
   },
@@ -10596,9 +10741,27 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/crimson_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-05-12 22:30:03 +0000"
+    },
+    "done": false
+  },
   "sophisticatedstorage:recipes/misc/cherry_chest": {
     "criteria": {
       "has_cherry_plank": "2025-05-12 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
     },
     "done": true
   },
@@ -10614,6 +10777,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/crimson_iron_block": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
     "criteria": {
       "has_armor": "2025-05-12 21:17:10 +0000"
@@ -10626,9 +10795,21 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/crimson_iron_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/blaze_block": {
     "criteria": {
       "has_item": "2025-05-12 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/spawner_extractor": {
+    "criteria": {
+      "has_spawner_agitator": "2025-05-12 22:30:11 +0000"
     },
     "done": true
   },
