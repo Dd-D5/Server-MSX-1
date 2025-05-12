@@ -3372,3 +3372,22 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 18:28:44.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> xdddd
 [12May2025 18:28:45.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> lo tuve que buscar
 [12May2025 18:28:54.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Don't drink this...]
+[12May2025 18:29:29.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> todavía me falta para avanzar en el mod
+[12May2025 18:29:52.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> y bueno
+[12May2025 18:30:00.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> cositas
+[12May2025 18:30:00.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> ya val
+[12May2025 18:30:25.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> voy a salirme y entrar no te vayas
+[12May2025 18:30:30.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> ok
+[12May2025 18:31:38.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon lost connection: Timed out
+[12May2025 18:31:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon left the game
+[12May2025 18:31:38.191] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12May2025 18:33:05.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepinillodelimon[/127.11.185.132:53589] logged in with entity id 1243 at (4110.906545076818, 71.0, 31.10663270990643)
+[12May2025 18:33:05.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon joined the game
+[12May2025 18:33:05.523] [Server thread/INFO] [Jade/]: Syncing config to pepinillodelimon (539fca97-f351-30a9-98bc-d9028b9bf180)
+[12May2025 18:33:05.524] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 4 (-1 unused), uncached profiles: 0, total profiles: 5
+[12May2025 18:33:39.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> aja
+[12May2025 18:34:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> sale llamada por discold?
+[12May2025 18:34:39.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> puede sel
+[12May2025 18:34:45.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> dame un chance
+[12May2025 18:37:33.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon lost connection: Timed out
+[12May2025 18:37:33.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon left the game
