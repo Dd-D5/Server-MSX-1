@@ -6,7 +6,6 @@
 	last_seen: { dim: "minecraft:overworld", x: 4129, y: 71, z: 11, time: 1747084122946L, xRot: 14.699861f, yRot: 152.50208f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:the_nether", x: 530, y: 65, z: -1, time: 1747014267696L }
 		{ dim: "minecraft:overworld", x: 4113, y: 71, z: 0, time: 1747018465462L }
 		{ dim: "minecraft:overworld", x: 4114, y: 71, z: 2, time: 1747018564068L }
 		{ dim: "minecraft:overworld", x: 4122, y: 71, z: -16, time: 1747019607662L }
@@ -16,6 +15,7 @@
 		{ dim: "minecraft:overworld", x: 4101, y: 71, z: -7, time: 1747075969279L }
 		{ dim: "minecraft:overworld", x: 4106, y: 71, z: -1, time: 1747079900504L }
 		{ dim: "minecraft:the_nether", x: 516, y: 71, z: 2, time: 1747086642856L }
+		{ dim: "minecraft:overworld", x: 4128, y: 71, z: 10, time: 1747086891465L }
 	]
 	homes: { }
 	kit_use_times: { }

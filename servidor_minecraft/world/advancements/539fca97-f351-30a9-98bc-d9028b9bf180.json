@@ -2308,6 +2308,7 @@
       "minecraft:spider": "2025-05-11 04:44:53 +0000",
       "minecraft:creeper": "2025-05-11 03:39:59 +0000",
       "minecraft:phantom": "2025-05-11 04:42:49 +0000",
+      "minecraft:zombified_piglin": "2025-05-12 21:55:31 +0000",
       "minecraft:zombie": "2025-05-12 01:34:14 +0000"
     },
     "done": false
@@ -11542,9 +11543,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-12 21:52:57 +0000"
+    },
+    "done": true
+  },
   "darkutils:adventure/runelic": {
     "criteria": {
       "get_tome": "2025-05-12 21:13:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/invar_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-12 21:52:57 +0000"
     },
     "done": true
   },
@@ -11554,15 +11567,39 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 21:52:57 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_upgrade": {
     "criteria": {
       "pearl": "2025-05-12 21:46:00 +0000"
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_armor": "2025-05-12 21:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-12 21:57:55 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/diamond_from_axe": {
     "criteria": {
       "has_tool": "2025-05-12 21:12:11 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_armor": "2025-05-12 21:57:58 +0000"
     },
     "done": true
   },
@@ -11590,9 +11627,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-12 21:52:57 +0000"
+    },
+    "done": true
+  },
   "shrink:recipes/tools/shrinking_device": {
     "criteria": {
       "has_enderpearls": "2025-05-12 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_armor": "2025-05-12 21:57:55 +0000"
     },
     "done": true
   },
@@ -11605,6 +11654,12 @@
   "xycraft_machines:recipes/misc/shaped/collector": {
     "criteria": {
       "has_ender_pearl": "2025-05-12 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/invar_dust_from_ingot": {
+    "criteria": {
+      "has_invar_ingot": "2025-05-12 21:52:57 +0000"
     },
     "done": true
   },
@@ -11629,6 +11684,12 @@
   "rftoolsutility:recipes/rftoolsutility/charged_porter": {
     "criteria": {
       "pearl": "2025-05-12 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/tripwire_hook_from_crossbow": {
+    "criteria": {
+      "has_bow": "2025-05-12 22:00:11 +0000"
     },
     "done": true
   },
@@ -11659,6 +11720,12 @@
   "entangled:recipes/misc/item": {
     "criteria": {
       "recipe_condition": "2025-05-12 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/invar_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-12 21:52:57 +0000"
     },
     "done": true
   },

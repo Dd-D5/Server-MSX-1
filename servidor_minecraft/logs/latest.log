@@ -3408,3 +3408,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 21:54:39.912] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
 [12May2025 21:54:50.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 had their world rocked!
 [12May2025 21:54:50.263] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[12May2025 21:56:02.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,333.4929803799864,0.0
+[12May2025 21:57:55.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Suit Up]
+[12May2025 21:57:55.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 was fireballed by Blaze
+[12May2025 21:57:55.756] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
+[12May2025 22:01:24.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 was fireballed by Blaze
+[12May2025 22:01:24.864] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
+[12May2025 22:04:29.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,333.0444142123175,0.0
