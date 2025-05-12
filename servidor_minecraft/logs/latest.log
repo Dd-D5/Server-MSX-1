@@ -3451,3 +3451,27 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 22:32:38.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Epic!]
 [12May2025 22:32:38.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Suit Up]
 [12May2025 22:34:46.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
+[12May2025 22:35:17.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Strange Flora]
+[12May2025 22:35:51.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [The First Explosion (of many?)]
+[12May2025 22:36:28.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,332.15763858991573,0.0
+[12May2025 22:36:35.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:36:42.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:36:49.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:36:55.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:37:02.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:37:16.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:37:23.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:37:30.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:37:44.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:37:51.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:37:55.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 was doomed to fall by Basalz
+[12May2025 22:37:55.594] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[12May2025 22:37:58.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:38:05.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:38:12.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:38:25.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:38:32.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 22:38:56.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by Magma Cube
+[12May2025 22:38:56.106] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 22:41:42.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [A Throwaway Joke]
+[12May2025 22:42:06.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Cover Me with Diamonds]

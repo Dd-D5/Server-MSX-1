@@ -10345,6 +10345,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/network_node": {
+    "criteria": {
+      "has_capacitor": "2025-05-12 22:35:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-05-12 22:02:17 +0000"
@@ -10399,6 +10405,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-05-12 22:32:38 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2025-05-12 21:38:19 +0000"
@@ -10408,6 +10420,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2025-05-12 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/network_registry": {
+    "criteria": {
+      "has_capacitor": "2025-05-12 22:35:19 +0000"
     },
     "done": true
   },
@@ -10483,6 +10501,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/network_api": {
+    "criteria": {
+      "has_capacitor": "2025-05-12 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_storage": {
+    "criteria": {
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/salvager": {
     "criteria": {
       "has_item": "2025-05-12 22:30:07 +0000"
@@ -10516,6 +10546,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-05-12 21:34:12 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/golden_nether_banana": {
+    "criteria": {
+      "has_item": "2025-05-12 22:35:17 +0000"
     },
     "done": true
   },
@@ -10591,6 +10627,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/network_io_port": {
+    "criteria": {
+      "has_capacitor": "2025-05-12 22:35:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-05-12 21:34:27 +0000"
@@ -10600,6 +10642,12 @@
   "reliquary:recipes/misc/mercy_cross": {
     "criteria": {
       "has_withered_rib": "2025-05-12 22:30:08 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/glittery_dust": {
+    "criteria": {
+      "has_item": "2025-05-12 22:35:17 +0000"
     },
     "done": true
   },
@@ -10669,6 +10717,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/classify_filter": {
+    "criteria": {
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-12 22:02:17 +0000"
@@ -10687,9 +10741,27 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/logistics_frame_default_storage": {
+    "criteria": {
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/crimson_iron_dust": {
     "criteria": {
       "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-05-12 22:32:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/diagnostic_subroutine": {
+    "criteria": {
+      "has_capacitor": "2025-05-12 22:35:19 +0000"
     },
     "done": true
   },
@@ -10707,9 +10779,10 @@
   },
   "silentgear:nether_plants": {
     "criteria": {
+      "banana": "2025-05-12 22:35:17 +0000",
       "sapling": "2025-05-12 22:30:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "silentgear:recipes/misc/crimson_iron_ingot_from_block": {
     "criteria": {
@@ -10732,6 +10805,12 @@
   "exdeorum:recipes/misc/cherry_sieve": {
     "criteria": {
       "has_item": "2025-05-12 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/network_data_storage": {
+    "criteria": {
+      "has_capacitor": "2025-05-12 22:35:19 +0000"
     },
     "done": true
   },
@@ -10759,6 +10838,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/logistics_frame_requester": {
+    "criteria": {
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/building_blocks/compressed_stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-05-12 22:30:07 +0000"
@@ -10768,6 +10853,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_active_provider": {
+    "criteria": {
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
     },
     "done": true
   },
@@ -10801,6 +10892,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_boots": {
+    "criteria": {
+      "has_armor": "2025-05-12 22:32:38 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/blaze_block": {
     "criteria": {
       "has_item": "2025-05-12 21:34:27 +0000"
@@ -10813,15 +10910,33 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/logistics_module": {
+    "criteria": {
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cherry_rail_bridge": {
     "criteria": {
       "has_planks": "2025-05-12 22:02:17 +0000"
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-05-12 22:32:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-12 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_passive_provider": {
+    "criteria": {
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
     },
     "done": true
   },

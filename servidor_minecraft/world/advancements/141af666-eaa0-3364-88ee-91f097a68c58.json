@@ -10612,6 +10612,12 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 22:33:32 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-12 21:16:26 +0000"
@@ -10738,6 +10744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 22:33:32 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/stick_from_stone_sword": {
     "criteria": {
       "has_tool": "2025-05-12 22:14:27 +0000"
@@ -10774,6 +10786,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-12 22:33:32 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/lamp_rgb": {
     "criteria": {
       "has_aluminum": "2025-05-12 21:16:26 +0000"
@@ -10807,6 +10825,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_torch": {
     "criteria": {
       "has_aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/snad/soul_snad": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 22:33:32 +0000"
     },
     "done": true
   },
@@ -10951,6 +10975,12 @@
   "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 22:33:32 +0000"
     },
     "done": true
   },
