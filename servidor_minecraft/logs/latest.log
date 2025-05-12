@@ -3391,3 +3391,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 18:34:45.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> dame un chance
 [12May2025 18:37:33.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon lost connection: Timed out
 [12May2025 18:37:33.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon left the game
+[12May2025 18:39:30.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepinillodelimon[/127.11.185.132:35365] logged in with entity id 1261 at (4109.067744569492, 71.0, 25.035151701412037)
+[12May2025 18:39:30.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon joined the game
+[12May2025 18:39:30.936] [Server thread/INFO] [Jade/]: Syncing config to pepinillodelimon (539fca97-f351-30a9-98bc-d9028b9bf180)
+[12May2025 18:39:30.937] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 4 (-1 unused), uncached profiles: 0, total profiles: 5
+[12May2025 18:41:01.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
