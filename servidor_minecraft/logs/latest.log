@@ -3405,3 +3405,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 18:58:11.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Oiled up and ready to go]
 [12May2025 18:58:17.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the weather to rain]
 [12May2025 18:58:48.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the weather to clear]
+[12May2025 18:59:52.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elixgamer_2006[/127.54.208.72:33605] logged in with entity id 1834 at (4119.497915063019, 71.0, 7.498260337592466)
+[12May2025 18:59:52.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 joined the game
+[12May2025 18:59:53.047] [Server thread/INFO] [Jade/]: Syncing config to elixgamer_2006 (26b56631-abf4-3df4-80f8-6855a26f9145)
+[12May2025 18:59:53.049] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 4 (-1 unused), uncached profiles: 0, total profiles: 5
+[12May2025 19:01:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> tduerman duermna duerman duerman duerman
+[12May2025 19:01:54.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
+[12May2025 19:02:12.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 18000]
+[12May2025 19:04:49.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Cover Me with Diamonds]
