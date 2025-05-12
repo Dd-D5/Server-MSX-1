@@ -3421,3 +3421,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 22:08:51.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Not Today, Thank You]
 [12May2025 22:13:36.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [A Terrible Fortress]
 [12May2025 22:14:46.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Into Fire]
+[12May2025 22:15:26.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [A Terrible Fortress]
+[12May2025 22:15:38.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Spooky Scary Skeleton]
+[12May2025 22:16:01.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by Wither Skeleton
+[12May2025 22:16:01.755] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 22:16:01.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved wrongly!
+[12May2025 22:16:35.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon had their world rocked!
+[12May2025 22:16:35.077] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 22:17:33.550] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Esmeralda the Legendary'/19245, l='ServerLevel[world]', x=728.71, y=-533.00, z=230.81] died: Esmeralda the Legendary fell out of the world
+[12May2025 22:17:43.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by David the Funky
+[12May2025 22:17:43.562] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 22:19:09.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by Wither Skeleton
+[12May2025 22:19:09.666] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 22:19:39.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['David the Funky'/19860, l='ServerLevel[world]', x=716.91, y=-960.31, z=92.93] died: David the Funky fell out of the world
+[12May2025 22:19:45.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Not a Diamond]
+[12May2025 22:20:01.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,332.1229209197836,0.0
+[12May2025 22:23:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
+[12May2025 22:24:28.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/22285, l='ServerLevel[world]', x=4107.70, y=70.00, z=35.76] died: Honeyed Archer was slain by elixgamer_2006

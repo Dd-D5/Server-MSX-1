@@ -4616,11 +4616,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-12 22:13:59 +0000",
       "minecraft:magma_cube": "2025-05-12 21:49:43 +0000",
       "minecraft:spider": "2025-05-12 22:06:01 +0000",
       "minecraft:creeper": "2025-05-12 01:34:46 +0000",
       "minecraft:phantom": "2025-05-11 04:42:00 +0000",
       "minecraft:zombified_piglin": "2025-05-12 03:59:47 +0000",
+      "minecraft:wither_skeleton": "2025-05-12 22:14:19 +0000",
       "minecraft:zombie": "2025-05-11 05:38:19 +0000"
     },
     "done": false
@@ -10616,6 +10618,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-12 22:14:46 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_red": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
@@ -10646,6 +10654,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-12 22:15:38 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
     "criteria": {
       "has_item": "2025-05-12 21:46:14 +0000"
@@ -10673,6 +10687,12 @@
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-05-12 21:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-12 22:15:38 +0000"
     },
     "done": true
   },
@@ -10718,6 +10738,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/stick_from_stone_sword": {
+    "criteria": {
+      "has_tool": "2025-05-12 22:14:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-05-12 21:53:10 +0000"
@@ -10730,9 +10756,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-05-12 22:19:45 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_blue": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-12 22:13:36 +0000"
     },
     "done": true
   },
@@ -10790,6 +10828,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-12 22:14:46 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
@@ -10805,6 +10849,12 @@
   "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
     "criteria": {
       "has_gold_chest": "2025-05-12 21:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-12 22:14:46 +0000"
     },
     "done": true
   },
@@ -10904,6 +10954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-12 22:14:46 +0000"
+    },
+    "done": true
+  },
   "xycraft_machines:recipes/misc/shaped/extractor": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
@@ -10976,6 +11032,12 @@
     },
     "done": true
   },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-05-12 22:14:46 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aurey_matte": {
     "criteria": {
       "has_aluminum": "2025-05-12 21:16:26 +0000"
@@ -11003,6 +11065,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_blue": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-12 22:14:46 +0000"
     },
     "done": true
   },

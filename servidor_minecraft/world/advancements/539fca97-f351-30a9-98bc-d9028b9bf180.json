@@ -11634,6 +11634,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-12 22:15:26 +0000"
+    },
+    "done": true
+  },
   "shrink:recipes/tools/shrinking_device": {
     "criteria": {
       "has_enderpearls": "2025-05-12 21:46:00 +0000"
