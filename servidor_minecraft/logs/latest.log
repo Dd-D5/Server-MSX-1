@@ -3457,3 +3457,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 04:11:03.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon left the game
 [12May2025 04:15:28.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Hearty Meal]
 [12May2025 04:18:53.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Neighborhood Brawl]
+[12May2025 04:27:25.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepinillodelimon[/127.11.185.132:49055] logged in with entity id 8941 at (9.5, 73.0, 9.5)
+[12May2025 04:27:25.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepinillodelimon joined the game
+[12May2025 04:27:25.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepinillodelimon has made the advancement [Don't Look Down...]
+[12May2025 04:27:25.805] [Server thread/INFO] [Jade/]: Syncing config to Pepinillodelimon (ed61b8f5-4c0f-3440-837c-f386783cbaca)
+[12May2025 04:27:25.806] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 4 (0 unused), uncached profiles: 0, total profiles: 4
+[12May2025 04:27:25.806] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: First time literal{}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Pepinillodelimon '},hoverEvent=HoverEvent{action=<action show_entity>, value='net.minecraft.network.chat.HoverEvent$EntityTooltipInfo@d7403ac0'},insertion=Pepinillodelimon}, siblings=[literal{Pepinillodelimon}]] joined. Putting into spawn team.
+[12May2025 04:27:57.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 was slain by Vegetta777 using    [Treecapitator]
+[12May2025 04:27:57.386] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
+[12May2025 04:28:32.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 lost connection: Disconnected
+[12May2025 04:28:32.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 left the game
+[12May2025 04:31:55.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepinillodelimon lost connection: Disconnected
+[12May2025 04:31:55.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepinillodelimon left the game
