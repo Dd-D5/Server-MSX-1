@@ -10641,6 +10641,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/maintenance_kit": {
+    "criteria": {
+      "has_wirecutter": "2025-05-12 19:47:50 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_yellow2": {
     "criteria": {
       "recipe_condition1": "2025-05-12 19:30:42 +0000"
