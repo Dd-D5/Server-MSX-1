@@ -8535,6 +8535,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_axe": {
+    "criteria": {
+      "has_tool": "2025-05-12 03:43:35 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/steel_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-05-12 03:29:47 +0000"

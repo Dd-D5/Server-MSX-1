@@ -9379,6 +9379,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lumium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lumium]_ingot": "2025-05-12 03:49:34 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/antenna_base": {
     "criteria": {
       "block": "2025-05-12 03:22:41 +0000"
@@ -9439,9 +9445,21 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/lumium_dust_from_ingot": {
+    "criteria": {
+      "has_lumium_ingot": "2025-05-12 03:49:34 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/constantan_mix": {
     "criteria": {
       "has_nickel_dust": "2025-05-12 03:00:38 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lumium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lumium]_ingot": "2025-05-12 03:49:34 +0000"
     },
     "done": true
   },
@@ -9517,6 +9535,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lumium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lumium]_ingot": "2025-05-12 03:49:34 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
     "criteria": {
       "has_silver_ingot": "2025-05-12 03:05:34 +0000"
@@ -9553,6 +9577,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lumium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 03:49:34 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/lens_frame": {
     "criteria": {
       "has_silver_ingot": "2025-05-12 03:05:34 +0000"
@@ -9580,6 +9610,12 @@
   "croptopia:recipes/misc/food_press": {
     "criteria": {
       "has_piston": "2025-05-12 03:36:33 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lumium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lumium]_ingot": "2025-05-12 03:49:34 +0000"
     },
     "done": true
   },
