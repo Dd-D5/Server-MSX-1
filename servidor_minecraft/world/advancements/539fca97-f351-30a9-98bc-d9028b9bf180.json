@@ -11930,6 +11930,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-05-12 22:41:42 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/compressed_diamond_hammer": {
     "criteria": {
       "has_item": "2025-05-12 21:20:49 +0000"
@@ -12215,6 +12221,12 @@
   "occultism:recipes/crushing/crushing/invar_dust_from_ingot": {
     "criteria": {
       "has_invar_ingot": "2025-05-12 21:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-12 22:42:06 +0000"
     },
     "done": true
   },
@@ -12542,6 +12554,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_chestplate": {
+    "criteria": {
+      "has_armor": "2025-05-12 22:42:06 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/reinforced_chest": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-12 22:35:51 +0000"
@@ -12803,6 +12821,12 @@
   "xycraft_override:recipes/building_blocks/shaped/nether_bricks_blue_r": {
     "criteria": {
       "has_nether_bricks": "2025-05-12 22:22:58 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
+    "criteria": {
+      "has_armor": "2025-05-12 22:42:10 +0000"
     },
     "done": true
   },
