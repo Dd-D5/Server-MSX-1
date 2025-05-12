@@ -8043,6 +8043,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/tiny_charcoal_to_tiny": {
+    "criteria": {
+      "criterion0": "2025-05-12 03:40:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-12 01:33:50 +0000"
@@ -8862,6 +8868,12 @@
   "alltheores:recipes/misc/raw_nickel_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-05-12 01:49:24 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/tools/divining_rod_1": {
+    "criteria": {
+      "has_covalence_dust": "2025-05-12 03:40:10 +0000"
     },
     "done": true
   },

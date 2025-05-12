@@ -2140,6 +2140,7 @@
       "cooked_beef": "2025-05-11 03:32:44 +0000",
       "beef": "2025-05-12 03:18:03 +0000",
       "porkchop": "2025-05-11 06:22:09 +0000",
+      "apple": "2025-05-12 03:40:48 +0000",
       "cooked_chicken": "2025-05-12 01:49:40 +0000"
     },
     "done": false
@@ -8102,9 +8103,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:38:47 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/copper_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-12 03:29:47 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-12 03:38:47 +0000"
     },
     "done": true
   },
@@ -8114,15 +8127,45 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-12 03:38:47 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
     "criteria": {
       "has_item": "2025-05-12 03:11:13 +0000"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-12 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_blue": {
+    "criteria": {
+      "has_xychorium_storage_blue": "2025-05-12 03:34:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-05-12 02:56:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_red": {
+    "criteria": {
+      "has_xychorium_storage_red": "2025-05-12 03:34:04 +0000"
     },
     "done": true
   },
@@ -8192,9 +8235,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:38:47 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/enderium_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-05-12 03:29:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_green": {
+    "criteria": {
+      "has_xychorium_storage_green": "2025-05-12 03:34:03 +0000"
     },
     "done": true
   },
@@ -8219,6 +8274,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-12 02:56:19 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:38:47 +0000"
     },
     "done": true
   },
@@ -8282,6 +8343,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 03:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-05-12 02:56:19 +0000"
@@ -8297,6 +8364,18 @@
   "utilitarian:recipes/misc/utility/iron_block_from_smelting": {
     "criteria": {
       "has_raw_iron": "2025-05-12 03:11:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-12 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_light": {
+    "criteria": {
+      "has_xychorium_storage_light": "2025-05-12 03:34:08 +0000"
     },
     "done": true
   },
@@ -8339,6 +8418,12 @@
   "alltheores:recipes/misc/peridot_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-12 03:29:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_storage_dark": "2025-05-12 03:34:06 +0000"
     },
     "done": true
   },

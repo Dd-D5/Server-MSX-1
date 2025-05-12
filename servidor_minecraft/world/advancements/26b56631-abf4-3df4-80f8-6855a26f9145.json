@@ -9535,6 +9535,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/piston_cart": {
+    "criteria": {
+      "criterion0": "2025-05-12 03:36:33 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_anvil": {
     "criteria": {
       "has_anvil": "2025-05-12 03:22:46 +0000"
@@ -9568,6 +9574,12 @@
   "alltheores:recipes/misc/silver_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-12 03:05:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_piston": "2025-05-12 03:36:33 +0000"
     },
     "done": true
   },
