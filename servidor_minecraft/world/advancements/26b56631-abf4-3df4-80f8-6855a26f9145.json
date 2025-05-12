@@ -10451,6 +10451,12 @@
     },
     "done": true
   },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-05-12 21:50:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-12 21:34:27 +0000"

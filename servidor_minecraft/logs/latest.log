@@ -3379,3 +3379,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 21:41:04.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Not a Diamond]
 [12May2025 21:41:45.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
 [12May2025 21:41:45.822] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
+[12May2025 21:49:33.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 was slain by Magma Cube
+[12May2025 21:49:33.164] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
+[12May2025 21:50:17.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by Piglin
+[12May2025 21:50:17.826] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 21:50:34.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has reached the goal [Discreet Search]
+[12May2025 21:50:41.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 had their world rocked!
+[12May2025 21:50:41.356] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[12May2025 21:51:12.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by Zombified Piglin
+[12May2025 21:51:12.805] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 21:52:35.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
+[12May2025 21:52:58.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,334.6353570865548,0.0
+[12May2025 21:53:04.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 was doomed to fall by Basalz
+[12May2025 21:53:04.072] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
+[12May2025 21:53:26.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon had their world rocked!
+[12May2025 21:53:26.309] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 21:53:34.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon had their world rocked!
+[12May2025 21:53:34.011] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 21:54:05.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,-13.941298159029182,-0.04660879320412903
+[12May2025 21:54:13.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,338.70536081704347,0.0
+[12May2025 21:54:17.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,397.02146688745313,0.0
+[12May2025 21:54:20.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,338.70536081704347,0.0
+[12May2025 21:54:22.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was doomed to fall by Basalz
+[12May2025 21:54:22.690] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 21:54:27.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 21:54:34.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,335.0577083927641,0.0
+[12May2025 21:54:39.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 fell from a high place
+[12May2025 21:54:39.912] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
+[12May2025 21:54:50.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 had their world rocked!
+[12May2025 21:54:50.263] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
