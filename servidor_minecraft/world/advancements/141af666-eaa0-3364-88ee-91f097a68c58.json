@@ -7893,6 +7893,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/steel_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-12 02:20:46 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-12 01:33:50 +0000"
@@ -8064,6 +8070,12 @@
   "sophisticatedstorage:recipes/misc/stack_downgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-05-12 01:33:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 02:20:46 +0000"
     },
     "done": true
   },

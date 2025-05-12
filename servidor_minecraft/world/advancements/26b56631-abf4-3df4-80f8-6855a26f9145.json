@@ -9025,6 +9025,42 @@
     },
     "done": true
   },
+  "trashcans:recipes/misc/liquid_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-05-12 02:18:50 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_3": {
+    "criteria": {
+      "has_water": "2025-05-12 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_4": {
+    "criteria": {
+      "has_water": "2025-05-12 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_5": {
+    "criteria": {
+      "has_water": "2025-05-12 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_1": {
+    "criteria": {
+      "has_water": "2025-05-12 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_2": {
+    "criteria": {
+      "has_water": "2025-05-12 02:18:54 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/unpacking/xychorium_gem_red": {
     "criteria": {
       "has_xychorium_storage_red": "2025-05-12 01:36:18 +0000"
@@ -9052,6 +9088,12 @@
   "xycraft_world:recipes/misc/compacting/raw_aluminum": {
     "criteria": {
       "has_raw_aluminum": "2025-05-12 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "sfm:recipes/misc/water_tank": {
+    "criteria": {
+      "has_water": "2025-05-12 02:18:54 +0000"
     },
     "done": true
   },
@@ -9094,6 +9136,12 @@
   "occultism:recipes/crushing/crushing/tin_dust_from_ingot": {
     "criteria": {
       "has_tin_ingot": "2025-05-12 02:07:50 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:core/barrel": {
+    "criteria": {
+      "has_barrel": "2025-05-12 02:19:31 +0000"
     },
     "done": true
   },
@@ -9163,6 +9211,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/basic_fluid_filter": {
+    "criteria": {
+      "has_ingredient": "2025-05-12 02:18:50 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-05-12 01:31:51 +0000"
@@ -9184,6 +9238,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-12 01:44:10 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/port_fluid": {
+    "criteria": {
+      "has_bucket": "2025-05-12 02:18:50 +0000"
     },
     "done": true
   },
@@ -9211,15 +9271,45 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_bucket": {
+    "criteria": {
+      "has_bucket": "2025-05-12 02:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-12 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2025-05-12 02:18:54 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-12 01:31:51 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2025-05-12 02:18:54 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/zinc_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-05-12 02:05:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2025-05-12 02:18:50 +0000"
     },
     "done": true
   },
