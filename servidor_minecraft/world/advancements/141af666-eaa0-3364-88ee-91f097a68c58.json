@@ -4617,6 +4617,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:magma_cube": "2025-05-12 21:49:43 +0000",
+      "minecraft:spider": "2025-05-12 22:06:01 +0000",
       "minecraft:creeper": "2025-05-12 01:34:46 +0000",
       "minecraft:phantom": "2025-05-11 04:42:00 +0000",
       "minecraft:zombified_piglin": "2025-05-12 03:59:47 +0000",
@@ -8306,6 +8307,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-05-12 22:09:39 +0000",
       "minecraft:basalt_deltas": "2025-05-12 01:44:13 +0000"
     },
     "done": false
@@ -10560,6 +10562,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/shield": {
+    "criteria": {
+      "has_shield": "2025-05-12 22:04:57 +0000"
+    },
+    "done": true
+  },
   "darkutils:adventure/runelic": {
     "criteria": {
       "get_tome": "2025-05-12 21:12:57 +0000"
@@ -10692,6 +10700,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_boots": {
+    "criteria": {
+      "has_armor": "2025-05-12 22:06:28 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
     "criteria": {
       "has_arcane_crystal": "2025-05-12 21:46:14 +0000"
@@ -10770,6 +10784,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-12 22:08:51 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
@@ -10833,6 +10853,12 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_light": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-05-12 22:03:58 +0000"
     },
     "done": true
   },
@@ -10929,6 +10955,12 @@
   "alltheores:recipes/misc/aluminum_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
+    "criteria": {
+      "has_armor": "2025-05-12 22:06:36 +0000"
     },
     "done": true
   },

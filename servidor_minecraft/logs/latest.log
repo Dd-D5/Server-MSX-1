@@ -3415,3 +3415,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 22:01:24.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 was fireballed by Blaze
 [12May2025 22:01:24.864] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
 [12May2025 22:04:29.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,333.0444142123175,0.0
+[12May2025 22:06:18.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Not Today, Thank You]
+[12May2025 22:08:07.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
+[12May2025 22:08:44.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vegetta777 moved too quickly! 0.0,334.6353570865548,0.0
+[12May2025 22:08:51.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Not Today, Thank You]
+[12May2025 22:13:36.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [A Terrible Fortress]
+[12May2025 22:14:46.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Into Fire]
