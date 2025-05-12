@@ -9651,9 +9651,21 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/force_brick_from_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/lead_dust": {
     "criteria": {
       "has_lead": "2025-05-12 17:52:05 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_light": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
     },
     "done": true
   },
@@ -9669,6 +9681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-12 18:06:20 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/fluorite_dust_from_gem": {
     "criteria": {
       "has_fluorite_gem": "2025-05-12 17:50:59 +0000"
@@ -9681,6 +9699,30 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_red": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_dark": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_green": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-12 18:06:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/prism": {
     "criteria": {
       "has_item": "2025-05-12 17:50:11 +0000"
@@ -9690,6 +9732,18 @@
   "alltheores:recipes/misc/lead_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-12 17:52:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-05-12 18:02:22 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_green_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
     },
     "done": true
   },
@@ -9723,6 +9777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-12 18:06:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-12 17:50:43 +0000"
@@ -9732,6 +9792,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-05-12 17:50:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_blue_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
     },
     "done": true
   },
@@ -9747,9 +9813,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
   "mekanism:materials": {
     "criteria": {
       "material": "2025-05-12 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
     },
     "done": true
   },
@@ -9759,9 +9837,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/moss_block": {
     "criteria": {
       "has_item": "2025-05-12 17:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-12 18:06:16 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_red_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
     },
     "done": true
   },
@@ -9777,9 +9873,21 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_light_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/gold_shulker_from_gold_chest": {
     "criteria": {
       "has_gold_chest": "2025-05-12 17:51:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_dark_r": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
     },
     "done": true
   },
@@ -9795,6 +9903,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/building_blocks/shaped/stone_bricks_blue": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-05-12 17:50:11 +0000"
@@ -9804,6 +9924,18 @@
   "occultism:recipes/crushing/crushing/arcane_crystal_dust_from_gem": {
     "criteria": {
       "has_arcane_crystal_gem": "2025-05-12 17:51:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
     },
     "done": true
   },
@@ -9825,6 +9957,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-12 17:50:11 +0000"
@@ -9843,9 +10005,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
     "criteria": {
       "has_arcane_crystal": "2025-05-12 17:51:32 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-12 18:06:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-12 18:06:12 +0000"
     },
     "done": true
   },
