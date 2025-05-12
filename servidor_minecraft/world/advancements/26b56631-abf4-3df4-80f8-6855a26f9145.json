@@ -9013,6 +9013,12 @@
     },
     "done": false
   },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
+    "criteria": {
+      "has_raw_nickel": "2025-05-12 01:54:21 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/unpacking/xychorium_gem_red": {
     "criteria": {
       "has_xychorium_storage_red": "2025-05-12 01:36:18 +0000"
@@ -9022,6 +9028,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-05-12 01:44:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/raw_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-12 01:56:42 +0000"
     },
     "done": true
   },
@@ -9046,6 +9058,12 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-05-12 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-12 01:54:21 +0000"
     },
     "done": true
   },
@@ -9079,9 +9097,27 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_torch_raw": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_aluminum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/aluminum]": "2025-05-12 01:56:42 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-05-12 01:31:51 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 01:56:42 +0000"
     },
     "done": true
   },
@@ -9091,9 +9127,33 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 01:54:21 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-12 01:56:42 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-12 01:56:42 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-12 01:31:51 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_nickel_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-05-12 01:54:21 +0000"
     },
     "done": true
   },

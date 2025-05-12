@@ -7869,6 +7869,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 01:56:30 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/building_blocks/crafting/silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-05-12 01:33:52 +0000"
@@ -7905,6 +7911,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/raw_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-12 01:56:53 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-12 01:33:50 +0000"
@@ -7914,6 +7926,12 @@
   "exdeorum:recipes/misc/unfired_porcelain_bucket": {
     "criteria": {
       "has_item": "2025-05-12 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 01:56:30 +0000"
     },
     "done": true
   },
@@ -8139,6 +8157,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_torch_raw": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 01:56:53 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-12 01:33:50 +0000"
@@ -8163,6 +8187,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_aluminum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/aluminum]": "2025-05-12 01:56:53 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-05-12 01:33:49 +0000"
@@ -8184,6 +8214,12 @@
   "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-05-12 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 01:56:53 +0000"
     },
     "done": true
   },
@@ -8217,6 +8253,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/aluminum_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-12 01:56:30 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/white_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-12 01:33:50 +0000"
@@ -8241,6 +8283,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-12 01:56:53 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/filter_rail": {
     "criteria": {
       "criterion1": "2025-05-12 01:38:34 +0000"
@@ -8256,6 +8304,12 @@
   "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
     "criteria": {
       "has_silver_ingot": "2025-05-12 01:33:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-12 01:56:53 +0000"
     },
     "done": true
   },
