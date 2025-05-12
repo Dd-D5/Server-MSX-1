@@ -9803,21 +9803,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
+  "occultism:recipes/crushing/crushing/graphite_dust_from_ingot": {
     "criteria": {
-      "has_ender_eye": "2025-05-12 19:53:06 +0000"
+      "has_graphite_ingot": "2025-05-12 18:26:40 +0000"
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_dandelion": "2025-05-12 19:11:37 +0000"
+      "diamond_helmet": "2025-05-12 19:04:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_candle": {
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
     "criteria": {
-      "has_yellow_dye": "2025-05-12 19:13:58 +0000"
+      "has_armor": "2025-05-12 19:04:49 +0000"
     },
     "done": true
   },
@@ -9827,27 +9827,135 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
-      "has_diamond_chest": "2025-05-12 19:28:12 +0000"
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
     },
     "done": true
   },
-  "forcecraft:recipes/building_blocks/force_brick_green": {
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
-      "has_green_dye": "2025-05-12 19:14:10 +0000"
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/terracotta_1x": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
+    "criteria": {
+      "has_dandelion": "2025-05-12 19:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-12 19:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-12 19:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-12 19:13:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-05-12 19:13:58 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_cyan_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-05-12 19:14:19 +0000"
     },
     "done": true
   },
@@ -9863,99 +9971,9 @@
     },
     "done": true
   },
-  "xnet:recipes/xnet/connector_upgrade": {
-    "criteria": {
-      "pearl": "2025-05-12 19:53:06 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_cyan_dye": {
-    "criteria": {
-      "forge:dyes/cyan": "2025-05-12 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_cyan": {
-    "criteria": {
-      "has_dyes/black": "2025-05-12 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_cyan_torch": {
-    "criteria": {
-      "has_dye": "2025-05-12 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_green2": {
-    "criteria": {
-      "recipe_condition2": "2025-05-12 19:14:10 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_cyan_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-05-12 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-05-12 19:46:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-12 19:14:10 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/tools/obsidian_skull": {
-    "criteria": {
-      "has_obsidian": "2025-05-12 20:00:27 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_cyan": {
-    "criteria": {
-      "has_dyes/black": "2025-05-12 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "allthetweaks:recipes/misc/ender_pearl_block": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-12 19:53:06 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/smart_yellow": {
     "criteria": {
       "has_dyes/black": "2025-05-12 19:13:58 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/tps_meter": {
-    "criteria": {
-      "has_obsidian": "2025-05-12 20:00:27 +0000"
     },
     "done": true
   },
@@ -9968,78 +9986,6 @@
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-12 19:13:58 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_cyan2": {
-    "criteria": {
-      "recipe_condition2": "2025-05-12 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/food/end_cake": {
-    "criteria": {
-      "has_item": "2025-05-12 19:48:36 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/end_stone_dust": {
-    "criteria": {
-      "has_end_stone": "2025-05-12 19:46:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
-    "criteria": {
-      "has_diamond_chest": "2025-05-12 19:28:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_end_stone": "2025-05-12 19:46:43 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/graphite_dust_from_ingot": {
-    "criteria": {
-      "has_graphite_ingot": "2025-05-12 18:26:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_candle": {
-    "criteria": {
-      "has_green_dye": "2025-05-12 19:14:10 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/ender_hand": {
-    "criteria": {
-      "has_alt_item": "2025-05-12 19:53:06 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
-    "criteria": {
-      "has_obsidian": "2025-05-12 20:00:27 +0000"
     },
     "done": true
   },
@@ -10061,27 +10007,81 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
+  "connectedglass:recipes/misc/clear_glass_yellow2": {
     "criteria": {
-      "recipe_condition2": "2025-05-12 19:14:19 +0000"
+      "recipe_condition2": "2025-05-12 19:13:58 +0000"
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
     "criteria": {
-      "has_gold_block": "2025-05-12 19:34:20 +0000"
+      "has_dyes/black": "2025-05-12 19:13:58 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/terracotta": {
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
-      "has_planks": "2025-05-12 19:07:49 +0000"
+      "has_needed_dye": "2025-05-12 19:13:58 +0000"
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/terracotta_1x": {
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
     "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
+      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_green": {
+    "criteria": {
+      "has_green_dye": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-05-12 19:14:10 +0000"
     },
     "done": true
   },
@@ -10091,39 +10091,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-05-12 19:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_green_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-12 19:14:10 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_yellow2": {
-    "criteria": {
-      "recipe_condition2": "2025-05-12 19:13:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-12 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_cyan": {
-    "criteria": {
-      "has_dyes/black": "2025-05-12 19:14:19 +0000"
     },
     "done": true
   },
@@ -10145,99 +10115,9 @@
     },
     "done": true
   },
-  "shrink:recipes/tools/shrinking_device": {
-    "criteria": {
-      "has_enderpearls": "2025-05-12 19:53:06 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/scratched_glass_green_pane2": {
     "criteria": {
       "recipe_condition2": "2025-05-12 19:14:10 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-05-12 19:13:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-12 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/netherite_chest": {
-    "criteria": {
-      "has_diamond_chest": "2025-05-12 19:28:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-05-12 20:00:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-05-12 19:46:43 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/end_stone_1x": {
-    "criteria": {
-      "has_end_stone": "2025-05-12 19:46:43 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shaped/collector": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-12 19:53:06 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/itemfinder": {
-    "criteria": {
-      "has_item": "2025-05-12 19:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-05-12 19:46:43 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/building_blocks/force_brick_cyan": {
-    "criteria": {
-      "has_cyan_dye": "2025-05-12 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-05-12 19:04:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_cyan2": {
-    "criteria": {
-      "recipe_condition2": "2025-05-12 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/building_blocks/compressed_crushed_end_stone": {
-    "criteria": {
-      "has_item": "2025-05-12 19:48:36 +0000"
     },
     "done": true
   },
@@ -10253,99 +10133,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
-    "criteria": {
-      "has_cyan_terracotta": "2025-05-12 19:14:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_candle": {
-    "criteria": {
-      "has_cyan_dye": "2025-05-12 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
-  "itemcollectors:recipes/misc/advanced_collector": {
-    "criteria": {
-      "recipe_condition": "2025-05-12 20:01:53 +0000"
-    },
-    "done": true
-  },
-  "buildinggadgets2:recipes/misc/gadget_destruction": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-12 19:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-12 19:13:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-05-12 19:46:43 +0000"
-    },
-    "done": true
-  },
-  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
-    "criteria": {
-      "pearl": "2025-05-12 19:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-05-12 19:11:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/glass_green": {
     "criteria": {
       "has_dyes/black": "2025-05-12 19:14:10 +0000"
-    },
-    "done": true
-  },
-  "exmachinis:gold_upgrade": {
-    "criteria": {
-      "has_gold_upgrade": "2025-05-12 19:15:13 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_yellow2": {
-    "criteria": {
-      "recipe_condition2": "2025-05-12 19:13:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-05-12 19:11:37 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/cyan_force_furnace_from_dye": {
-    "criteria": {
-      "has_cyan_dye": "2025-05-12 19:14:19 +0000"
     },
     "done": true
   },
@@ -10361,18 +10151,6 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_smart_cyan": {
-    "criteria": {
-      "has_dyes/black": "2025-05-12 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/tinted_borderless_glass_green2": {
     "criteria": {
       "recipe_condition2": "2025-05-12 19:14:10 +0000"
@@ -10385,27 +10163,117 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/scratched_glass_yellow_pane2": {
+  "ae2:recipes/misc/network/cables/dense_covered_green": {
     "criteria": {
-      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+      "has_dyes/black": "2025-05-12 19:14:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
+  "ae2:recipes/misc/network/cables/dense_smart_green": {
     "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
+      "has_dyes/black": "2025-05-12 19:14:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+  "ae2:recipes/misc/network/cables/smart_green": {
     "criteria": {
-      "has_end_stone": "2025-05-12 19:46:43 +0000"
+      "has_dyes/black": "2025-05-12 19:14:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "connectedglass:recipes/misc/clear_glass_cyan_pane2": {
     "criteria": {
-      "has_gold_block": "2025-05-12 19:34:20 +0000"
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan_dye": {
+    "criteria": {
+      "forge:dyes/cyan": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_cyan_torch": {
+    "criteria": {
+      "has_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_cyan": {
+    "criteria": {
+      "has_cyan_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/cyan_force_furnace_from_dye": {
+    "criteria": {
+      "has_cyan_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:14:19 +0000"
     },
     "done": true
   },
@@ -10415,63 +10283,27 @@
     },
     "done": true
   },
-  "allthemodium:recipes/misc/teleport_pad": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-12 19:53:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_cyan_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-12 19:14:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
     "criteria": {
-      "has_needed_dye": "2025-05-12 19:13:58 +0000"
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
-      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+      "has_cyan_terracotta": "2025-05-12 19:14:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
+  "exmachinis:gold_upgrade": {
     "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
-    "criteria": {
-      "has_dyes/black": "2025-05-12 19:13:58 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/ender_eye_block": {
-    "criteria": {
-      "has_item": "2025-05-12 19:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-05-12 20:00:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 19:07:49 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_green": {
-    "criteria": {
-      "has_dyes/black": "2025-05-12 19:14:10 +0000"
+      "has_gold_upgrade": "2025-05-12 19:15:13 +0000"
     },
     "done": true
   },
@@ -10481,9 +10313,165 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_smart_green": {
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
     "criteria": {
-      "has_dyes/black": "2025-05-12 19:14:10 +0000"
+      "has_diamond_chest": "2025-05-12 19:28:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-05-12 19:28:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-05-12 19:28:12 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
+    "criteria": {
+      "has_gold_block": "2025-05-12 19:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-12 19:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-05-12 19:46:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/end_stone_dust": {
+    "criteria": {
+      "has_end_stone": "2025-05-12 19:46:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-05-12 19:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-12 19:46:43 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/end_stone_1x": {
+    "criteria": {
+      "has_end_stone": "2025-05-12 19:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-12 19:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-12 19:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-05-12 19:46:43 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/food/end_cake": {
+    "criteria": {
+      "has_item": "2025-05-12 19:48:36 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/building_blocks/compressed_crushed_end_stone": {
+    "criteria": {
+      "has_item": "2025-05-12 19:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-12 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_upgrade": {
+    "criteria": {
+      "pearl": "2025-05-12 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "allthetweaks:recipes/misc/ender_pearl_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-12 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-12 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "shrink:recipes/tools/shrinking_device": {
+    "criteria": {
+      "has_enderpearls": "2025-05-12 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/collector": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-12 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2025-05-12 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-12 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2025-05-12 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/misc/teleport_pad": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-12 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-05-12 19:53:06 +0000"
     },
     "done": true
   },
@@ -10499,27 +10487,39 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_yellow_pane2": {
+  "itemcollectors:recipes/misc/basic_collector": {
     "criteria": {
-      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+      "recipe_condition": "2025-05-12 19:53:06 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/smart_green": {
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
     "criteria": {
-      "has_dyes/black": "2025-05-12 19:14:10 +0000"
+      "has_obsidian": "2025-05-12 20:00:27 +0000"
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
+  "utilitarian:recipes/misc/tps_meter": {
     "criteria": {
-      "has_armor": "2025-05-12 19:04:49 +0000"
+      "has_obsidian": "2025-05-12 20:00:27 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
     "criteria": {
-      "recipe_condition2": "2025-05-12 19:14:19 +0000"
+      "has_obsidian": "2025-05-12 20:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 20:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-12 20:00:27 +0000"
     },
     "done": true
   },
@@ -10529,9 +10529,9 @@
     },
     "done": true
   },
-  "itemcollectors:recipes/misc/basic_collector": {
+  "itemcollectors:recipes/misc/advanced_collector": {
     "criteria": {
-      "recipe_condition": "2025-05-12 19:53:06 +0000"
+      "recipe_condition": "2025-05-12 20:01:53 +0000"
     },
     "done": true
   },

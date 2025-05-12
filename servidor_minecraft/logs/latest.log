@@ -3423,3 +3423,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 19:58:12.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 was slain by elixgamer_2006
 [12May2025 19:58:12.913] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
 [12May2025 20:00:27.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Ice Bucket Challenge]
+[12May2025 20:09:42.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Immersive Engineering]
+[12May2025 20:13:16.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vegetta777 lost connection: Timed out
+[12May2025 20:13:16.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 left the game
+[12May2025 20:14:20.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [A Metallur-what?]
+[12May2025 20:14:41.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vegetta777[/127.236.223.238:52311] logged in with entity id 3417 at (4118.471484844283, 71.875, 4.279386489966403)
+[12May2025 20:14:41.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 joined the game
+[12May2025 20:14:41.504] [Server thread/INFO] [Jade/]: Syncing config to Vegetta777 (141af666-eaa0-3364-88ee-91f097a68c58)
+[12May2025 20:14:41.505] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 4 (-1 unused), uncached profiles: 0, total profiles: 5
+[12May2025 20:15:24.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [The Alloy That Started it All]
