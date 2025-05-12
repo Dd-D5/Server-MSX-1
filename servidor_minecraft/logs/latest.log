@@ -3447,3 +3447,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 03:32:32.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the weather to clear]
 [12May2025 03:59:47.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Ashes 'n Bones]
 [12May2025 04:00:14.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Hot Stuff]
+[12May2025 04:08:15.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon lost connection: You logged in from another location
+[12May2025 04:08:15.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon left the game
+[12May2025 04:08:15.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepinillodelimon[/127.11.185.132:60371] logged in with entity id 8290 at (4118.558671661512, 71.0, 6.278718534945662)
+[12May2025 04:08:15.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon joined the game
+[12May2025 04:08:16.070] [Server thread/INFO] [Jade/]: Syncing config to pepinillodelimon (539fca97-f351-30a9-98bc-d9028b9bf180)
+[12May2025 04:08:16.071] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-1 unused), uncached profiles: 0, total profiles: 4
+[12May2025 04:11:03.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon lost connection: Disconnected
+[12May2025 04:11:03.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon left the game
+[12May2025 04:15:28.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Hearty Meal]

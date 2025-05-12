@@ -8115,6 +8115,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/copper_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-12 03:29:47 +0000"
@@ -8151,6 +8157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
     "criteria": {
       "has_nickel_ingot": "2025-05-12 03:38:47 +0000"
@@ -8163,6 +8175,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-05-12 02:56:19 +0000"
@@ -8172,6 +8190,18 @@
   "bloodmagic:recipes/misc/sacrificial_dagger": {
     "criteria": {
       "has_glass": "2025-05-12 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_rgb": {
+    "criteria": {
+      "has_dye": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 04:03:49 +0000"
     },
     "done": true
   },
@@ -8235,6 +8265,18 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/uranium_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-12 03:29:47 +0000"
@@ -8265,6 +8307,18 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/red_force_furnace_from_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-05-12 03:55:59 +0000"
@@ -8283,9 +8337,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/uranium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-12 03:29:47 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-12 04:03:49 +0000"
     },
     "done": true
   },
@@ -8298,6 +8364,12 @@
   "mcwbridges:recipes/glass_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-12 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 04:03:49 +0000"
     },
     "done": true
   },
@@ -8322,6 +8394,12 @@
   "alltheores:recipes/misc/nickel_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_red_torch": {
+    "criteria": {
+      "has_dye": "2025-05-12 04:03:49 +0000"
     },
     "done": true
   },
@@ -8385,6 +8463,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:38:47 +0000"
@@ -8427,6 +8517,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2025-05-12 02:56:19 +0000"
@@ -8436,6 +8532,18 @@
   "utilitarian:recipes/misc/utility/iron_block_from_blasting": {
     "criteria": {
       "has_raw_iron": "2025-05-12 03:11:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 04:03:49 +0000"
     },
     "done": true
   },
@@ -8463,6 +8571,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/ruby_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-12 03:29:47 +0000"
@@ -8472,6 +8586,12 @@
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-05-12 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 04:03:49 +0000"
     },
     "done": true
   },
@@ -8526,6 +8646,12 @@
   "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
     "criteria": {
       "has_nickel_ingot": "2025-05-12 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 04:03:49 +0000"
     },
     "done": true
   },
@@ -8655,6 +8781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/aluminum_dust_from_raw": {
     "criteria": {
       "has_raw_aluminum": "2025-05-12 03:12:18 +0000"
@@ -8715,6 +8847,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/building_blocks/dark_runic_glass": {
     "criteria": {
       "has_glass": "2025-05-12 03:55:59 +0000"
@@ -8733,9 +8877,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-12 03:29:47 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_red": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 04:03:49 +0000"
     },
     "done": true
   },
@@ -8763,6 +8919,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-05-12 02:56:19 +0000"
@@ -8781,6 +8949,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 04:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-12 03:55:59 +0000"
@@ -8790,6 +8964,12 @@
   "forcecraft:recipes/misc/force_flask": {
     "criteria": {
       "has_glass": "2025-05-12 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 04:03:49 +0000"
     },
     "done": true
   },
