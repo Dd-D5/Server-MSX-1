@@ -7742,5 +7742,11 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_axe": {
+    "criteria": {
+      "has_tool": "2025-05-12 01:05:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
