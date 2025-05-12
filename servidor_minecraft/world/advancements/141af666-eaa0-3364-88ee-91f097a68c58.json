@@ -7810,6 +7810,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/building_blocks/force_brick": {
+    "criteria": {
+      "has_force_gem": "2025-05-12 04:32:03 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/netcable_red": {
     "criteria": {
       "nugget": "2025-05-12 03:59:48 +0000"
@@ -8050,6 +8056,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/misc/compacting/xychorium_gem_red": {
+    "criteria": {
+      "has_xychorium_gem_red": "2025-05-12 04:32:56 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/blue_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-12 01:33:50 +0000"
@@ -8101,6 +8113,12 @@
   "xycraft_world:recipes/misc/compacting/raw_aluminum": {
     "criteria": {
       "has_raw_aluminum": "2025-05-12 01:56:53 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/inverted_bricks_cloud_red": {
+    "criteria": {
+      "has_xychorium_gem_red": "2025-05-12 04:32:56 +0000"
     },
     "done": true
   },
@@ -8395,6 +8413,12 @@
   "immersiveengineering:recipes/misc/crafting/constantan_mix": {
     "criteria": {
       "has_nickel_dust": "2025-05-12 02:38:23 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_and_you": {
+    "criteria": {
+      "has_force_gem": "2025-05-12 04:32:03 +0000"
     },
     "done": true
   },
@@ -8965,6 +8989,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/yellow_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-12 01:33:50 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/ignition_plate": {
+    "criteria": {
+      "has_red_xychorium": "2025-05-12 04:32:56 +0000"
     },
     "done": true
   },
