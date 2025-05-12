@@ -3369,3 +3369,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 21:12:57.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [In Runes]
 [12May2025 21:13:16.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [In Runes]
 [12May2025 21:24:37.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
+[12May2025 21:31:23.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Jessica the Questionable'/4714, l='ServerLevel[world]', x=513.99, y=71.00, z=-5.24] died: Jessica the Questionable was slain by Basalz
+[12May2025 21:34:12.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [A Terrible Fortress]
+[12May2025 21:34:27.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Into Fire]

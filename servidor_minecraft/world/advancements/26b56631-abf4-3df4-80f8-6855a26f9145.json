@@ -10369,6 +10369,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_sword": {
+    "criteria": {
+      "has_tool": "2025-05-12 21:28:50 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/diamond_from_chestplate": {
     "criteria": {
       "has_armor": "2025-05-12 21:17:04 +0000"
