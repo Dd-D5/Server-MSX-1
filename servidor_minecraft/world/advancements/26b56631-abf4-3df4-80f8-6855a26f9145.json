@@ -4043,6 +4043,7 @@
       "minecraft:skeleton": "2025-05-12 22:24:28 +0000",
       "minecraft:ghast": "2025-05-12 22:18:41 +0000",
       "minecraft:magma_cube": "2025-05-12 21:38:07 +0000",
+      "minecraft:spider": "2025-05-12 22:55:41 +0000",
       "minecraft:phantom": "2025-05-11 04:43:06 +0000",
       "minecraft:zombified_piglin": "2025-05-12 01:34:52 +0000",
       "minecraft:wither_skeleton": "2025-05-12 21:38:24 +0000",
@@ -10369,6 +10370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
   "oreberriesreplanted:recipes/misc/cherry_vat": {
     "criteria": {
       "has_planks": "2025-05-12 22:02:17 +0000"
@@ -10399,9 +10406,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_tile_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
     },
     "done": true
   },
@@ -10420,6 +10439,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2025-05-12 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
     },
     "done": true
   },
@@ -10477,15 +10502,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-05-12 21:39:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/glowing_water": {
     "criteria": {
       "has_nether_wart": "2025-05-12 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
     },
     "done": true
   },
@@ -10537,6 +10580,18 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/terracotta_1x": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/misc/crimson_iron_ingot_from_nugget": {
     "criteria": {
       "has_item": "2025-05-12 22:30:07 +0000"
@@ -10546,6 +10601,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-05-12 21:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
     },
     "done": true
   },
@@ -10651,6 +10712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_sword": {
     "criteria": {
       "has_tool": "2025-05-12 22:30:11 +0000"
@@ -10663,9 +10730,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/building_blocks/compressed_brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
     },
     "done": true
   },
@@ -10702,6 +10781,12 @@
   "sophisticatedstorage:recipes/misc/cherry_limited_barrel_4": {
     "criteria": {
       "has_cherry_plank": "2025-05-12 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
     },
     "done": true
   },
@@ -10753,6 +10838,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-12 22:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2025-05-12 22:32:38 +0000"
@@ -10768,6 +10865,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-05-12 22:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
     },
     "done": true
   },
@@ -10799,6 +10902,12 @@
   "pneumaticcraft:recipes/building_blocks/compressed_brick_pillar_from_bricks_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
     },
     "done": true
   },
@@ -10913,6 +11022,12 @@
   "pneumaticcraft:recipes/misc/logistics_module": {
     "criteria": {
       "has_logistics_core": "2025-05-12 22:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
     },
     "done": true
   },

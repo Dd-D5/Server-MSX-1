@@ -11708,6 +11708,12 @@
     },
     "done": true
   },
+  "enderio:recipes/building_blocks/silent_light_weighted_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-05-12 22:54:02 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2025-05-12 22:22:39 +0000"
