@@ -9821,6 +9821,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/double_netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-05-12 19:28:12 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/building_blocks/force_brick_green": {
     "criteria": {
       "has_green_dye": "2025-05-12 19:14:10 +0000"
@@ -9947,6 +9953,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/diamond_shulker_from_diamond_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-05-12 19:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-12 19:07:49 +0000"
@@ -9986,6 +9998,12 @@
   "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
     "criteria": {
       "recipe_condition2": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/gold_block_1x": {
+    "criteria": {
+      "has_gold_block": "2025-05-12 19:34:20 +0000"
     },
     "done": true
   },
@@ -10070,6 +10088,12 @@
   "minecraft:recipes/building_blocks/dye_cyan_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_chest": {
+    "criteria": {
+      "has_diamond_chest": "2025-05-12 19:28:12 +0000"
     },
     "done": true
   },
@@ -10226,6 +10250,12 @@
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-12 19:34:20 +0000"
     },
     "done": true
   },

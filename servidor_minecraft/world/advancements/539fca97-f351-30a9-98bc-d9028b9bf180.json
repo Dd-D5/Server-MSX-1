@@ -10071,6 +10071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
@@ -10137,6 +10143,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/floodlight": {
+    "criteria": {
+      "has_light_bulb": "2025-05-12 19:31:13 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-12 19:24:55 +0000"
@@ -10149,9 +10161,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_red": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
     },
     "done": true
   },
@@ -10191,9 +10215,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/aluminum_dust": {
     "criteria": {
       "has_aluminum": "2025-05-12 19:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
     },
     "done": true
   },
@@ -10263,9 +10299,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wooden_grip": {
     "criteria": {
       "has_treated_sticks": "2025-05-12 19:11:51 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/generator": {
+    "criteria": {
+      "has_component_iron": "2025-05-12 19:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
     },
     "done": true
   },
@@ -10281,6 +10341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
@@ -10293,6 +10359,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2025-05-12 19:15:48 +0000"
@@ -10302,6 +10374,12 @@
   "xycraft_world:recipes/building_blocks/shaped/lamp_rgb": {
     "criteria": {
       "has_aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
     },
     "done": true
   },
@@ -10335,6 +10413,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_to_slab": {
     "criteria": {
       "has_treated_wood_horizontal": "2025-05-12 18:58:11 +0000"
@@ -10353,6 +10443,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/treated_post": {
     "criteria": {
       "has_treated_fence": "2025-05-12 19:22:20 +0000"
@@ -10362,6 +10458,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_torch": {
     "criteria": {
       "has_aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
     },
     "done": true
   },
@@ -10377,9 +10479,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cloche": {
+    "criteria": {
+      "has_light_bulb": "2025-05-12 19:31:13 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_red": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
     },
     "done": true
   },
@@ -10389,9 +10515,27 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_orange2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/electric_lantern": {
+    "criteria": {
+      "has_light_bulb": "2025-05-12 19:31:13 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
     },
     "done": true
   },
@@ -10437,6 +10581,30 @@
     },
     "done": true
   },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-05-12 19:28:09 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-12 19:26:04 +0000"
@@ -10467,6 +10635,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-12 19:24:55 +0000"
@@ -10476,6 +10656,24 @@
   "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
     },
     "done": true
   },
@@ -10509,6 +10707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
   "xycraft_machines:recipes/misc/shaped/machine_base_flipped": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
@@ -10524,6 +10728,18 @@
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_dark": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2025-05-12 19:31:53 +0000"
     },
     "done": true
   },
@@ -10629,6 +10845,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-12 19:26:04 +0000"
@@ -10659,6 +10881,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
@@ -10671,15 +10899,45 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-05-12 19:30:42 +0000"
     },
     "done": true
   },
