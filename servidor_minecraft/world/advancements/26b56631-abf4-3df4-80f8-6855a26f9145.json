@@ -10063,15 +10063,81 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/component_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 20:04:44 +0000"
-    },
-    "done": true
-  },
   "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
     "criteria": {
       "has_soul_sand": "2025-05-12 19:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-12 19:14:37 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/snad/soul_snad": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:14:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-12 19:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-12 19:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-12 19:23:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-12 19:23:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-12 19:23:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-12 20:00:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 20:00:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 20:04:44 +0000"
     },
     "done": true
   },
@@ -10099,30 +10165,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/steel_ingot_from_dust": {
-    "criteria": {
-      "has_item": "2025-05-12 20:00:49 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/campfire_molasses": {
-    "criteria": {
-      "has_sugar_cane": "2025-05-12 19:23:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-05-12 19:23:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-05-12 19:23:31 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/axe_steel": {
     "criteria": {
       "has_steel_ingot": "2025-05-12 20:04:44 +0000"
@@ -10135,21 +10177,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-05-12 19:14:37 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/sawblade": {
     "criteria": {
       "has_steel_ingot": "2025-05-12 20:04:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-05-12 19:14:37 +0000"
     },
     "done": true
   },
@@ -10159,21 +10189,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/steel_ingot_from_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-05-12 20:00:49 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/steel_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-12 20:04:44 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/molasses_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-05-12 19:23:31 +0000"
     },
     "done": true
   },
@@ -10186,18 +10204,6 @@
   "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
     "criteria": {
       "has_steel_ingot": "2025-05-12 20:04:44 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/snad/soul_snad": {
-    "criteria": {
-      "has_soul_sand": "2025-05-12 19:14:37 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-05-12 19:23:31 +0000"
     },
     "done": true
   },
@@ -10255,12 +10261,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-05-12 19:14:37 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/steel_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-05-12 20:04:44 +0000"
@@ -10294,6 +10294,48 @@
   "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
     "criteria": {
       "has_ingot_steel": "2025-05-12 20:04:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2025-05-12 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-12 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_wood": "2025-05-12 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-12 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-05-12 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2025-05-12 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-12 20:34:17 +0000"
     },
     "done": true
   },

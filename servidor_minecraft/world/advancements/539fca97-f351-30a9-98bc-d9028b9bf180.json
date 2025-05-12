@@ -10048,63 +10048,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-12 19:15:36 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/waterwheel_segment": {
     "criteria": {
       "has_treated_planks": "2025-05-12 18:58:11 +0000"
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_light": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/iron_ingot_from_dust": {
-    "criteria": {
-      "has_item": "2025-05-12 19:52:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-05-12 20:09:24 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue": {
-    "criteria": {
-      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green": {
-    "criteria": {
-      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/windmill_blade": {
     "criteria": {
       "has_treated_planks": "2025-05-12 18:58:11 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-12 19:26:04 +0000"
     },
     "done": true
   },
@@ -10120,147 +10072,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/armor_faraday_helmet": {
-    "criteria": {
-      "has_alu_plate": "2025-05-12 19:48:28 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shaped/machine_base": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/misc/unpacking/aluminum_nugget": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-05-12 19:53:07 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
-    "criteria": {
-      "has_alu_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/component_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_tiles": {
-    "criteria": {
-      "has_aluminum": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
-    "criteria": {
-      "has_soul_sand": "2025-05-12 19:15:48 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:tools/tools_root": {
-    "criteria": {
-      "has_item": "2025-05-12 19:22:19 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/floodlight": {
-    "criteria": {
-      "has_light_bulb": "2025-05-12 19:31:13 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
-    "criteria": {
-      "has_item": "2025-05-12 19:24:55 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/steel_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark_r": {
-    "criteria": {
-      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/steel_ingot_from_dust": {
-    "criteria": {
-      "has_item": "2025-05-12 19:53:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_red": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal_r": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/main_root": {
-    "criteria": {
-      "has_item": "2025-05-12 20:09:42 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/stick_treated": {
     "criteria": {
       "has_treated_planks": "2025-05-12 18:58:11 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks": {
-    "criteria": {
-      "has_aluminum": "2025-05-12 19:26:04 +0000"
     },
     "done": true
   },
@@ -10270,57 +10084,9 @@
     },
     "done": true
   },
-  "xnet:recipes/xnet/antenna_base": {
-    "criteria": {
-      "block": "2025-05-12 19:53:07 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/reinforced_crate": {
     "criteria": {
       "has_treated_planks": "2025-05-12 18:58:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/aluminum_dust": {
-    "criteria": {
-      "has_aluminum": "2025-05-12 19:24:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_dark": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_light": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-05-12 19:52:18 +0000"
     },
     "done": true
   },
@@ -10336,249 +10102,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/armor_steel_chestplate": {
-    "criteria": {
-      "has_steel_plate": "2025-05-12 19:56:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2025-05-12 19:15:36 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/craft_workbench": {
-    "criteria": {
-      "has_item": "2025-05-12 19:22:19 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light": {
-    "criteria": {
-      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/armor_faraday_chestplate": {
-    "criteria": {
-      "has_alu_plate": "2025-05-12 19:48:28 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/wooden_barrel": {
     "criteria": {
       "has_treated_planks": "2025-05-12 18:58:11 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light_r": {
-    "criteria": {
-      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_blue": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-12 19:15:36 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/axe_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2025-05-12 19:31:53 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wooden_grip": {
-    "criteria": {
-      "has_treated_sticks": "2025-05-12 19:11:51 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/upgrade_tome": {
-    "criteria": {
-      "has_book": "2025-05-12 20:09:24 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/generator": {
-    "criteria": {
-      "has_component_iron": "2025-05-12 19:32:03 +0000"
-    },
-    "done": true
-  },
-  "mekanism:infused_alloy": {
-    "criteria": {
-      "alloy_infused": "2025-05-12 20:15:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_light_blue2": {
-    "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-05-12 19:15:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-05-12 20:09:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_green": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/armor_faraday_leggings": {
-    "criteria": {
-      "has_alu_plate": "2025-05-12 19:48:28 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sawblade": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "rftoolsbase:recipes/rftoolsbase/manual": {
-    "criteria": {
-      "book": "2025-05-12 20:09:24 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_blue": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/whisk": {
-    "criteria": {
-      "has_item": "2025-05-12 19:31:53 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/razor_wire": {
-    "criteria": {
-      "has_wire_steel": "2025-05-12 19:56:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-05-12 19:15:48 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/lamp_rgb": {
-    "criteria": {
-      "has_aluminum": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/osmium_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-12 20:15:14 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_gray2": {
-    "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-05-12 19:15:36 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_green": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/steel_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_green": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/brown_to_red_mushroom": {
-    "criteria": {
-      "has_brown_mushroom": "2025-05-12 19:15:36 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_red": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_green2": {
-    "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
     },
     "done": true
   },
@@ -10588,183 +10114,75 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_dark": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/steel_ingot_from_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-05-12 19:53:49 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/treated_scaffold": {
     "criteria": {
       "has_treated_planks": "2025-05-12 18:58:11 +0000"
     },
     "done": true
   },
-  "occultism:recipes/misc/blasting/iron_ingot_from_dust": {
+  "immersiveengineering:recipes/misc/crafting/treated_fence": {
     "criteria": {
-      "has_iron_dust": "2025-05-12 19:52:18 +0000"
+      "has_treated_planks": "2025-05-12 18:58:11 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
+  "immersiveengineering:recipes/misc/crafting/workbench": {
     "criteria": {
-      "has_copper_chest": "2025-05-12 20:24:08 +0000"
+      "has_treated_planks": "2025-05-12 18:58:11 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/steel_plate": {
+  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-12 19:55:50 +0000"
+      "has_treated_wood_horizontal": "2025-05-12 18:58:11 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+  "immersiveengineering:recipes/misc/crafting/treated_wallmount": {
     "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+      "has_treated_planks": "2025-05-12 18:58:11 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_lime2": {
+  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_horizontal": {
     "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+      "has_treated_wood_horizontal": "2025-05-12 18:58:11 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+  "immersiveengineering:recipes/misc/crafting/wooden_grip": {
     "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+      "has_treated_sticks": "2025-05-12 19:11:51 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/treated_post": {
+  "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
-      "has_treated_fence": "2025-05-12 19:22:20 +0000"
+      "has_any_ingredient": "2025-05-12 19:15:36 +0000"
     },
     "done": true
   },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_torch": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_aluminum": "2025-05-12 19:26:04 +0000"
+      "has_brown_mushroom": "2025-05-12 19:15:36 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_brown2": {
+  "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+      "has_any_ingredient": "2025-05-12 19:15:36 +0000"
     },
     "done": true
   },
-  "utilitarian:recipes/misc/snad/soul_snad": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_soul_sand": "2025-05-12 19:15:48 +0000"
+      "has_brown_mushroom": "2025-05-12 19:15:36 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
+  "forcecraft:recipes/transmutation/transmutation/brown_to_red_mushroom": {
     "criteria": {
-      "has_alu_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/cloche": {
-    "criteria": {
-      "has_light_bulb": "2025-05-12 19:31:13 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_red": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "mekanism:basic_control_circuit": {
-    "criteria": {
-      "basic_control_circuit": "2025-05-12 20:26:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_orange2": {
-    "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark": {
-    "criteria": {
-      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/osmium_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-05-12 20:15:14 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/coil_hv": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/electric_lantern": {
-    "criteria": {
-      "has_light_bulb": "2025-05-12 19:31:13 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_white2": {
-    "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
-    "criteria": {
-      "has_ingot_steel": "2025-05-12 19:55:50 +0000"
+      "has_brown_mushroom": "2025-05-12 19:15:36 +0000"
     },
     "done": true
   },
@@ -10801,348 +10219,6 @@
   "botania:recipes/decorations/mushroom_13": {
     "criteria": {
       "has_alt_item": "2025-05-12 19:15:36 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "mekanism:energy_transport": {
-    "criteria": {
-      "basic_universal_cable": "2025-05-12 19:28:09 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
-    "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2025-05-12 19:31:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/manual": {
-    "criteria": {
-      "has_book": "2025-05-12 20:09:24 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_fence": {
-    "criteria": {
-      "has_treated_planks": "2025-05-12 18:58:11 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/decorations/shaped/lamp_rgb_r": {
-    "criteria": {
-      "has_aluminum": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_light": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/osmium_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-12 20:15:14 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_light": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2025-05-12 19:31:53 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/osmium_rod": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-12 20:15:14 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/maintenance_kit": {
-    "criteria": {
-      "has_wirecutter": "2025-05-12 19:47:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-12 20:09:24 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stick_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/rockcutter": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_yellow2": {
-    "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-05-12 19:24:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-12 20:09:24 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_purple2": {
-    "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_pink2": {
-    "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alu_fence": {
-    "criteria": {
-      "has_alu_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_blue": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-05-12 19:15:48 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/armor_steel_leggings": {
-    "criteria": {
-      "has_steel_plate": "2025-05-12 19:56:05 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/watermill": {
-    "criteria": {
-      "has_waterwheel_segment": "2025-05-12 19:58:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-05-12 19:53:07 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shaped/extractor": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/osmium_dust_from_ingot": {
-    "criteria": {
-      "has_osmium_ingot": "2025-05-12 20:15:14 +0000"
-    },
-    "done": true
-  },
-  "xycraft_machines:recipes/misc/shaped/machine_base_flipped": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/steel_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/misc/compacting/aluminum_ingot": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/chute_aluminum": {
-    "criteria": {
-      "has_plate": "2025-05-12 19:48:28 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_dark": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_black2": {
-    "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/chute_iron": {
-    "criteria": {
-      "has_plate": "2025-05-12 19:31:53 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/workbench": {
-    "criteria": {
-      "has_treated_planks": "2025-05-12 18:58:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/armor_steel_helmet": {
-    "criteria": {
-      "has_steel_plate": "2025-05-12 19:56:05 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_red": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-05-12 18:58:11 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_plate": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red": {
-    "criteria": {
-      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/armor_faraday_boots": {
-    "criteria": {
-      "has_alu_plate": "2025-05-12 19:48:28 +0000"
-    },
-    "done": true
-  },
-  "mekanism:metallurgic_infuser": {
-    "criteria": {
-      "metallurgic_infuser": "2025-05-12 20:14:20 +0000"
-    },
-    "done": true
-  },
-  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_dark": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/aluminum_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/double_iron_chest_from_copper_chest": {
-    "criteria": {
-      "has_copper_chest": "2025-05-12 20:24:08 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_steel": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
     },
     "done": true
   },
@@ -11206,21 +10282,363 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
     "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+      "has_soul_sand": "2025-05-12 19:15:48 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_iron_plate": "2025-05-12 19:31:53 +0000"
+      "has_soul_sand": "2025-05-12 19:15:48 +0000"
     },
     "done": true
   },
-  "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
+  "create:recipes/misc/smelting/scoria": {
     "criteria": {
-      "has_iron_block": "2025-05-12 19:53:07 +0000"
+      "has_item": "2025-05-12 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/snad/soul_snad": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2025-05-12 19:22:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2025-05-12 19:22:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_post": {
+    "criteria": {
+      "has_treated_fence": "2025-05-12 19:22:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 19:24:55 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 19:24:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-12 19:24:55 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/machine_base": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
+    "criteria": {
+      "has_alu_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_tiles": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal_r": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/lamp_rgb": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_torch": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/decorations/shaped/lamp_rgb_r": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/extractor": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/machine_base_flipped": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/aluminum_ingot": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 19:26:04 +0000"
     },
     "done": true
   },
@@ -11230,33 +10648,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/armor_steel_boots": {
-    "criteria": {
-      "has_steel_plate": "2025-05-12 19:56:05 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wallmount": {
-    "criteria": {
-      "has_treated_planks": "2025-05-12 18:58:11 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_horizontal": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-05-12 18:58:11 +0000"
-    },
-    "done": true
-  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/osmium_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-12 20:15:14 +0000"
     },
     "done": true
   },
@@ -11266,45 +10660,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/steel_fence": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
-    "criteria": {
-      "has_iron_plate": "2025-05-12 19:31:53 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/chute_steel": {
-    "criteria": {
-      "has_plate": "2025-05-12 19:56:05 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/smelting/iron_ingot_from_dust": {
-    "criteria": {
-      "has_iron_dust": "2025-05-12 19:52:18 +0000"
-    },
-    "done": true
-  },
   "xycraft_world:recipes/building_blocks/shaped/immortal_stone_green": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
-    "criteria": {
-      "has_copper_chest": "2025-05-12 20:24:08 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/steel_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-12 19:55:50 +0000"
     },
     "done": true
   },
@@ -11314,51 +10672,9 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_magenta2": {
-    "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_pane1": {
-    "criteria": {
-      "recipe_condition": "2025-05-12 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_pane3": {
-    "criteria": {
-      "recipe_condition": "2025-05-12 19:30:42 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/enchanter": {
-    "criteria": {
-      "has_ingredient": "2025-05-12 20:09:24 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
-    "criteria": {
-      "has_ingot_steel": "2025-05-12 19:55:50 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/spirit_fire/spirit_fire/taboo_book": {
-    "criteria": {
-      "has_book": "2025-05-12 20:09:24 +0000"
-    },
-    "done": true
-  },
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-12 19:26:04 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_cyan2": {
-    "criteria": {
-      "recipe_condition1": "2025-05-12 19:30:42 +0000"
     },
     "done": true
   },
@@ -11368,15 +10684,861 @@
     },
     "done": true
   },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-05-12 19:28:09 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_orange2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-12 19:30:42 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass1": {
     "criteria": {
       "recipe_condition": "2025-05-12 19:30:42 +0000"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/floodlight": {
+    "criteria": {
+      "has_light_bulb": "2025-05-12 19:31:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cloche": {
+    "criteria": {
+      "has_light_bulb": "2025-05-12 19:31:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/electric_lantern": {
+    "criteria": {
+      "has_light_bulb": "2025-05-12 19:31:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2025-05-12 19:31:53 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/generator": {
+    "criteria": {
+      "has_component_iron": "2025-05-12 19:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-05-12 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/maintenance_kit": {
+    "criteria": {
+      "has_wirecutter": "2025-05-12 19:47:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_helmet": {
+    "criteria": {
+      "has_alu_plate": "2025-05-12 19:48:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_chestplate": {
+    "criteria": {
+      "has_alu_plate": "2025-05-12 19:48:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_leggings": {
+    "criteria": {
+      "has_alu_plate": "2025-05-12 19:48:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_aluminum": {
+    "criteria": {
+      "has_plate": "2025-05-12 19:48:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_faraday_boots": {
+    "criteria": {
+      "has_alu_plate": "2025-05-12 19:48:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-12 19:52:18 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 19:52:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2025-05-12 19:52:18 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_iron_dust": "2025-05-12 19:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-12 19:53:07 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/antenna_base": {
+    "criteria": {
+      "block": "2025-05-12 19:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-12 19:53:07 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/iron_block_1x": {
+    "criteria": {
+      "has_iron_block": "2025-05-12 19:53:07 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/iron_ore_hammer": {
     "criteria": {
       "has_iron_block": "2025-05-12 19:53:07 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-12 19:53:49 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 19:53:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/component_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shovel_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hoe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/axe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_scaffolding_standard": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sawblade": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sword_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_wallmount": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coil_hv": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_drum": {
+    "criteria": {
+      "has_ingot_steel": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/pickaxe_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/rockcutter": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_steel_hammering": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_structural": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/steel_fence": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/steel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
+    "criteria": {
+      "has_ingot_steel": "2025-05-12 19:55:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_chestplate": {
+    "criteria": {
+      "has_steel_plate": "2025-05-12 19:56:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_leggings": {
+    "criteria": {
+      "has_steel_plate": "2025-05-12 19:56:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_helmet": {
+    "criteria": {
+      "has_steel_plate": "2025-05-12 19:56:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/armor_steel_boots": {
+    "criteria": {
+      "has_steel_plate": "2025-05-12 19:56:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_steel": {
+    "criteria": {
+      "has_plate": "2025-05-12 19:56:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/razor_wire": {
+    "criteria": {
+      "has_wire_steel": "2025-05-12 19:56:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/watermill": {
+    "criteria": {
+      "has_waterwheel_segment": "2025-05-12 19:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-12 20:09:24 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/upgrade_tome": {
+    "criteria": {
+      "has_book": "2025-05-12 20:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-12 20:09:24 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/manual": {
+    "criteria": {
+      "book": "2025-05-12 20:09:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/manual": {
+    "criteria": {
+      "has_book": "2025-05-12 20:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-12 20:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-12 20:09:24 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/enchanter": {
+    "criteria": {
+      "has_ingredient": "2025-05-12 20:09:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/taboo_book": {
+    "criteria": {
+      "has_book": "2025-05-12 20:09:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2025-05-12 20:09:42 +0000"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-05-12 20:14:20 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-12 20:15:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 20:15:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-12 20:15:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-12 20:15:14 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_ingot": {
+    "criteria": {
+      "has_osmium_ingot": "2025-05-12 20:15:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/osmium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-12 20:15:14 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-05-12 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-05-12 20:24:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_iron_chest_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-05-12 20:24:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-05-12 20:24:08 +0000"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-05-12 20:26:59 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-05-12 20:28:42 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/cherry_logs_to_slabs": {
+    "criteria": {
+      "has_log": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/cherry_logs_to_trapdoors": {
+    "criteria": {
+      "has_log": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/cherry_logs_to_stairs": {
+    "criteria": {
+      "has_log": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/cherry_logs_to_boats": {
+    "criteria": {
+      "has_log": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/cherry_logs_to_pressure_plates": {
+    "criteria": {
+      "has_log": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/cherry_logs_to_doors": {
+    "criteria": {
+      "has_log": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/cherry_compressed_sieve": {
+    "criteria": {
+      "has_item": "2025-05-12 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-12 20:31:01 +0000"
     },
     "done": true
   },
