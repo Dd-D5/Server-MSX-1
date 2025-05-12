@@ -3420,3 +3420,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 19:29:01.944] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=4109, y=71, z=35}
 [12May2025 19:29:01.944] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=4109, y=71, z=35}
 [12May2025 19:35:25.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 18000]
+[12May2025 19:58:12.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 was slain by elixgamer_2006
+[12May2025 19:58:12.913] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
