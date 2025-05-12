@@ -3403,3 +3403,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 02:55:24.601] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
 [12May2025 02:55:41.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 lost connection: Timed out
 [12May2025 02:55:41.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 left the game
+[12May2025 02:55:47.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon had their world rocked!
+[12May2025 02:55:47.802] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 02:56:02.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 was doomed to fall by Basalz
+[12May2025 02:56:02.470] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[12May2025 02:56:40.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elixgamer_2006[/127.54.208.72:40959] logged in with entity id 4032 at (4111.323129947794, 71.0, 4.412680310788788)
+[12May2025 02:56:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 joined the game
+[12May2025 02:56:41.019] [Server thread/INFO] [Jade/]: Syncing config to elixgamer_2006 (26b56631-abf4-3df4-80f8-6855a26f9145)
+[12May2025 02:56:41.020] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-1 unused), uncached profiles: 0, total profiles: 4
+[12May2025 02:57:22.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set own game mode to Spectator Mode]
+[12May2025 02:57:41.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set own game mode to Survival Mode]
+[12May2025 02:58:19.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was burnt to a crisp whilst fighting Arun the Questionable
+[12May2025 02:58:19.956] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
