@@ -2303,7 +2303,8 @@
       "minecraft:skeleton": "2025-05-11 05:04:57 +0000",
       "minecraft:spider": "2025-05-11 04:44:53 +0000",
       "minecraft:creeper": "2025-05-11 03:39:59 +0000",
-      "minecraft:phantom": "2025-05-11 04:42:49 +0000"
+      "minecraft:phantom": "2025-05-11 04:42:49 +0000",
+      "minecraft:zombie": "2025-05-12 01:34:14 +0000"
     },
     "done": false
   },
@@ -7927,6 +7928,54 @@
   "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-11 07:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-12 01:38:11 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_boots": {
+    "criteria": {
+      "has_armor": "2025-05-12 01:38:11 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_shovel": {
+    "criteria": {
+      "has_tool": "2025-05-12 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-05-12 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2025-05-12 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-12 01:38:11 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-05-12 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2025-05-12 01:34:15 +0000"
     },
     "done": true
   },
