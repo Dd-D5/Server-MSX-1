@@ -10346,33 +10346,177 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/network_node": {
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_pickaxe": {
     "criteria": {
-      "has_capacitor": "2025-05-12 22:35:19 +0000"
+      "has_tool": "2025-05-12 21:04:36 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/tps_meter": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_chestplate": {
+    "criteria": {
+      "has_armor": "2025-05-12 21:17:04 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
+    "criteria": {
+      "has_armor": "2025-05-12 21:17:10 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_sword": {
+    "criteria": {
+      "has_tool": "2025-05-12 21:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-12 21:34:12 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-12 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-12 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-12 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-12 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-05-12 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-12 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-05-12 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-05-12 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-12 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-12 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-12 21:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-12 21:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-12 21:40:16 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-05-12 21:41:04 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-05-12 21:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-12 22:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-12 22:02:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-05-12 22:02:17 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/crimson_iron_dust_from_ingot": {
-    "criteria": {
-      "has_crimson_iron_ingot": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/building_blocks/compressed_brick_tile_from_bricks_stonecutting": {
-    "criteria": {
-      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
     },
     "done": true
   },
@@ -10388,12 +10532,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/shield": {
-    "criteria": {
-      "has_shield": "2025-05-12 22:02:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-05-12 22:02:17 +0000"
@@ -10406,231 +10544,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_tile_stonecutting": {
-    "criteria": {
-      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2025-05-12 22:32:38 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_netherwart_stew": {
-    "criteria": {
-      "has_nether_wart": "2025-05-12 21:38:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_sword": "2025-05-12 22:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/network_registry": {
-    "criteria": {
-      "has_capacitor": "2025-05-12 22:35:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-05-12 22:02:17 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
-    "criteria": {
-      "has_blaze_rod": "2025-05-12 21:34:27 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/tools/obsidian_skull": {
-    "criteria": {
-      "has_obsidian": "2025-05-12 21:05:38 +0000"
-    },
-    "done": true
-  },
-  "silentgear:crimson_iron": {
-    "criteria": {
-      "get_ingot": "2025-05-12 22:30:07 +0000"
-    },
-    "done": false
-  },
-  "silentgear:recipes/misc/crimson_iron_dust_blasting": {
-    "criteria": {
-      "has_item": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-05-12 21:39:35 +0000"
-    },
-    "done": true
-  },
-  "utilitarian:recipes/misc/tps_meter": {
-    "criteria": {
-      "has_obsidian": "2025-05-12 21:05:38 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_nugget": {
-    "criteria": {
-      "has_item": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-05-12 21:39:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/glowing_water": {
-    "criteria": {
-      "has_nether_wart": "2025-05-12 21:38:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/building_blocks/compressed_brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_fragments/wither_skeleton": {
-    "criteria": {
-      "has_withered_rib": "2025-05-12 22:30:08 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/network_api": {
-    "criteria": {
-      "has_capacitor": "2025-05-12 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_storage": {
-    "criteria": {
-      "has_logistics_core": "2025-05-12 22:35:07 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/salvager": {
-    "criteria": {
-      "has_item": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
-    "criteria": {
-      "has_obsidian": "2025-05-12 21:05:38 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/gem": {
-    "criteria": {
-      "gem": "2025-05-12 21:41:04 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/terracotta": {
-    "criteria": {
-      "has_planks": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "allthecompressed:recipes/building_blocks/compress/terracotta_1x": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/crimson_iron_ingot_from_nugget": {
-    "criteria": {
-      "has_item": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-05-12 21:34:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/golden_nether_banana": {
-    "criteria": {
-      "has_item": "2025-05-12 22:35:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-05-12 21:40:16 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-05-12 22:30:03 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_pickaxe": {
-    "criteria": {
-      "has_tool": "2025-05-12 21:04:36 +0000"
     },
     "done": true
   },
@@ -10646,117 +10562,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-05-12 21:38:19 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/cherry_barrel": {
     "criteria": {
       "has_cherry_plank": "2025-05-12 22:02:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-05-12 21:38:19 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/uncrafting/wither_skeleton_skull": {
-    "criteria": {
-      "has_withered_rib": "2025-05-12 22:30:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-05-12 21:05:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-05-12 22:06:18 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
-    "criteria": {
-      "has_item": "2025-05-12 21:34:27 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/network_io_port": {
-    "criteria": {
-      "has_capacitor": "2025-05-12 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-05-12 21:34:27 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mercy_cross": {
-    "criteria": {
-      "has_withered_rib": "2025-05-12 22:30:08 +0000"
-    },
-    "done": true
-  },
-  "silentgear:recipes/misc/glittery_dust": {
-    "criteria": {
-      "has_item": "2025-05-12 22:35:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_sword": {
-    "criteria": {
-      "has_tool": "2025-05-12 22:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-12 22:02:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/building_blocks/compressed_brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-12 22:02:11 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_sword": {
-    "criteria": {
-      "has_tool": "2025-05-12 21:28:50 +0000"
     },
     "done": true
   },
@@ -10784,27 +10592,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_item": "2025-05-12 22:02:17 +0000"
-    },
-    "done": true
-  },
-  "mekanismtools:alternate_armor": {
-    "criteria": {
-      "armor": "2025-05-12 21:50:34 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/classify_filter": {
-    "criteria": {
-      "has_logistics_core": "2025-05-12 22:35:07 +0000"
     },
     "done": true
   },
@@ -10814,69 +10604,147 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/building_blocks/compressed_brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/rope_cherry_bridge": {
     "criteria": {
       "has_planks": "2025-05-12 22:02:17 +0000"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/logistics_frame_default_storage": {
+  "exdeorum:recipes/misc/cherry_sieve": {
     "criteria": {
-      "has_logistics_core": "2025-05-12 22:35:07 +0000"
+      "has_item": "2025-05-12 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/cherry_chest": {
+    "criteria": {
+      "has_cherry_plank": "2025-05-12 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-05-12 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-12 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-12 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-12 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shield": {
+    "criteria": {
+      "has_shield": "2025-05-12 22:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-12 22:06:18 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-12 22:30:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-05-12 22:30:03 +0000"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/crimson_iron_dust_from_ingot": {
+    "criteria": {
+      "has_crimson_iron_ingot": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_tile_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_tile_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2025-05-12 22:30:07 +0000"
+    },
+    "done": false
+  },
+  "silentgear:recipes/misc/crimson_iron_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_nugget": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/salvager": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/compressed_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_compressed_stone": "2025-05-12 22:30:07 +0000"
     },
     "done": true
   },
   "silentgear:recipes/misc/crimson_iron_dust": {
     "criteria": {
       "has_item": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-05-12 22:55:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/epic": {
-    "criteria": {
-      "sword": "2025-05-12 22:32:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/diagnostic_subroutine": {
-    "criteria": {
-      "has_capacitor": "2025-05-12 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-05-12 22:30:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-05-12 21:34:27 +0000"
     },
     "done": true
   },
@@ -10893,39 +10761,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2025-05-12 22:30:11 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/building_blocks/compressed_brick_pillar_from_bricks_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
-    },
-    "done": true
-  },
-  "exdeorum:recipes/misc/cherry_sieve": {
-    "criteria": {
-      "has_item": "2025-05-12 22:02:17 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/network_data_storage": {
-    "criteria": {
-      "has_capacitor": "2025-05-12 22:35:19 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_chestplate": {
-    "criteria": {
-      "has_armor": "2025-05-12 21:17:04 +0000"
     },
     "done": true
   },
@@ -10935,45 +10773,9 @@
     },
     "done": true
   },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2025-05-12 22:30:03 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedstorage:recipes/misc/cherry_chest": {
-    "criteria": {
-      "has_cherry_plank": "2025-05-12 22:02:17 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_requester": {
-    "criteria": {
-      "has_logistics_core": "2025-05-12 22:35:07 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/building_blocks/compressed_stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-05-12 22:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-05-12 21:05:38 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/logistics_frame_active_provider": {
-    "criteria": {
-      "has_logistics_core": "2025-05-12 22:35:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-05-12 22:02:17 +0000"
     },
     "done": true
   },
@@ -10983,33 +10785,51 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
-    "criteria": {
-      "has_armor": "2025-05-12 21:17:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2025-05-12 22:02:17 +0000"
-    },
-    "done": true
-  },
   "silentgear:recipes/misc/crimson_iron_dust_smelting": {
     "criteria": {
       "has_item": "2025-05-12 22:30:07 +0000"
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_boots": {
+  "reliquary:recipes/misc/mob_charm_fragments/wither_skeleton": {
     "criteria": {
-      "has_armor": "2025-05-12 22:32:38 +0000"
+      "has_withered_rib": "2025-05-12 22:30:08 +0000"
     },
     "done": true
   },
-  "botania:recipes/building_blocks/blaze_block": {
+  "reliquary:recipes/misc/uncrafting/wither_skeleton_skull": {
     "criteria": {
-      "has_item": "2025-05-12 21:34:27 +0000"
+      "has_withered_rib": "2025-05-12 22:30:08 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mercy_cross": {
+    "criteria": {
+      "has_withered_rib": "2025-05-12 22:30:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-05-12 22:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-12 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/gold_ingot_from_sword": {
+    "criteria": {
+      "has_tool": "2025-05-12 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-12 22:30:11 +0000"
     },
     "done": true
   },
@@ -11019,21 +10839,21 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/logistics_module": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_logistics_core": "2025-05-12 22:35:07 +0000"
+      "iron_boots": "2025-05-12 22:32:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_terracotta": {
+  "apotheosis:affix/epic": {
     "criteria": {
-      "has_terracotta": "2025-05-12 22:53:05 +0000"
+      "sword": "2025-05-12 22:32:38 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/cherry_rail_bridge": {
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_boots": {
     "criteria": {
-      "has_planks": "2025-05-12 22:02:17 +0000"
+      "has_armor": "2025-05-12 22:32:38 +0000"
     },
     "done": true
   },
@@ -11043,9 +10863,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
+  "pneumaticcraft:recipes/misc/logistics_frame_storage": {
     "criteria": {
-      "has_planks": "2025-05-12 22:02:17 +0000"
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/classify_filter": {
+    "criteria": {
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_default_storage": {
+    "criteria": {
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_requester": {
+    "criteria": {
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_frame_active_provider": {
+    "criteria": {
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_module": {
+    "criteria": {
+      "has_logistics_core": "2025-05-12 22:35:07 +0000"
     },
     "done": true
   },
@@ -11055,15 +10905,165 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "silentgear:recipes/misc/golden_nether_banana": {
     "criteria": {
-      "has_blaze_rod": "2025-05-12 21:34:27 +0000"
+      "has_item": "2025-05-12 22:35:17 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/obsidian_dust": {
+  "silentgear:recipes/misc/glittery_dust": {
     "criteria": {
-      "has_obsidian": "2025-05-12 21:05:38 +0000"
+      "has_item": "2025-05-12 22:35:17 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/network_node": {
+    "criteria": {
+      "has_capacitor": "2025-05-12 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/network_registry": {
+    "criteria": {
+      "has_capacitor": "2025-05-12 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/network_api": {
+    "criteria": {
+      "has_capacitor": "2025-05-12 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/network_io_port": {
+    "criteria": {
+      "has_capacitor": "2025-05-12 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/diagnostic_subroutine": {
+    "criteria": {
+      "has_capacitor": "2025-05-12 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/network_data_storage": {
+    "criteria": {
+      "has_capacitor": "2025-05-12 22:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/terracotta_1x": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-12 22:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-12 22:55:42 +0000"
     },
     "done": true
   },
