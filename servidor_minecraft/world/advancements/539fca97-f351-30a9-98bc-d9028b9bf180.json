@@ -11560,9 +11560,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_gold_tier_upgrade": "2025-05-12 21:35:39 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/tools/compressed_diamond_hammer": {
     "criteria": {
       "has_item": "2025-05-12 21:20:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_diamond_tier_upgrade": "2025-05-12 21:37:29 +0000"
     },
     "done": true
   },

@@ -10613,6 +10613,12 @@
     },
     "done": true
   },
+  "expatternprovider:recipes/misc/silicon_block": {
+    "criteria": {
+      "has_item": "2025-05-12 21:33:22 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
@@ -10730,6 +10736,12 @@
   "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_storage_dark": "2025-05-12 21:38:04 +0000"
     },
     "done": true
   },

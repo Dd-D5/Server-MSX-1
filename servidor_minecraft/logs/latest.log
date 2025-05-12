@@ -3372,3 +3372,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 21:31:23.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Jessica the Questionable'/4714, l='ServerLevel[world]', x=513.99, y=71.00, z=-5.24] died: Jessica the Questionable was slain by Basalz
 [12May2025 21:34:12.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [A Terrible Fortress]
 [12May2025 21:34:27.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Into Fire]
+[12May2025 21:35:55.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
+[12May2025 21:39:35.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Spooky Scary Skeleton]
+[12May2025 21:39:44.503] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Esperanza the Pathetic'/6600, l='ServerLevel[world]', x=715.61, y=-765.93, z=219.95] died: Esperanza the Pathetic fell out of the world
+[12May2025 21:40:59.213] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/6777, l='ServerLevel[world]', x=714.65, y=57.00, z=154.51] died: Withering Archer was slain by elixgamer_2006
+[12May2025 21:41:04.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Not a Diamond]
+[12May2025 21:41:45.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You have perished from holy damage
+[12May2025 21:41:45.822] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved

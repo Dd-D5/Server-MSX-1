@@ -4039,8 +4039,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-12 21:34:26 +0000",
+      "minecraft:magma_cube": "2025-05-12 21:38:07 +0000",
       "minecraft:phantom": "2025-05-11 04:43:06 +0000",
       "minecraft:zombified_piglin": "2025-05-12 01:34:52 +0000",
+      "minecraft:wither_skeleton": "2025-05-12 21:38:24 +0000",
       "minecraft:zombie": "2025-05-12 01:33:34 +0000"
     },
     "done": false
@@ -9087,6 +9090,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-05-12 21:33:47 +0000",
       "minecraft:basalt_deltas": "2025-05-12 01:44:11 +0000"
     },
     "done": false
@@ -10339,9 +10343,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-05-12 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-12 21:34:27 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/obsidian_skull": {
     "criteria": {
       "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-12 21:39:35 +0000"
     },
     "done": true
   },
@@ -10351,9 +10373,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-12 21:39:35 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-05-12 21:38:19 +0000"
+    },
+    "done": true
+  },
   "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
     "criteria": {
       "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-05-12 21:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-12 21:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-12 21:40:16 +0000"
     },
     "done": true
   },
@@ -10363,15 +10415,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-12 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-12 21:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-12 21:05:38 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-12 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-12 21:34:27 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/diamond_from_sword": {
     "criteria": {
       "has_tool": "2025-05-12 21:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-12 21:34:27 +0000"
     },
     "done": true
   },
@@ -10390,6 +10472,18 @@
   "forcecraft:recipes/transmutation/transmutation/diamond_from_leggings": {
     "criteria": {
       "has_armor": "2025-05-12 21:17:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-05-12 21:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-12 21:34:27 +0000"
     },
     "done": true
   },
