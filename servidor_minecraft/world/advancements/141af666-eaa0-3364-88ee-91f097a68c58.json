@@ -7809,6 +7809,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/lead_dust": {
+    "criteria": {
+      "has_lead": "2025-05-12 02:36:45 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/gold_nugget": {
     "criteria": {
       "has_zombie_heart": "2025-05-12 01:34:26 +0000"
@@ -7830,6 +7836,12 @@
   "reliquary:recipes/misc/mob_charm_fragments/zombie": {
     "criteria": {
       "has_zombie_heart": "2025-05-12 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/gold_block_from_smelting": {
+    "criteria": {
+      "has_raw_gold": "2025-05-12 02:40:09 +0000"
     },
     "done": true
   },
@@ -7965,6 +7977,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/lead_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-12 02:36:45 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/compacting/raw_aluminum": {
     "criteria": {
       "has_raw_aluminum": "2025-05-12 01:56:53 +0000"
@@ -7992,6 +8010,12 @@
   "alltheores:recipes/misc/silver_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-12 01:33:52 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/lead_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 02:36:45 +0000"
     },
     "done": true
   },
@@ -8043,6 +8067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-12 02:40:09 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
     "criteria": {
       "has_silver_ingot": "2025-05-12 01:33:52 +0000"
@@ -8058,6 +8088,18 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-12 01:33:50 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_raw": {
+    "criteria": {
+      "has_raw_gold": "2025-05-12 02:40:09 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/gold_block_from_blasting": {
+    "criteria": {
+      "has_raw_gold": "2025-05-12 02:40:09 +0000"
     },
     "done": true
   },
@@ -8100,6 +8142,12 @@
   "croptopia:recipes/hamburger": {
     "criteria": {
       "has_beef": "2025-05-12 01:33:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/constantan_mix": {
+    "criteria": {
+      "has_nickel_dust": "2025-05-12 02:38:23 +0000"
     },
     "done": true
   },
@@ -8337,6 +8385,12 @@
     },
     "done": true
   },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-05-12 02:33:07 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-12 01:33:52 +0000"
@@ -8481,6 +8535,12 @@
     },
     "done": true
   },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-05-12 02:35:34 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/steel_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-05-12 02:26:48 +0000"
@@ -8490,6 +8550,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-12 01:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-12 02:40:09 +0000"
     },
     "done": true
   },
@@ -8520,6 +8586,18 @@
   "exdeorum:recipes/misc/unfired_porcelain_crucible": {
     "criteria": {
       "has_item": "2025-05-12 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
+    "criteria": {
+      "has_item": "2025-05-12 02:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-12 02:40:09 +0000"
     },
     "done": true
   },
