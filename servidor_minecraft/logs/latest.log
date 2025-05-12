@@ -3415,3 +3415,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 02:57:41.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set own game mode to Survival Mode]
 [12May2025 02:58:19.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was burnt to a crisp whilst fighting Arun the Questionable
 [12May2025 02:58:19.956] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 03:13:20.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vegetta777 moved too quickly! 0.0,396.13838071182295,0.0
+[12May2025 03:13:26.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 was doomed to fall by pepinillodelimon
+[12May2025 03:13:26.131] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[12May2025 03:13:34.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by elixgamer_2006
+[12May2025 03:13:34.795] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
