@@ -10911,6 +10911,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/watermill": {
+    "criteria": {
+      "has_waterwheel_segment": "2025-05-12 19:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-12 19:53:07 +0000"

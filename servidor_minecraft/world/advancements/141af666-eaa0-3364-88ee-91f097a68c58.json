@@ -9929,6 +9929,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 20:00:27 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/smart_cyan": {
     "criteria": {
       "has_dyes/black": "2025-05-12 19:14:19 +0000"
@@ -9944,6 +9950,12 @@
   "ae2:recipes/misc/network/cables/smart_yellow": {
     "criteria": {
       "has_dyes/black": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/tps_meter": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 20:00:27 +0000"
     },
     "done": true
   },
@@ -10022,6 +10034,12 @@
   "botania:recipes/tools/ender_hand": {
     "criteria": {
       "has_alt_item": "2025-05-12 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 20:00:27 +0000"
     },
     "done": true
   },
@@ -10157,6 +10175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 20:00:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-05-12 19:46:43 +0000"
@@ -10244,6 +10268,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/misc/advanced_collector": {
+    "criteria": {
+      "recipe_condition": "2025-05-12 20:01:53 +0000"
     },
     "done": true
   },
@@ -10427,6 +10457,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-12 20:00:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-12 19:07:49 +0000"
@@ -10484,6 +10520,12 @@
   "connectedglass:recipes/misc/borderless_glass_cyan2": {
     "criteria": {
       "recipe_condition2": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 20:00:27 +0000"
     },
     "done": true
   },
