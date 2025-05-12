@@ -9013,6 +9013,12 @@
     },
     "done": false
   },
+  "alltheores:recipes/misc/tin_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-12 02:07:50 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
     "criteria": {
       "has_raw_nickel": "2025-05-12 01:54:21 +0000"
@@ -9025,9 +9031,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-12 02:07:50 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-05-12 01:44:47 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 02:05:19 +0000"
     },
     "done": true
   },
@@ -9055,15 +9073,39 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-12 02:07:50 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-05-12 01:32:03 +0000"
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/zinc_dust_from_raw": {
+    "criteria": {
+      "has_raw_zinc": "2025-05-12 02:05:19 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust_from_ingot": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-12 02:07:50 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/nickel_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-05-12 01:54:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-12 02:07:50 +0000"
     },
     "done": true
   },
@@ -9079,6 +9121,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/tin_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 02:07:50 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
     "criteria": {
       "has_raw_tin": "2025-05-12 01:31:51 +0000"
@@ -9088,6 +9136,12 @@
   "xycraft_world:recipes/misc/unpacking/xychorium_gem_light": {
     "criteria": {
       "has_xychorium_storage_light": "2025-05-12 01:36:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-12 02:05:19 +0000"
     },
     "done": true
   },
@@ -9121,6 +9175,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-12 02:05:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-12 01:44:10 +0000"
@@ -9145,9 +9205,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-05-12 02:05:19 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-12 01:31:51 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-12 02:05:19 +0000"
     },
     "done": true
   },
