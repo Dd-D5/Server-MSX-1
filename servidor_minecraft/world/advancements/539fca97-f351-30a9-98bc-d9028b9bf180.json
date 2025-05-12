@@ -7933,9 +7933,33 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_shovel": {
     "criteria": {
-      "has_raw_nickel": "2025-05-12 01:49:16 +0000"
+      "has_tool": "2025-05-12 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-05-12 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2025-05-12 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-05-12 01:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2025-05-12 01:34:15 +0000"
     },
     "done": true
   },
@@ -7951,33 +7975,15 @@
     },
     "done": true
   },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_shovel": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_tool": "2025-05-12 01:34:15 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/cooked_chicken_to_beef": {
-    "criteria": {
-      "has_chicken": "2025-05-12 01:49:32 +0000"
+      "has_golden_boots": "2025-05-12 01:38:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-05-12 01:48:12 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/root": {
-    "criteria": {
-      "sword": "2025-05-12 01:34:15 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_ingot_from_raw": {
-    "criteria": {
-      "has_item": "2025-05-12 01:49:16 +0000"
     },
     "done": true
   },
@@ -7999,39 +8005,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_shovel": "2025-05-12 01:34:15 +0000"
-    },
-    "done": true
-  },
   "forcecraft:recipes/transmutation/transmutation/chicken_to_beef": {
     "criteria": {
       "has_chicken": "2025-05-12 01:48:12 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-05-12 01:49:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-05-12 01:49:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2025-05-12 01:38:11 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/cashew_chicken": {
-    "criteria": {
-      "has_cooked_chicken": "2025-05-12 01:49:32 +0000"
     },
     "done": true
   },
@@ -8053,33 +8029,57 @@
     },
     "done": true
   },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2025-05-12 01:34:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_shovel": "2025-05-12 01:34:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/chicken_sandwich": {
-    "criteria": {
-      "has_cooked_chicken": "2025-05-12 01:49:32 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2025-05-12 01:48:12 +0000"
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_raw": {
+    "criteria": {
+      "has_raw_nickel": "2025-05-12 01:49:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-12 01:49:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-12 01:49:16 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/raw_nickel_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-05-12 01:49:16 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/cooked_chicken_to_beef": {
+    "criteria": {
+      "has_chicken": "2025-05-12 01:49:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-12 01:49:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-12 01:49:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-12 01:49:32 +0000"
     },
     "done": true
   },

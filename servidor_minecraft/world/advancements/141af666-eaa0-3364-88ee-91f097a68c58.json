@@ -7761,6 +7761,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-05-12 02:42:26 +0000"
+    },
+    "done": true
+  },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2025-05-12 02:49:11 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/raw_silver_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-05-12 01:33:49 +0000"
@@ -7965,6 +7977,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/red_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-12 02:42:26 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/misc/reinforced_filter_rail": {
     "criteria": {
       "criterion1": "2025-05-12 01:38:34 +0000"
@@ -7986,6 +8004,12 @@
   "xycraft_world:recipes/misc/compacting/raw_aluminum": {
     "criteria": {
       "has_raw_aluminum": "2025-05-12 01:56:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-05-12 02:42:26 +0000"
     },
     "done": true
   },
@@ -8019,6 +8043,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-05-12 02:42:26 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-12 01:33:49 +0000"
@@ -8028,6 +8058,12 @@
   "immersiveengineering:recipes/misc/crafting/axe_steel": {
     "criteria": {
       "has_steel_ingot": "2025-05-12 02:26:48 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/xychorium_gem_green": {
+    "criteria": {
+      "has_xychorium_storage_green": "2025-05-12 02:42:19 +0000"
     },
     "done": true
   },
@@ -8070,6 +8106,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-12 02:40:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 02:42:26 +0000"
     },
     "done": true
   },
@@ -8175,6 +8217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-05-12 02:42:52 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/silver_dust": {
     "criteria": {
       "has_silver": "2025-05-12 01:33:49 +0000"
@@ -8190,6 +8238,12 @@
   "sophisticatedstorage:recipes/misc/stack_downgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2025-05-12 01:33:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 02:42:26 +0000"
     },
     "done": true
   },
@@ -8292,6 +8346,12 @@
   "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
     "criteria": {
       "has_steel_ingot": "2025-05-12 02:26:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-05-12 02:42:26 +0000"
     },
     "done": true
   },
@@ -8463,6 +8523,12 @@
     },
     "done": true
   },
+  "appflux:recipes/misc/insulating_resin": {
+    "criteria": {
+      "has_item": "2025-05-12 02:42:52 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/aluminum_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-12 01:56:30 +0000"
@@ -8589,6 +8655,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-12 02:42:26 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
     "criteria": {
       "has_item": "2025-05-12 02:40:09 +0000"
@@ -8616,6 +8688,12 @@
   "immersiveengineering:recipes/misc/crafting/wire_steel": {
     "criteria": {
       "has_steel_ingot": "2025-05-12 02:26:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-05-12 02:42:26 +0000"
     },
     "done": true
   },
@@ -8694,6 +8772,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-05-12 01:38:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_red": {
+    "criteria": {
+      "has_item": "2025-05-12 02:42:26 +0000"
     },
     "done": true
   },

@@ -3388,3 +3388,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 02:27:05.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [The Perfect Foundation]
 [12May2025 02:29:53.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the weather to clear]
 [12May2025 02:35:34.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Getting More From Less]
+[12May2025 02:47:00.226] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepinillodelimon[/127.253.100.198:57747] logged in with entity id 3811 at (4104.949119143235, 71.0, -3.5010093627375256)
+[12May2025 02:47:00.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon joined the game
+[12May2025 02:47:00.450] [Server thread/INFO] [Jade/]: Syncing config to pepinillodelimon (539fca97-f351-30a9-98bc-d9028b9bf180)
+[12May2025 02:47:00.451] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-1 unused), uncached profiles: 0, total profiles: 4
+[12May2025 02:53:38.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was slain by Basalz
+[12May2025 02:53:38.106] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 02:54:23.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 tried to swim in lava
+[12May2025 02:54:24.005] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[12May2025 02:54:39.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,332.050961861862,0.0
+[12May2025 02:54:44.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon was doomed to fall by Basalz
+[12May2025 02:54:44.602] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 02:55:24.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon had their world rocked!
+[12May2025 02:55:24.601] [Server thread/INFO] [tombstone/]: The player pepinillodelimon has successfully been saved
+[12May2025 02:55:41.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 lost connection: Timed out
+[12May2025 02:55:41.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 left the game
