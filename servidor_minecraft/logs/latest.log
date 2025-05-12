@@ -3445,3 +3445,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 03:20:41.589] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
 [12May2025 03:30:11.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,396.8202689159381,0.0
 [12May2025 03:32:32.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the weather to clear]
+[12May2025 03:59:47.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Ashes 'n Bones]
+[12May2025 04:00:14.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Hot Stuff]

@@ -4618,6 +4618,7 @@
     "criteria": {
       "minecraft:creeper": "2025-05-12 01:34:46 +0000",
       "minecraft:phantom": "2025-05-11 04:42:00 +0000",
+      "minecraft:zombified_piglin": "2025-05-12 03:59:47 +0000",
       "minecraft:zombie": "2025-05-11 05:38:19 +0000"
     },
     "done": false
@@ -7767,6 +7768,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-12 03:56:31 +0000"
+    },
+    "done": true
+  },
   "mekanism:fluid_tank": {
     "criteria": {
       "basic_fluid_tank": "2025-05-12 02:49:11 +0000"
@@ -7785,11 +7792,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-12 03:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:basalt_deltas": "2025-05-12 01:44:13 +0000"
     },
     "done": false
+  },
+  "alltheores:recipes/misc/nickel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:56:18 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_red": {
+    "criteria": {
+      "nugget": "2025-05-12 03:59:48 +0000"
+    },
+    "done": true
   },
   "sophisticatedstorage:recipes/misc/jukebox_upgrade": {
     "criteria": {
@@ -7845,9 +7870,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-12 03:56:31 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/zombie": {
     "criteria": {
       "has_zombie_heart": "2025-05-12 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-12 03:56:18 +0000"
     },
     "done": true
   },
@@ -7869,6 +7906,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 03:56:31 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blaze_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 03:54:04 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/component_steel": {
     "criteria": {
       "has_steel_ingot": "2025-05-12 02:26:48 +0000"
@@ -7878,6 +7927,12 @@
   "reliquary:recipes/misc/uncrafting/rotten_flesh": {
     "criteria": {
       "has_zombie_heart": "2025-05-12 01:34:26 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:56:18 +0000"
     },
     "done": true
   },
@@ -8055,6 +8110,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_yellow": {
+    "criteria": {
+      "nugget": "2025-05-12 03:59:48 +0000"
+    },
+    "done": true
+  },
   "exdeorum:recipes/misc/unfired_porcelain_bucket": {
     "criteria": {
       "has_item": "2025-05-12 01:33:49 +0000"
@@ -8073,6 +8134,24 @@
     },
     "done": true
   },
+  "alchemistry:recipes/misc/reactor_casing": {
+    "criteria": {
+      "has_item": "2025-05-12 03:54:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-12 03:59:47 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/nickel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:56:18 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/lead_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-12 02:36:45 +0000"
@@ -8088,6 +8167,12 @@
   "alltheores:recipes/misc/silver_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-12 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_blue": {
+    "criteria": {
+      "nugget": "2025-05-12 03:59:48 +0000"
     },
     "done": true
   },
@@ -8130,6 +8215,18 @@
   "alltheores:recipes/misc/nickel_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-12 01:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-12 03:59:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-05-12 03:56:24 +0000"
     },
     "done": true
   },
@@ -8211,9 +8308,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-12 03:56:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/hopper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-12 01:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-12 03:54:04 +0000"
     },
     "done": true
   },
@@ -8226,6 +8335,12 @@
   "croptopia:recipes/hamburger": {
     "criteria": {
       "has_beef": "2025-05-12 01:33:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/invar_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-12 03:56:31 +0000"
     },
     "done": true
   },
@@ -8256,6 +8371,12 @@
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2025-05-12 01:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-12 03:59:48 +0000"
     },
     "done": true
   },
@@ -8367,6 +8488,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/nickel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 03:56:18 +0000"
+    },
+    "done": true
+  },
   "projecte:root": {
     "criteria": {
       "philstone_recipe": "2025-05-12 01:38:13 +0000"
@@ -8397,6 +8524,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/constantan_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-05-12 03:56:24 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/drillhead_steel": {
     "criteria": {
       "has_steel_ingot": "2025-05-12 02:26:48 +0000"
@@ -8415,6 +8548,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/nickel_dust_from_ingot": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-12 03:56:18 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-05-12 01:33:49 +0000"
@@ -8424,6 +8563,12 @@
   "occultism:recipes/misc/blasting/silver_ingot": {
     "criteria": {
       "has_silver_ore": "2025-05-12 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/invar_dust_from_ingot": {
+    "criteria": {
+      "has_invar_ingot": "2025-05-12 03:56:31 +0000"
     },
     "done": true
   },
@@ -8523,9 +8668,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/constantan_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-05-12 03:56:24 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/antenna": {
     "criteria": {
       "bars": "2025-05-12 03:15:58 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_constantan_hammering": {
+    "criteria": {
+      "has_constantan_ingot": "2025-05-12 03:56:24 +0000"
     },
     "done": true
   },
@@ -8538,6 +8695,12 @@
   "occultism:recipes/crushing/crushing/steel_dust_from_ingot": {
     "criteria": {
       "has_steel_ingot": "2025-05-12 02:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-12 03:58:21 +0000"
     },
     "done": true
   },
@@ -8601,6 +8764,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-05-12 03:54:04 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/synthetic_point": {
     "criteria": {
       "has_nugget": "2025-05-12 01:38:34 +0000"
@@ -8610,6 +8779,12 @@
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/magenta_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-12 01:33:50 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_routing": {
+    "criteria": {
+      "nugget": "2025-05-12 03:59:48 +0000"
     },
     "done": true
   },
@@ -8640,6 +8815,12 @@
   "utilitix:recipes/misc/filter_rail": {
     "criteria": {
       "criterion1": "2025-05-12 01:38:34 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/constantan_dust_from_ingot": {
+    "criteria": {
+      "has_constantan_ingot": "2025-05-12 03:56:24 +0000"
     },
     "done": true
   },
@@ -8685,6 +8866,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/constantan_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2025-05-12 03:56:24 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/black_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-12 01:33:50 +0000"
@@ -8721,6 +8908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-12 03:54:04 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/brown_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-12 01:33:50 +0000"
@@ -8730,6 +8923,12 @@
   "exdeorum:recipes/misc/unfired_porcelain_crucible": {
     "criteria": {
       "has_item": "2025-05-12 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/machine_frame": {
+    "criteria": {
+      "iron_ingot": "2025-05-12 03:59:59 +0000"
     },
     "done": true
   },
@@ -8811,6 +9010,18 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/netherrack_1x": {
+    "criteria": {
+      "has_netherrack": "2025-05-12 03:58:21 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/machine_base": {
+    "criteria": {
+      "gold": "2025-05-12 03:59:48 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2025-05-12 02:26:48 +0000"
@@ -8823,6 +9034,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_green": {
+    "criteria": {
+      "nugget": "2025-05-12 03:59:48 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-05-12 03:18:58 +0000"
@@ -8832,6 +9049,12 @@
   "alltheores:recipes/misc/steel_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2025-05-12 02:26:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/constantan_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 03:56:24 +0000"
     },
     "done": true
   },
@@ -8850,6 +9073,12 @@
   "immersiveengineering:recipes/misc/crafting/gunpart_hammer": {
     "criteria": {
       "has_ingot_steel": "2025-05-12 02:26:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/invar_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-12 03:56:31 +0000"
     },
     "done": true
   },
