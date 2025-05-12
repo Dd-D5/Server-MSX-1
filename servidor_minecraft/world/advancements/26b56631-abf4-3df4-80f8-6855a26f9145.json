@@ -10063,5 +10063,35 @@
     },
     "done": true
   },
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-12 19:14:37 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/snad/soul_snad": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:14:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

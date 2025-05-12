@@ -9803,9 +9803,57 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/dandelion_to_poppy": {
+    "criteria": {
+      "has_dandelion": "2025-05-12 19:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_green": {
+    "criteria": {
+      "has_green_dye": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "forge:dyes/yellow": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan_dye": {
+    "criteria": {
+      "forge:dyes/cyan": "2025-05-12 19:14:19 +0000"
     },
     "done": true
   },
@@ -9815,15 +9863,75 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_cyan_torch": {
+    "criteria": {
+      "has_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-12 19:07:49 +0000"
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
     },
     "done": true
   },
@@ -9851,6 +9959,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/force_furnace_from_dye": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/terracotta": {
     "criteria": {
       "has_planks": "2025-05-12 19:07:49 +0000"
@@ -9863,9 +10001,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_green_torch": {
+    "criteria": {
+      "has_dye": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/building_blocks/force_brick_cyan": {
+    "criteria": {
+      "has_cyan_dye": "2025-05-12 19:14:19 +0000"
     },
     "done": true
   },
@@ -9881,9 +10091,45 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/green_force_furnace_from_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-05-12 19:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:13:58 +0000"
     },
     "done": true
   },
@@ -9893,9 +10139,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-12 19:11:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:gold_upgrade": {
+    "criteria": {
+      "has_gold_upgrade": "2025-05-12 19:15:13 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-12 19:11:37 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/cyan_force_furnace_from_dye": {
+    "criteria": {
+      "has_cyan_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_green_dye": {
+    "criteria": {
+      "forge:dyes/green": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:14:19 +0000"
     },
     "done": true
   },
@@ -9905,9 +10205,51 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-12 19:07:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:13:58 +0000"
     },
     "done": true
   },
@@ -9917,15 +10259,51 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-12 19:07:49 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_green": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_green": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:13:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_green": {
+    "criteria": {
+      "has_dyes/black": "2025-05-12 19:14:10 +0000"
+    },
+    "done": true
+  },
   "forcecraft:recipes/transmutation/transmutation/diamond_from_helmet": {
     "criteria": {
       "has_armor": "2025-05-12 19:04:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-12 19:14:19 +0000"
     },
     "done": true
   },

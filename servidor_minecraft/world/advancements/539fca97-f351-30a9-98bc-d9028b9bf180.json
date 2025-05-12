@@ -10047,6 +10047,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/waterwheel_segment": {
     "criteria": {
       "has_treated_planks": "2025-05-12 18:58:11 +0000"
@@ -10068,6 +10074,12 @@
   "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
     "criteria": {
       "has_treated_planks": "2025-05-12 18:58:11 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/soul_sand_1x": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:15:48 +0000"
     },
     "done": true
   },
@@ -10101,9 +10113,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wooden_barrel": {
     "criteria": {
       "has_treated_planks": "2025-05-12 18:58:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wooden_grip": {
+    "criteria": {
+      "has_treated_sticks": "2025-05-12 19:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-12 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/brown_to_red_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-12 19:15:36 +0000"
     },
     "done": true
   },
@@ -10119,9 +10173,57 @@
     },
     "done": true
   },
+  "utilitarian:recipes/misc/snad/soul_snad": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/treated_fence": {
     "criteria": {
       "has_treated_planks": "2025-05-12 18:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-12 19:15:48 +0000"
     },
     "done": true
   },
@@ -10134,6 +10236,66 @@
   "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
     "criteria": {
       "has_treated_wood_horizontal": "2025-05-12 18:58:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_alt_item": "2025-05-12 19:15:36 +0000"
     },
     "done": true
   },
