@@ -7001,7 +7001,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-05-11 06:28:12 +0000"
+      "sugar_cane": "2025-05-11 06:28:12 +0000",
+      "wheat": "2025-05-12 05:15:31 +0000"
     },
     "done": false
   },
@@ -9751,6 +9752,12 @@
   "botania:recipes/building_blocks/azulejo_0": {
     "criteria": {
       "has_item": "2025-05-12 04:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-12 05:15:31 +0000"
     },
     "done": true
   },
