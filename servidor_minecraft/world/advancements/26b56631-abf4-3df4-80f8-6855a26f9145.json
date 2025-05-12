@@ -10339,5 +10339,47 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/tps_meter": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/obsidian_1x": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_pickaxe": {
+    "criteria": {
+      "has_tool": "2025-05-12 21:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-05-12 21:05:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

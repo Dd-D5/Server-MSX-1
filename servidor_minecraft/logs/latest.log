@@ -3350,3 +3350,21 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 20:51:48.556] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 4 (-1 unused), uncached profiles: 0, total profiles: 5
 [12May2025 20:58:14.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon lost connection: Timed out
 [12May2025 20:58:14.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon left the game
+[12May2025 21:05:38.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [Ice Bucket Challenge]
+[12May2025 21:07:46.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepinillodelimon[/127.11.185.132:57827] logged in with entity id 571 at (4088.802425373907, 71.0, 41.6724818516341)
+[12May2025 21:07:46.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon joined the game
+[12May2025 21:07:46.609] [Server thread/INFO] [Jade/]: Syncing config to pepinillodelimon (539fca97-f351-30a9-98bc-d9028b9bf180)
+[12May2025 21:07:46.610] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 4 (-1 unused), uncached profiles: 0, total profiles: 5
+[12May2025 21:08:42.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vegetta777[/127.236.223.238:41413] logged in with entity id 575 at (4129.362926835273, 71.5, 11.8086536973633)
+[12May2025 21:08:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 joined the game
+[12May2025 21:08:42.959] [Server thread/INFO] [Jade/]: Syncing config to Vegetta777 (141af666-eaa0-3364-88ee-91f097a68c58)
+[12May2025 21:08:42.962] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 4 (-1 unused), uncached profiles: 0, total profiles: 5
+[12May2025 21:09:20.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> aja muchachos
+[12May2025 21:09:25.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> quien tumbo el sv
+[12May2025 21:09:26.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> xde
+[12May2025 21:10:03.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! -0.03624062096241687,-16.677006251386015,0.0
+[12May2025 21:10:06.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon moved too quickly! 0.0,397.406973768704,0.0
+[12May2025 21:10:22.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the weather to clear]
+[12May2025 21:11:50.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
+[12May2025 21:12:57.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [In Runes]
+[12May2025 21:13:16.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [In Runes]
