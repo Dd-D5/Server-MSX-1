@@ -3396,3 +3396,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 18:39:30.936] [Server thread/INFO] [Jade/]: Syncing config to pepinillodelimon (539fca97-f351-30a9-98bc-d9028b9bf180)
 [12May2025 18:39:30.937] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 4 (-1 unused), uncached profiles: 0, total profiles: 5
 [12May2025 18:41:01.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
+[12May2025 18:51:01.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
+[12May2025 18:52:47.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 fell from a high place
+[12May2025 18:52:47.910] [Server thread/INFO] [tombstone/]: The player Vegetta777 has successfully been saved
+[12May2025 18:54:51.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> kaolite
+[12May2025 18:55:03.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> kaolinite
+[12May2025 18:55:49.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the weather to clear]
+[12May2025 18:58:11.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon has made the advancement [Oiled up and ready to go]
+[12May2025 18:58:17.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the weather to rain]
+[12May2025 18:58:48.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the weather to clear]
