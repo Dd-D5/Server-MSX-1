@@ -3341,3 +3341,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 00:49:40.892] [Server thread/INFO] [Jade/]: Syncing config to pepinillodelimon (539fca97-f351-30a9-98bc-d9028b9bf180)
 [12May2025 00:49:40.895] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-1 unused), uncached profiles: 0, total profiles: 4
 [12May2025 00:50:09.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Vegetta777> :DinkDonk::DinkDonk::DinkDonk:
+[12May2025 01:16:00.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elixgamer_2006[/127.54.208.72:52695] logged in with entity id 950 at (4116.037543387928, 71.0, 6.54619426398048)
+[12May2025 01:16:00.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 joined the game
+[12May2025 01:16:00.535] [Server thread/INFO] [Jade/]: Syncing config to elixgamer_2006 (26b56631-abf4-3df4-80f8-6855a26f9145)
+[12May2025 01:16:00.537] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-1 unused), uncached profiles: 0, total profiles: 4
+[12May2025 01:16:58.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 lost connection: Timed out
+[12May2025 01:16:58.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 left the game
+[12May2025 01:16:58.347] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12May2025 01:20:03.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elixgamer_2006[/127.54.208.72:55557] logged in with entity id 959 at (4116.037543387928, 71.0, 6.54619426398048)
+[12May2025 01:20:03.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 joined the game
+[12May2025 01:20:03.306] [Server thread/INFO] [Jade/]: Syncing config to elixgamer_2006 (26b56631-abf4-3df4-80f8-6855a26f9145)
+[12May2025 01:20:03.308] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-1 unused), uncached profiles: 0, total profiles: 4
+[12May2025 01:24:30.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vegetta777 lost connection: Disconnected
+[12May2025 01:24:30.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 left the game
+[12May2025 01:25:05.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vegetta777[/127.236.223.238:38659] logged in with entity id 993 at (4118.640260841161, 71.0, 5.611877982959174)
+[12May2025 01:25:05.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 joined the game
+[12May2025 01:25:06.273] [Server thread/INFO] [Jade/]: Syncing config to Vegetta777 (141af666-eaa0-3364-88ee-91f097a68c58)
+[12May2025 01:25:06.274] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 3 (-1 unused), uncached profiles: 0, total profiles: 4
