@@ -8020,6 +8020,12 @@
     },
     "done": false
   },
+  "alltheores:recipes/misc/invar_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-12 04:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-05-12 01:33:50 +0000"
@@ -8095,6 +8101,12 @@
   "botania:recipes/tools/dreamwood_wand": {
     "criteria": {
       "has_item": "2025-05-12 02:42:26 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/invar_block_1x": {
+    "criteria": {
+      "has_invar_block": "2025-05-12 04:12:23 +0000"
     },
     "done": true
   },
@@ -8515,6 +8527,12 @@
   "alltheores:recipes/misc/silver_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-05-12 01:33:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-12 04:18:53 +0000"
     },
     "done": true
   },
@@ -9055,6 +9073,12 @@
   "immersiveengineering:recipes/misc/crafting/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2025-05-12 02:26:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/invar_ore_hammer": {
+    "criteria": {
+      "has_invar_block": "2025-05-12 04:12:23 +0000"
     },
     "done": true
   },

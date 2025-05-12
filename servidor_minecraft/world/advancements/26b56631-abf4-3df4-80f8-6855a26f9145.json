@@ -9319,6 +9319,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-12 04:21:20 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/raw_silver_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2025-05-12 03:12:24 +0000"
@@ -9373,6 +9379,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-12 04:21:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
     "criteria": {
       "has_nickel_ingot": "2025-05-12 03:23:40 +0000"
@@ -9391,6 +9403,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 04:21:20 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/misc/unpacking/aluminum_nugget": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-12 04:11:30 +0000"
@@ -9406,6 +9424,12 @@
   "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
     "criteria": {
       "has_alu_ingot": "2025-05-12 04:11:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-05-12 04:15:28 +0000"
     },
     "done": true
   },
@@ -9583,6 +9607,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/invar_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-12 04:21:20 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/lumium_dust_from_ingot": {
     "criteria": {
       "has_lumium_ingot": "2025-05-12 03:49:34 +0000"
@@ -9694,6 +9724,12 @@
   "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-05-12 03:12:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/invar_dust_from_ingot": {
+    "criteria": {
+      "has_invar_ingot": "2025-05-12 04:21:20 +0000"
     },
     "done": true
   },
@@ -9970,6 +10006,12 @@
   "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-12 04:11:30 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/invar_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-12 04:21:20 +0000"
     },
     "done": true
   },
