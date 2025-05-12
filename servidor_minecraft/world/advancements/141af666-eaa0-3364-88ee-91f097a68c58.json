@@ -10277,6 +10277,12 @@
     },
     "done": true
   },
+  "exmachinis:diamond_upgrade": {
+    "criteria": {
+      "has_diamond_upgrade": "2025-05-12 19:19:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_green": {
     "criteria": {
       "has_dyes/black": "2025-05-12 19:14:10 +0000"
