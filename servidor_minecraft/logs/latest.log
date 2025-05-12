@@ -3380,3 +3380,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [12May2025 01:44:47.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has reached the goal [Chain Death]
 [12May2025 01:44:47.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 had their world rocked!
 [12May2025 01:44:47.917] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
+[12May2025 01:47:45.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
+[12May2025 01:52:28.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepinillodelimon lost connection: Timed out
+[12May2025 01:52:28.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon left the game
