@@ -7846,6 +7846,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/gold_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_gold_to_diamond_tier_upgrade": "2025-05-12 05:05:21 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/no_soliciting/soliciting_carpets/green_trapped_soliciting_carpet": {
     "criteria": {
       "has_tripwire_hook": "2025-05-12 01:33:50 +0000"
