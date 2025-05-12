@@ -11542,5 +11542,29 @@
     },
     "done": true
   },
+  "darkutils:adventure/runelic": {
+    "criteria": {
+      "get_tome": "2025-05-12 21:13:16 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/flux_hammer": {
+    "criteria": {
+      "has_diamond_hammer": "2025-05-12 21:20:49 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/transmutation/transmutation/diamond_from_axe": {
+    "criteria": {
+      "has_tool": "2025-05-12 21:12:11 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/tools/compressed_diamond_hammer": {
+    "criteria": {
+      "has_item": "2025-05-12 21:20:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

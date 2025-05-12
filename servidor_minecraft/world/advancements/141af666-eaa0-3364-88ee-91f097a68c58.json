@@ -10535,5 +10535,347 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "darkutils:adventure/runelic": {
+    "criteria": {
+      "get_tome": "2025-05-12 21:12:57 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/machine_base": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/unpacking/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
+    "criteria": {
+      "has_alu_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_tiles": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal_r": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_light_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/lamp_rgb": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_torch": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_dark": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/decorations/shaped/lamp_rgb_r": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/glass_viewer_immortal": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/extractor": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_machines:recipes/misc/shaped/machine_base_flipped": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/misc/compacting/aluminum_ingot": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_0_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_0_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_red_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aurey_matte": {
+    "criteria": {
+      "has_aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_stone_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/immortal_aluminum_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_green_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/shaped/aluminum_bricks_cloud_blue_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-12 21:16:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
