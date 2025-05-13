@@ -3334,3 +3334,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [13May2025 01:51:55.187] [Server thread/INFO] [Jade/]: Syncing config to pepinillodelimon (539fca97-f351-30a9-98bc-d9028b9bf180)
 [13May2025 01:51:55.246] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 4 (-1 unused), uncached profiles: 0, total profiles: 5
 [13May2025 01:51:57.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3485ms or 69 ticks behind
+[13May2025 03:06:26.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> aligment
