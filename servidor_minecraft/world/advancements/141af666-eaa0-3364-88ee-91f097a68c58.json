@@ -12742,6 +12742,12 @@
     },
     "done": true
   },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2025-05-13 04:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-13 03:40:37 +0000"
@@ -12751,6 +12757,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-13 03:40:37 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_items": {
+    "criteria": {
+      "storage_disk_in_inventory": "2025-05-13 04:51:49 +0000"
     },
     "done": true
   },

@@ -3584,3 +3584,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [13May2025 04:48:58.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon left the game
 [13May2025 04:50:10.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the weather to clear]
 [13May2025 04:50:15.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vegetta777: Set the time to 1000]
+[13May2025 04:51:49.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Storing items]
+[13May2025 04:52:40.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vegetta777 lost connection: Disconnected
+[13May2025 04:52:40.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 left the game
