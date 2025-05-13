@@ -12872,9 +12872,21 @@
     },
     "done": true
   },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2025-05-13 02:17:16 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/antenna": {
     "criteria": {
       "bars": "2025-05-13 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-13 02:23:19 +0000"
     },
     "done": true
   },
