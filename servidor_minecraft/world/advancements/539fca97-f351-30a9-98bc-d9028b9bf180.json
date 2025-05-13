@@ -12908,6 +12908,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/magenta_floating_flower": {
+    "criteria": {
+      "has_item": "2025-05-13 02:55:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-13 02:44:42 +0000"
@@ -12947,6 +12953,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-13 02:44:42 +0000"
+    },
+    "done": true
+  },
+  "industrialforegoing:recipes/misc/plastic": {
+    "criteria": {
+      "has_plastic": "2025-05-13 02:46:34 +0000"
     },
     "done": true
   },
