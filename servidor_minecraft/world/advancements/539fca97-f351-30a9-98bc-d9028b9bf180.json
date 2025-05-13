@@ -12944,6 +12944,12 @@
     },
     "done": true
   },
+  "darkutils:adventure/pigpen": {
+    "criteria": {
+      "get_tome": "2025-05-13 03:21:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-13 02:44:42 +0000"
@@ -13007,6 +13013,12 @@
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-13 02:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-13 03:21:11 +0000"
     },
     "done": true
   },
