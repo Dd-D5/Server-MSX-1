@@ -3587,3 +3587,31 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [13May2025 04:51:49.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 has made the advancement [Storing items]
 [13May2025 04:52:40.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vegetta777 lost connection: Disconnected
 [13May2025 04:52:40.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vegetta777 left the game
+[13May2025 05:25:29.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13May2025 05:25:30.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13May2025 05:25:30.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13May2025 05:25:30.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13May2025 05:25:30.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13May2025 05:25:30.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13May2025 05:25:30.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[13May2025 05:25:30.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[13May2025 05:25:30.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mythicbotany:alfheim
+[13May2025 05:25:30.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[13May2025 05:25:30.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[13May2025 05:25:30.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13May2025 05:25:30.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[13May2025 05:25:30.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13May2025 05:25:30.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13May2025 05:25:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[13May2025 05:25:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[13May2025 05:25:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alfheim): All chunks are saved
+[13May2025 05:25:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[13May2025 05:25:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[13May2025 05:25:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13May2025 05:25:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[13May2025 05:25:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13May2025 05:25:30.319] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Unloading EnderTank Data
+[13May2025 05:25:30.319] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Finished Unloading EnderTank Data
+[13May2025 05:25:30.319] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
+[13May2025 05:25:30.319] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
+[13May2025 05:25:30.496] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 1 block entries, 0 item entries
