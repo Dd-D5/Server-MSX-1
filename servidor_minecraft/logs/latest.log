@@ -13,3 +13,17 @@
 [14May2025 00:03:34.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,398.19263605860135,0.0
 [14May2025 00:03:49.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 fell from a high place
 [14May2025 00:03:49.818] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
+[14May2025 00:23:06.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepinillodelimon[/127.199.77.49:46009] logged in with entity id 647 at (4096.661793520927, 71.0, 32.92500650910632)
+[14May2025 00:23:06.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon joined the game
+[14May2025 00:23:06.389] [Server thread/INFO] [Jade/]: Syncing config to pepinillodelimon (539fca97-f351-30a9-98bc-d9028b9bf180)
+[14May2025 00:23:06.392] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 4 (-1 unused), uncached profiles: 0, total profiles: 5
+[14May2025 00:24:53.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> haii
+[14May2025 00:25:36.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> eli
+[14May2025 00:26:18.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,396.45584473808674,0.0
+[14May2025 00:26:34.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,397.73944160634125,0.0
+[14May2025 00:26:42.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,397.73944160634125,0.0
+[14May2025 00:26:49.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,397.73944160634125,0.0
+[14May2025 00:26:57.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,397.73944160634125,0.0
+[14May2025 00:27:05.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,397.73944160634125,0.0
+[14May2025 00:27:13.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,401.4662605878482,0.0
+[14May2025 00:27:20.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elixgamer_2006 moved too quickly! 0.0,397.73944160634125,0.0

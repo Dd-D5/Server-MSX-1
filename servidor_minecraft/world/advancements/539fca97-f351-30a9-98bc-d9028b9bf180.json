@@ -13022,6 +13022,12 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
+    "criteria": {
+      "has_tool": "2025-05-13 04:12:45 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2025-05-13 04:23:03 +0000"
@@ -13049,12 +13055,6 @@
   "croptopia:recipes/campfire_caramel": {
     "criteria": {
       "has_sugar": "2025-05-13 04:23:03 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/transmutation/transmutation/iron_ingot_from_sword": {
-    "criteria": {
-      "has_tool": "2025-05-13 04:12:45 +0000"
     },
     "done": true
   },
