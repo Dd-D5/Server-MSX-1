@@ -11277,6 +11277,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:pressure_chamber": {
+    "criteria": {
+      "0": "2025-05-14 01:43:00 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/air_cannon": {
     "criteria": {
       "has_pressure_tube": "2025-05-14 01:15:35 +0000"

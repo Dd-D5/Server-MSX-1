@@ -13070,9 +13070,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/aurum_stairs": {
+    "criteria": {
+      "has_aurum_planks": "2025-05-14 01:40:16 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/building_blocks/stripped_aurum_wood": {
     "criteria": {
       "has_stripped_aurum_log": "2025-05-14 01:18:02 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/redstone/aurum_pressure_plate": {
+    "criteria": {
+      "has_aurum_planks": "2025-05-14 01:40:16 +0000"
     },
     "done": true
   },
@@ -13088,6 +13100,18 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/aurum_fence": {
+    "criteria": {
+      "has_aurum_planks": "2025-05-14 01:40:16 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/aurum_fence_gate": {
+    "criteria": {
+      "has_aurum_planks": "2025-05-14 01:40:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:chicken": "2025-05-14 01:24:27 +0000"
@@ -13100,9 +13124,27 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/aurum_slab": {
+    "criteria": {
+      "has_aurum_planks": "2025-05-14 01:40:16 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/redstone/aurum_button": {
+    "criteria": {
+      "has_planks": "2025-05-14 01:40:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-05-14 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/aurum_trapdoor": {
+    "criteria": {
+      "has_aurum_planks": "2025-05-14 01:40:16 +0000"
     },
     "done": true
   },
@@ -13115,6 +13157,24 @@
   "projecte:recipes/redstone/nova_catalyst": {
     "criteria": {
       "has_tnt": "2025-05-14 01:03:00 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/transportation/aurum_boat": {
+    "criteria": {
+      "has_aurum_planks": "2025-05-14 01:40:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/forbidden_arcanus/sign_post_aurum": {
+    "criteria": {
+      "has_item": "2025-05-14 01:40:16 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/aurum_door": {
+    "criteria": {
+      "has_aurum_planks": "2025-05-14 01:40:16 +0000"
     },
     "done": true
   },
