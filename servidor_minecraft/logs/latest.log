@@ -3341,3 +3341,26 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Living
 [14May2025 00:54:28.707] [Server thread/INFO] [tombstone/]: The player elixgamer_2006 has successfully been saved
 [14May2025 00:56:49.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [What a Deal!]
 [14May2025 00:57:39.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elixgamer_2006 has made the advancement [The First Explosion (of many?)]
+[14May2025 01:01:22.560] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b6f56b5[id=<null>,name=pepinillodelimon,properties={},legacy=false] (/127.199.77.49:43367) lost connection: Disconnected
+[14May2025 01:01:52.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepinillodelimon[/127.199.77.49:35917] logged in with entity id 696 at (4118.191103393859, 72.0, -12.906173712380623)
+[14May2025 01:01:52.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepinillodelimon joined the game
+[14May2025 01:01:52.413] [Server thread/INFO] [Jade/]: Syncing config to pepinillodelimon (539fca97-f351-30a9-98bc-d9028b9bf180)
+[14May2025 01:01:52.415] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 4 (-1 unused), uncached profiles: 0, total profiles: 5
+[14May2025 01:03:12.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> pq había tnt?
+[14May2025 01:03:23.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elixgamer_2006> cosas que pasan
+[14May2025 01:03:57.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> que estás haciendo?
+[14May2025 01:04:06.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elixgamer_2006> comprimiendo hierro
+[14May2025 01:06:24.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> lecayó un rayo a la granja de los cerdos
+[14May2025 01:06:37.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> se convirtieron en piglim
+[14May2025 01:06:45.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elixgamer_2006> se
+[14May2025 01:06:58.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elixgamer_2006> que loco no
+[14May2025 01:07:06.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> era como improbable
+[14May2025 01:07:11.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> pero no
+[14May2025 01:07:29.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elixgamer_2006> aveces lo improbable pasa
+[14May2025 01:08:06.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> david le compró a un mercader, un pico con fortuna 4
+[14May2025 01:08:41.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elixgamer_2006> ya tengo
+[14May2025 01:08:52.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> como ese pico?
+[14May2025 01:08:55.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elixgamer_2006> se
+[14May2025 01:09:06.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <pepinillodelimon> bulda e pasao
+[14May2025 01:09:15.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elixgamer_2006> estaba barato
+[14May2025 01:09:16.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <elixgamer_2006> xd

@@ -13070,5 +13070,29 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_block": {
+    "criteria": {
+      "tnt": "2025-05-14 01:03:00 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_ingot": {
+    "criteria": {
+      "tnt": "2025-05-14 01:03:00 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/redstone/nova_catalyst": {
+    "criteria": {
+      "has_tnt": "2025-05-14 01:03:00 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/wheat_flour": {
+    "criteria": {
+      "tnt": "2025-05-14 01:03:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
