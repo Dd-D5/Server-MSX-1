@@ -13070,15 +13070,45 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/stripped_aurum_wood": {
+    "criteria": {
+      "has_stripped_aurum_log": "2025-05-14 01:18:02 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/aurum_wood": {
+    "criteria": {
+      "has_aurum_log": "2025-05-14 01:17:44 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/explosion_crafting/compressed_iron_block": {
     "criteria": {
       "tnt": "2025-05-14 01:03:00 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-05-14 01:24:27 +0000"
+    },
+    "done": false
+  },
   "pneumaticcraft:recipes/explosion_crafting/compressed_iron_ingot": {
     "criteria": {
       "tnt": "2025-05-14 01:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-14 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/aurum_planks": {
+    "criteria": {
+      "has_log": "2025-05-14 01:17:44 +0000"
     },
     "done": true
   },

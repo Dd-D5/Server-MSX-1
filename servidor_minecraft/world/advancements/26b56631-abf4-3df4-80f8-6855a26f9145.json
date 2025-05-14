@@ -11187,6 +11187,12 @@
     },
     "done": true
   },
+  "exdeorum:recipes/misc/mechanical_hammer": {
+    "criteria": {
+      "has_item": "2025-05-14 01:16:23 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/reinforced_stone_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
@@ -11211,6 +11217,12 @@
     },
     "done": true
   },
+  "exmachinis:recipes/misc/flux_compactor": {
+    "criteria": {
+      "has_hopper": "2025-05-14 01:16:23 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/compressed_brick_pillar": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
@@ -11220,6 +11232,12 @@
   "pneumaticcraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/mechanical_sieve": {
+    "criteria": {
+      "has_item": "2025-05-14 01:16:23 +0000"
     },
     "done": true
   },
@@ -11301,6 +11319,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:machine_vandal": {
+    "criteria": {
+      "0": "2025-05-14 01:22:53 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pressure_chamber/compressed_iron_block": {
     "criteria": {
       "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
@@ -11346,6 +11370,18 @@
   "pneumaticcraft:recipes/misc/wall_lamp_black": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "exmachinis:recipes/misc/item_buffer": {
+    "criteria": {
+      "has_hopper": "2025-05-14 01:16:23 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/spawner_core_shell": {
+    "criteria": {
+      "has_pressure_chamber_glass": "2025-05-14 01:17:07 +0000"
     },
     "done": true
   },
@@ -11406,6 +11442,12 @@
   "pneumaticcraft:recipes/pressure_chamber/solar_wafer": {
     "criteria": {
       "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2025-05-14 01:16:23 +0000"
     },
     "done": true
   },
@@ -11769,9 +11811,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/pressure_gauge_module": {
+    "criteria": {
+      "has_pressure_gauge": "2025-05-14 01:16:51 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/compressed_iron_leggings": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_item_filter": {
+    "criteria": {
+      "has_ingredient": "2025-05-14 01:16:23 +0000"
     },
     "done": true
   },
@@ -11940,6 +11994,12 @@
   "pneumaticcraft:recipes/pressure_chamber/compressed_stone": {
     "criteria": {
       "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/safety_tube_module": {
+    "criteria": {
+      "has_pressure_gauge": "2025-05-14 01:16:51 +0000"
     },
     "done": true
   },
