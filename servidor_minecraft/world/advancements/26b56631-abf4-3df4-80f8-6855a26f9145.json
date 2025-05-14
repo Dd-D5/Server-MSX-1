@@ -11193,6 +11193,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-14 01:57:46 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_yellow": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
@@ -11286,6 +11292,18 @@
   "enderio:recipes/redstone/resetting_lever_five_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-05-14 01:47:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2025-05-14 01:57:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2025-05-14 01:57:46 +0000"
     },
     "done": true
   },
@@ -11385,6 +11403,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-05-14 01:57:46 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-05-14 01:47:49 +0000"
@@ -11430,6 +11454,12 @@
   "pneumaticcraft:recipes/misc/liquid_compressor": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-05-14 01:57:46 +0000"
     },
     "done": true
   },
@@ -11502,6 +11532,12 @@
   "pneumaticcraft:recipes/misc/vortex_cannon": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:speed_upgrade": {
+    "criteria": {
+      "0": "2025-05-14 01:58:01 +0000"
     },
     "done": true
   },
@@ -11997,6 +12033,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-14 01:57:46 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pressure_chamber/compressed_iron_ingot": {
     "criteria": {
       "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
@@ -12027,9 +12069,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-05-14 01:57:46 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
     "criteria": {
       "has_ingredient": "2025-05-14 01:47:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-05-14 01:57:46 +0000"
     },
     "done": true
   },
