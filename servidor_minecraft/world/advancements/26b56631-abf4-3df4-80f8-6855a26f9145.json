@@ -11115,6 +11115,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/display_shelf": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-14 01:14:26 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/pressure_chamber_interface": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
@@ -11127,6 +11133,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/ice": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/stone_base": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
@@ -11136,6 +11148,12 @@
   "pneumaticcraft:recipes/misc/compressed_stone_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/wheat_flour": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
     },
     "done": true
   },
@@ -11181,6 +11199,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/building_blocks/reinforced_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-14 01:14:26 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/manual_compressor": {
+    "criteria": {
+      "has_pressure_tube": "2025-05-14 01:15:35 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/compressed_brick_pillar": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
@@ -11193,9 +11223,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/display_table_from_shelf": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-14 01:14:26 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_light_blue": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_brick_pillar_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-14 01:14:26 +0000"
     },
     "done": true
   },
@@ -11217,6 +11259,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/air_cannon": {
+    "criteria": {
+      "has_pressure_tube": "2025-05-14 01:15:35 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_brown": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
@@ -11226,6 +11274,12 @@
   "pneumaticcraft:recipes/misc/pressure_tube": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/coal_to_diamond": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
     },
     "done": true
   },
@@ -11247,15 +11301,33 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/compressed_iron_block": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_black": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
     },
     "done": true
   },
+  "pneumaticcraft:recipes/building_blocks/reinforced_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-14 01:14:26 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-14 01:14:26 +0000"
     },
     "done": true
   },
@@ -11274,6 +11346,12 @@
   "pneumaticcraft:recipes/misc/wall_lamp_black": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/tube_junction": {
+    "criteria": {
+      "has_pressure_tube": "2025-05-14 01:15:35 +0000"
     },
     "done": true
   },
@@ -11325,6 +11403,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/solar_wafer": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-14 01:14:57 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/thermal_lagging": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
@@ -11346,6 +11436,12 @@
   "pneumaticcraft:recipes/misc/pressure_chamber_valve_x4": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_compressor": {
+    "criteria": {
+      "has_pressure_tube": "2025-05-14 01:15:35 +0000"
     },
     "done": true
   },
@@ -11409,6 +11505,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/charging_station": {
+    "criteria": {
+      "has_pressure_tube": "2025-05-14 01:15:35 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/thermal_compressor": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
@@ -11445,6 +11547,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/etching_acid": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_grate_module": {
+    "criteria": {
+      "has_pressure_tube": "2025-05-14 01:15:35 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/compressed_iron_boots": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
@@ -11454,6 +11568,18 @@
   "pneumaticcraft:recipes/misc/reinforced_bricks": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_brick_tile_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-14 01:14:26 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/turbine_blade": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
     },
     "done": true
   },
@@ -11472,6 +11598,12 @@
   "pneumaticcraft:recipes/misc/heat_sink": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-14 01:14:26 +0000"
     },
     "done": true
   },
@@ -11565,9 +11697,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/empty_pcb": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_purple": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/building_blocks/reinforced_stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-14 01:14:26 +0000"
     },
     "done": true
   },
@@ -11586,6 +11730,18 @@
   "pneumaticcraft:root": {
     "criteria": {
       "0": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:14:57 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/display_table": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-14 01:14:26 +0000"
     },
     "done": true
   },
@@ -11619,9 +11775,27 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/building_blocks/reinforced_bricks_from_tile_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-14 01:14:26 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/compressed_iron_ingot": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/transfer_gadget": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 01:14:57 +0000"
     },
     "done": true
   },
@@ -11637,6 +11811,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/blue_ice": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_blue": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
@@ -11649,9 +11829,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/transistor": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/wall_lamp_lime": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/capacitor": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
     },
     "done": true
   },
@@ -11670,6 +11862,12 @@
   "pneumaticcraft:recipes/misc/wall_lamp_light_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/packed_ice": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
     },
     "done": true
   },
@@ -11694,6 +11892,12 @@
   "pneumaticcraft:recipes/misc/elevator_frame": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2025-05-14 01:15:35 +0000"
     },
     "done": true
   },
@@ -11733,6 +11937,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/compressed_stone": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/misc/heat_pipe": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
@@ -11742,6 +11952,12 @@
   "pneumaticcraft:recipes/misc/spawner_agitator": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-14 00:57:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/milk_to_slime_balls": {
+    "criteria": {
+      "pressure_chamber_valve": "2025-05-14 01:15:41 +0000"
     },
     "done": true
   },
